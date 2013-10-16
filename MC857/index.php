@@ -11,10 +11,11 @@
 		
 		<fieldset>
 			<legend>Integraliza&ccedil;&atilde;o Curricular</legend>
-			<form name="integralizacao curricular" id="form_integralizacao_curricular" action="Integralizacao.php" method="post" >
+			<form name="integralizacao" id="form_integralizacao" action="control/Integralizacao.php" method="post" >
 				<input type="text" name="ra" id="ra" maxlength="6" />
 				<input type="submit" name="submit" value="Gerar Integraliza&ccedil;&atilde;o" />
 			</form>
 		</fieldset>
+		<div id="integralizacao"></div>
 	</body>
 </html>
