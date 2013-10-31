@@ -41,50 +41,13 @@
 			}
 		}
 		
-		$xml_parser = xml_parser_create();
-		xml_parse_into_struct($xml_parser, Servidor::getCurso(21 /*$aluno["curso"]*/), $curso_xml, $index);
-		xml_parser_free($xml_parser);
+		$curso_xml = xml2array(Servidor::getCurso(21 /*$aluno["curso"]*/));
 		
-		$curso = array("obrigatorias" => array(), "modalidades" => array());
-		
-		$i = 0;
-		$modalidade_counter = 0;
-		foreach ($curso_xml as $data){
-			if ($data["type"]!="cdata"){
-				var_dump($data);
-				print "<br/><br/>";
-				switch ($data["tag"]){
-					case "CURSO":
-						if ($data["type"]=="open"){
-							$curso["cod"] = $data["attributes"]["COD"];
-							$curso["nome"] = $data["attributes"]["NOME"];
-						}
-					break;
-					case "DISCIPLINA":
-						switch ($data["level"]){
-							case "3":
-								$curso["obrigatorias"][$i] = $data["attributes"]["SIGLA"];
-								$i++;
-							break;
-							default:
-							break;
-						}
-					break;
-					case "MODALIDADE":
-						if ($data["type"]=="open"){
-							$curso["modalidades"][$modalidade_counter]["cod"] = substr($data["attributes"]["NOME"], 0, 2);
-							$curso["modalidades"][$modalidade_counter]["nome"] = substr($data["attributes"]["NOME"], 5);
-						}else if ($data["type"]=="close"){
-							$modalidade_counter++;
-						}
-					break;
-				}
-			}
+		foreach ($curso_xml as $i => $data){
+			print "[".$i."]";
+			var_dump($data);
+			print "<br/><br/>";
 		}
-		
-		print "###########################<br/><br/>";
-		
-		var_dump($curso);
 		
 	}
 ?>
