@@ -68,32 +68,37 @@
 				break;
 				case "modalidades":
 					foreach ($child as $modalidade){
-						$curso["modalidades"][$modalidades_counter]["nome"] = (string)$modalidade["nome"];
-						
-						foreach ($modalidade->children() as $k => $dados){
-							switch ($k){
-								case "gruposEletivas":
-									$m = 0;
-									foreach ($dados->children() as $grupoEletivas){
-										$n = 0;
-										$curso["modalidades"][$modalidades_counter]["eletivas"][$m]["cred"] = (string)$grupoEletivas["cred"];
-										foreach ($grupoEletivas->disciplinas->disciplina as $disciplina){
-											$curso["modalidades"][$modalidades_counter]["eletivas"][$m]["disciplinas"][$n] = (string)$disciplina["sigla"];
-											$n++;
+						$cod = substr((string)$modalidade["nome"],0,2);
+						if ($aluno["modalidade"]!=null && $aluno["modalidade"]==$cod){
+							$nome = (string)$modalidade["nome"];
+							$curso["modalidades"][$modalidades_counter]["cod"] = $cod;
+							$curso["modalidades"][$modalidades_counter]["nome"] = $nome;
+							
+							foreach ($modalidade->children() as $k => $dados){
+								switch ($k){
+									case "gruposEletivas":
+										$m = 0;
+										foreach ($dados->children() as $grupoEletivas){
+											$n = 0;
+											$curso["modalidades"][$modalidades_counter]["eletivas"][$m]["cred"] = (string)$grupoEletivas["cred"];
+											foreach ($grupoEletivas->disciplinas->disciplina as $disciplina){
+												$curso["modalidades"][$modalidades_counter]["eletivas"][$m]["disciplinas"][$n] = (string)$disciplina["sigla"];
+												$n++;
+											}
+											$m++;
 										}
-										$m++;
-									}
-								break;
-								case "disciplinas":
-									$m = 0;
-									foreach ($dados->disciplina as $disciplina){
-										$curso["modalidades"][$modalidades_counter]["obrigatorias"][$m] = (string)$disciplina["sigla"];
-										$m++;
-									}
-								break;
+									break;
+									case "disciplinas":
+										$m = 0;
+										foreach ($dados->disciplina as $disciplina){
+											$curso["modalidades"][$modalidades_counter]["obrigatorias"][$m] = (string)$disciplina["sigla"];
+											$m++;
+										}
+									break;
+								}
 							}
+							$modalidades_counter++;
 						}
-						$modalidades_counter++;
 					}
 				break;
 				case "gruposEletivas":
