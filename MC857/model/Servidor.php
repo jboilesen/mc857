@@ -20,7 +20,7 @@
 		
 		public static function getCurso($cod){
 			$request = SERVER_URL."?serv=c&cod=".$cod;
-			return file_get_contents($request);
+			return $request;
 		}
 	}
 ?>
