@@ -35,18 +35,7 @@
 				break;
 				case "DISCIPLINA":
 					if ($data["type"] = "complete"){
-						$sigla = substr($data["attributes"]["SIGLA"], 0, 2);
-						$cod = substr($data["attributes"]["SIGLA"], 2);
-						$creditos = intval($data["attributes"]["CRED"]);
-						
-						if (isset($historico[$sigla]["total"])){
-							$historico[$sigla]["total"]+= $creditos;
-						}else{
-							$historico[$sigla]["total"] = $creditos;
-						}
-						
-						$historico[$sigla][$cod] = $creditos;
-						
+						$historico[$data["attributes"]["SIGLA"]] = intval($data["attributes"]["CRED"]);
 					}
 				break;
 			}
@@ -67,26 +56,55 @@
 		
 		
 		$modalidades_counter = 0;
+		$eletivas_counter = 0;
 		foreach ($xml->children() as $j => $child){
 			switch($j){
 				case "disciplinas":
+					$k = 0;
 					foreach ($child as $disciplina){
-						//print "<p>";
-						//print (string)$disciplina["sigla"];
-						//print "</p><br/><br/>";
+						$curso["obrigatorias"][$k] = (string)$disciplina["sigla"];
+						$k++;
 					}
 				break;
 				case "modalidades":
 					foreach ($child as $modalidade){
 						$curso["modalidades"][$modalidades_counter]["nome"] = (string)$modalidade["nome"];
 						
+						foreach ($modalidade->children() as $k => $dados){
+							switch ($k){
+								case "gruposEletivas":
+									$m = 0;
+									foreach ($dados->children() as $grupoEletivas){
+										$n = 0;
+										$curso["modalidades"][$modalidades_counter]["eletivas"][$m]["cred"] = (string)$grupoEletivas["cred"];
+										foreach ($grupoEletivas->disciplinas->disciplina as $disciplina){
+											$curso["modalidades"][$modalidades_counter]["eletivas"][$m]["disciplinas"][$n] = (string)$disciplina["sigla"];
+											$n++;
+										}
+										$m++;
+									}
+								break;
+								case "disciplinas":
+									$m = 0;
+									foreach ($dados->disciplina as $disciplina){
+										$curso["modalidades"][$modalidades_counter]["obrigatorias"][$m] = (string)$disciplina["sigla"];
+										$m++;
+									}
+								break;
+							}
+						}
+						$modalidades_counter++;
 					}
 				break;
 				case "gruposEletivas":
 					foreach ($child as $grupoEletivas){
-						//print "<p>";
-						//print_r($grupoEletivas);
-						//print "</p>";
+						$curso["eletivas"][$eletivas_counter]["cred"] = intval($grupoEletivas["cred"]);
+						$k = 0;
+						foreach ($grupoEletivas->disciplinas->disciplina as $disciplina){
+							$curso["eletivas"][$eletivas_counter]["disciplinas"][$k] = (string)$disciplina["sigla"];
+							$k++;
+						}
+						$eletivas_counter++;
 					}
 				break;
 			}
