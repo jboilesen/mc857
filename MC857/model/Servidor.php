@@ -22,5 +22,10 @@
 			$request = SERVER_URL."?serv=c&cod=".$cod;
 			return $request;
 		}
+		
+		public static function getDisciplina($disciplina){
+			$request = SERVER_URL."?serv=d&s=".$disciplina;
+			return $request;
+		}
 	}
 ?>

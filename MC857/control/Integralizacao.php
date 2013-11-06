@@ -62,7 +62,9 @@
 				case "disciplinas":
 					$k = 0;
 					foreach ($child as $disciplina){
-						$curso["obrigatorias"][$k] = (string)$disciplina["sigla"];
+						$obrigatoria = (string)$disciplina["sigla"];
+						$xml_obrigatoria = simplexml_load_file(Servidor::getDisciplina($obrigatoria));
+						$curso["obrigatorias"][$obrigatoria] = intval($xml_obrigatoria["cred"]);
 						$k++;
 					}
 				break;
@@ -119,9 +121,6 @@
 		
 		//die();
 		
-		
-		
-
 		$integralizacao = array("aluno" => $aluno,"historico" => $historico, "curso" => $curso);
 		print json_encode($integralizacao);
 		
