@@ -1,0 +1,4651 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cursos>
+  <curso cod="12" nome="Engenharia Civil">
+    <disciplinas>
+      <disciplina sigla="CV101"/>
+      <disciplina sigla="CV141"/>
+      <disciplina sigla="CV151"/>
+      <disciplina sigla="CV201"/>
+      <disciplina sigla="CV202"/>
+      <disciplina sigla="CV211"/>
+      <disciplina sigla="CV301"/>
+      <disciplina sigla="CV311"/>
+      <disciplina sigla="CV312"/>
+      <disciplina sigla="CV321"/>
+      <disciplina sigla="CV332"/>
+      <disciplina sigla="CV351"/>
+      <disciplina sigla="CV401"/>
+      <disciplina sigla="CV402"/>
+      <disciplina sigla="CV411"/>
+      <disciplina sigla="CV421"/>
+      <disciplina sigla="CV422"/>
+      <disciplina sigla="CV431"/>
+      <disciplina sigla="CV450"/>
+      <disciplina sigla="CV501"/>
+      <disciplina sigla="CV511"/>
+      <disciplina sigla="CV521"/>
+      <disciplina sigla="CV522"/>
+      <disciplina sigla="CV531"/>
+      <disciplina sigla="CV532"/>
+      <disciplina sigla="CV541"/>
+      <disciplina sigla="CV612"/>
+      <disciplina sigla="CV613"/>
+      <disciplina sigla="CV621"/>
+      <disciplina sigla="CV622"/>
+      <disciplina sigla="CV631"/>
+      <disciplina sigla="CV632"/>
+      <disciplina sigla="CV633"/>
+      <disciplina sigla="CV641"/>
+      <disciplina sigla="CV701"/>
+      <disciplina sigla="CV702"/>
+      <disciplina sigla="CV712"/>
+      <disciplina sigla="CV713"/>
+      <disciplina sigla="CV714"/>
+      <disciplina sigla="CV721"/>
+      <disciplina sigla="CV722"/>
+      <disciplina sigla="CV741"/>
+      <disciplina sigla="CV811"/>
+      <disciplina sigla="CV812"/>
+      <disciplina sigla="CV813"/>
+      <disciplina sigla="CV814"/>
+      <disciplina sigla="CV821"/>
+      <disciplina sigla="CV822"/>
+      <disciplina sigla="CV823"/>
+      <disciplina sigla="CV831"/>
+      <disciplina sigla="CV832"/>
+      <disciplina sigla="CV841"/>
+      <disciplina sigla="CV950"/>
+      <disciplina sigla="CV951"/>
+      <disciplina sigla="F_128"/>
+      <disciplina sigla="F_129"/>
+      <disciplina sigla="F_229"/>
+      <disciplina sigla="F_328"/>
+      <disciplina sigla="F_329"/>
+      <disciplina sigla="GM420"/>
+      <disciplina sigla="MA111"/>
+      <disciplina sigla="MA141"/>
+      <disciplina sigla="MA211"/>
+      <disciplina sigla="MC102"/>
+      <disciplina sigla="ME203"/>
+      <disciplina sigla="MS211"/>
+      <disciplina sigla="QG102"/>
+    </disciplinas>
+    <gruposEletivas>
+      <grupoEletivas cred="7">
+        <disciplinas>
+          <disciplina sigla="-----"/>
+        </disciplinas>
+      </grupoEletivas>
+      <grupoEletivas cred="2">
+        <disciplinas>
+          <disciplina sigla="HZ291"/>
+          <disciplina sigla="HZ292"/>
+          <disciplina sigla="HZ293"/>
+        </disciplinas>
+      </grupoEletivas>
+    </gruposEletivas>
+    <modalidades>
+      <modalidade nome="EE - Enfase em Estruturas">
+        <disciplinas>
+          <disciplina sigla="CV073"/>
+          <disciplina sigla="CV910"/>
+          <disciplina sigla="CV911"/>
+          <disciplina sigla="CV912"/>
+          <disciplina sigla="CV913"/>
+          <disciplina sigla="CV916"/>
+        </disciplinas>
+        <gruposEletivas>
+          <grupoEletivas cred="12">
+            <disciplinas>
+              <disciplina sigla="CV010"/>
+              <disciplina sigla="CV011"/>
+              <disciplina sigla="CV012"/>
+              <disciplina sigla="CV013"/>
+              <disciplina sigla="CV014"/>
+              <disciplina sigla="CV015"/>
+              <disciplina sigla="CV016"/>
+              <disciplina sigla="CV017"/>
+              <disciplina sigla="CV018"/>
+              <disciplina sigla="CV019"/>
+              <disciplina sigla="CV064"/>
+              <disciplina sigla="CV065"/>
+              <disciplina sigla="CV066"/>
+              <disciplina sigla="CV067"/>
+              <disciplina sigla="CV070"/>
+              <disciplina sigla="CV071"/>
+              <disciplina sigla="CV072"/>
+              <disciplina sigla="CV074"/>
+              <disciplina sigla="CV075"/>
+              <disciplina sigla="CV914"/>
+              <disciplina sigla="CV915"/>
+              <disciplina sigla="CV917"/>
+              <disciplina sigla="CV918"/>
+              <disciplina sigla="CV919"/>
+              <disciplina sigla="CV952"/>
+              <disciplina sigla="CV953"/>
+            </disciplinas>
+          </grupoEletivas>
+        </gruposEletivas>
+      </modalidade>
+      <modalidade nome="EG - Enfase em Recursos Hidricos I">
+        <disciplinas>
+          <disciplina sigla="CV034"/>
+          <disciplina sigla="CV036"/>
+          <disciplina sigla="CV060"/>
+          <disciplina sigla="CV930"/>
+          <disciplina sigla="CV933"/>
+          <disciplina sigla="CV935"/>
+        </disciplinas>
+        <gruposEletivas>
+          <grupoEletivas cred="12">
+            <disciplinas>
+              <disciplina sigla="CV030"/>
+              <disciplina sigla="CV031"/>
+              <disciplina sigla="CV032"/>
+              <disciplina sigla="CV033"/>
+              <disciplina sigla="CV035"/>
+              <disciplina sigla="CV037"/>
+              <disciplina sigla="CV038"/>
+              <disciplina sigla="CV039"/>
+              <disciplina sigla="CV061"/>
+              <disciplina sigla="CV062"/>
+              <disciplina sigla="CV931"/>
+              <disciplina sigla="CV932"/>
+              <disciplina sigla="CV936"/>
+              <disciplina sigla="CV937"/>
+              <disciplina sigla="CV938"/>
+              <disciplina sigla="CV939"/>
+              <disciplina sigla="CV952"/>
+              <disciplina sigla="CV953"/>
+            </disciplinas>
+          </grupoEletivas>
+        </gruposEletivas>
+      </modalidade>
+      <modalidade nome="EH - Enfase em Recursos Hidricos II">
+        <disciplinas>
+          <disciplina sigla="CV931"/>
+          <disciplina sigla="CV932"/>
+          <disciplina sigla="CV933"/>
+          <disciplina sigla="CV934"/>
+          <disciplina sigla="CV936"/>
+          <disciplina sigla="CV937"/>
+        </disciplinas>
+        <gruposEletivas>
+          <grupoEletivas cred="12">
+            <disciplinas>
+              <disciplina sigla="CV030"/>
+              <disciplina sigla="CV031"/>
+              <disciplina sigla="CV032"/>
+              <disciplina sigla="CV033"/>
+              <disciplina sigla="CV034"/>
+              <disciplina sigla="CV035"/>
+              <disciplina sigla="CV036"/>
+              <disciplina sigla="CV037"/>
+              <disciplina sigla="CV038"/>
+              <disciplina sigla="CV039"/>
+              <disciplina sigla="CV060"/>
+              <disciplina sigla="CV061"/>
+              <disciplina sigla="CV062"/>
+              <disciplina sigla="CV930"/>
+              <disciplina sigla="CV935"/>
+              <disciplina sigla="CV938"/>
+              <disciplina sigla="CV952"/>
+              <disciplina sigla="CV953"/>
+            </disciplinas>
+          </grupoEletivas>
+        </gruposEletivas>
+      </modalidade>
+      <modalidade nome="EN - Enfase em Recursos Hidricos III">
+        <disciplinas>
+          <disciplina sigla="CV030"/>
+          <disciplina sigla="CV031"/>
+          <disciplina sigla="CV032"/>
+          <disciplina sigla="CV933"/>
+          <disciplina sigla="CV934"/>
+          <disciplina sigla="CV936"/>
+          <disciplina sigla="CV938"/>
+        </disciplinas>
+        <gruposEletivas>
+          <grupoEletivas cred="12">
+            <disciplinas>
+              <disciplina sigla="CV033"/>
+              <disciplina sigla="CV034"/>
+              <disciplina sigla="CV035"/>
+              <disciplina sigla="CV036"/>
+              <disciplina sigla="CV037"/>
+              <disciplina sigla="CV038"/>
+              <disciplina sigla="CV039"/>
+              <disciplina sigla="CV060"/>
+              <disciplina sigla="CV061"/>
+              <disciplina sigla="CV062"/>
+              <disciplina sigla="CV930"/>
+              <disciplina sigla="CV931"/>
+              <disciplina sigla="CV932"/>
+              <disciplina sigla="CV935"/>
+              <disciplina sigla="CV939"/>
+              <disciplina sigla="CV952"/>
+              <disciplina sigla="CV953"/>
+            </disciplinas>
+          </grupoEletivas>
+        </gruposEletivas>
+      </modalidade>
+      <modalidade nome="EP - Enfase em Gestao do Proj e da Construcao">
+        <disciplinas>
+          <disciplina sigla="CV068"/>
+          <disciplina sigla="CV900"/>
+          <disciplina sigla="CV901"/>
+          <disciplina sigla="CV902"/>
+          <disciplina sigla="CV903"/>
+          <disciplina sigla="CV904"/>
+        </disciplinas>
+        <gruposEletivas>
+          <grupoEletivas cred="12">
+            <disciplinas>
+              <disciplina sigla="CV001"/>
+              <disciplina sigla="CV002"/>
+              <disciplina sigla="CV003"/>
+              <disciplina sigla="CV063"/>
+              <disciplina sigla="CV906"/>
+              <disciplina sigla="CV907"/>
+              <disciplina sigla="CV908"/>
+              <disciplina sigla="CV909"/>
+              <disciplina sigla="CV952"/>
+              <disciplina sigla="CV953"/>
+            </disciplinas>
+          </grupoEletivas>
+        </gruposEletivas>
+      </modalidade>
+      <modalidade nome="ES - Enfase em Saneamento e Ambiente">
+        <disciplinas>
+          <disciplina sigla="CV941"/>
+          <disciplina sigla="CV942"/>
+          <disciplina sigla="CV943"/>
+          <disciplina sigla="CV944"/>
+          <disciplina sigla="CV945"/>
+        </disciplinas>
+        <gruposEletivas>
+          <grupoEletivas cred="12">
+            <disciplinas>
+              <disciplina sigla="CV040"/>
+              <disciplina sigla="CV041"/>
+              <disciplina sigla="CV042"/>
+              <disciplina sigla="CV044"/>
+              <disciplina sigla="CV045"/>
+              <disciplina sigla="CV046"/>
+              <disciplina sigla="CV047"/>
+              <disciplina sigla="CV048"/>
+              <disciplina sigla="CV049"/>
+              <disciplina sigla="CV069"/>
+              <disciplina sigla="CV940"/>
+              <disciplina sigla="CV946"/>
+              <disciplina sigla="CV947"/>
+              <disciplina sigla="CV948"/>
+              <disciplina sigla="CV949"/>
+              <disciplina sigla="CV952"/>
+              <disciplina sigla="CV953"/>
+            </disciplinas>
+          </grupoEletivas>
+        </gruposEletivas>
+      </modalidade>
+      <modalidade nome="ET - Enfase em Transportes e Geotecnia">
+        <disciplinas>
+          <disciplina sigla="CV920"/>
+          <disciplina sigla="CV921"/>
+          <disciplina sigla="CV922"/>
+          <disciplina sigla="CV923"/>
+          <disciplina sigla="CV924"/>
+        </disciplinas>
+        <gruposEletivas>
+          <grupoEletivas cred="12">
+            <disciplinas>
+              <disciplina sigla="CV020"/>
+              <disciplina sigla="CV021"/>
+              <disciplina sigla="CV022"/>
+              <disciplina sigla="CV023"/>
+              <disciplina sigla="CV024"/>
+              <disciplina sigla="CV925"/>
+              <disciplina sigla="CV926"/>
+              <disciplina sigla="CV927"/>
+              <disciplina sigla="CV928"/>
+              <disciplina sigla="CV929"/>
+              <disciplina sigla="CV952"/>
+              <disciplina sigla="CV953"/>
+            </disciplinas>
+          </grupoEletivas>
+        </gruposEletivas>
+      </modalidade>
+    </modalidades>
+  </curso>
+  <curso cod="13" nome="Engenharia de Alimentos">
+    <disciplinas>
+      <disciplina sigla="BM320"/>
+      <disciplina sigla="CE138"/>
+      <disciplina sigla="ET016"/>
+      <disciplina sigla="F_128"/>
+      <disciplina sigla="F_228"/>
+      <disciplina sigla="F_328"/>
+      <disciplina sigla="MA111"/>
+      <disciplina sigla="MA141"/>
+      <disciplina sigla="MA211"/>
+      <disciplina sigla="MA311"/>
+      <disciplina sigla="MC102"/>
+      <disciplina sigla="ME414"/>
+      <disciplina sigla="MS211"/>
+      <disciplina sigla="QA213"/>
+      <disciplina sigla="QF335"/>
+      <disciplina sigla="QG101"/>
+      <disciplina sigla="QO427"/>
+      <disciplina sigla="TA009"/>
+      <disciplina sigla="TA017"/>
+      <disciplina sigla="TA021"/>
+      <disciplina sigla="TA030"/>
+      <disciplina sigla="TA035"/>
+      <disciplina sigla="TA046"/>
+      <disciplina sigla="TA109"/>
+      <disciplina sigla="TA221"/>
+      <disciplina sigla="TA322"/>
+      <disciplina sigla="TA331"/>
+      <disciplina sigla="TA332"/>
+      <disciplina sigla="TA411"/>
+      <disciplina sigla="TA421"/>
+      <disciplina sigla="TA431"/>
+      <disciplina sigla="TA513"/>
+      <disciplina sigla="TA514"/>
+      <disciplina sigla="TA516"/>
+      <disciplina sigla="TA521"/>
+      <disciplina sigla="TA534"/>
+      <disciplina sigla="TA541"/>
+      <disciplina sigla="TA542"/>
+      <disciplina sigla="TA610"/>
+      <disciplina sigla="TA611"/>
+      <disciplina sigla="TA615"/>
+      <disciplina sigla="TA619"/>
+      <disciplina sigla="TA620"/>
+      <disciplina sigla="TA622"/>
+      <disciplina sigla="TA623"/>
+      <disciplina sigla="TA631"/>
+      <disciplina sigla="TA641"/>
+      <disciplina sigla="TA716"/>
+      <disciplina sigla="TA722"/>
+      <disciplina sigla="TA725"/>
+      <disciplina sigla="TA726"/>
+      <disciplina sigla="TA729"/>
+      <disciplina sigla="TA731"/>
+      <disciplina sigla="TA734"/>
+      <disciplina sigla="TA736"/>
+      <disciplina sigla="TA737"/>
+      <disciplina sigla="TA741"/>
+      <disciplina sigla="TA824"/>
+      <disciplina sigla="TA826"/>
+      <disciplina sigla="TA831"/>
+      <disciplina sigla="TA832"/>
+      <disciplina sigla="TA836"/>
+      <disciplina sigla="TA909"/>
+      <disciplina sigla="TA912"/>
+      <disciplina sigla="TA920"/>
+      <disciplina sigla="TA927"/>
+      <disciplina sigla="TA932"/>
+    </disciplinas>
+  </curso>
+  <curso cod="15" nome="curso 15 - Medicina - Curriculo Pleno">
+    <disciplinas>
+      <disciplina sigla="BS110"/>
+      <disciplina sigla="BS111"/>
+      <disciplina sigla="BS210"/>
+      <disciplina sigla="BS310"/>
+      <disciplina sigla="BS410"/>
+      <disciplina sigla="MD127"/>
+      <disciplina sigla="MD128"/>
+      <disciplina sigla="MD131"/>
+      <disciplina sigla="MD132"/>
+      <disciplina sigla="MD133"/>
+      <disciplina sigla="MD134"/>
+      <disciplina sigla="MD135"/>
+      <disciplina sigla="MD136"/>
+      <disciplina sigla="MD138"/>
+      <disciplina sigla="MD139"/>
+      <disciplina sigla="MD141"/>
+      <disciplina sigla="MD142"/>
+      <disciplina sigla="MD148"/>
+      <disciplina sigla="MD241"/>
+      <disciplina sigla="MD242"/>
+      <disciplina sigla="MD243"/>
+      <disciplina sigla="MD248"/>
+      <disciplina sigla="MD341"/>
+      <disciplina sigla="MD342"/>
+      <disciplina sigla="MD343"/>
+      <disciplina sigla="MD344"/>
+      <disciplina sigla="MD348"/>
+      <disciplina sigla="MD441"/>
+      <disciplina sigla="MD442"/>
+      <disciplina sigla="MD443"/>
+      <disciplina sigla="MD444"/>
+      <disciplina sigla="MD445"/>
+      <disciplina sigla="MD448"/>
+      <disciplina sigla="MD542"/>
+      <disciplina sigla="MD543"/>
+      <disciplina sigla="MD544"/>
+      <disciplina sigla="MD546"/>
+      <disciplina sigla="MD548"/>
+      <disciplina sigla="MD642"/>
+      <disciplina sigla="MD643"/>
+      <disciplina sigla="MD644"/>
+      <disciplina sigla="MD646"/>
+      <disciplina sigla="MD648"/>
+      <disciplina sigla="MD748"/>
+      <disciplina sigla="MD752"/>
+      <disciplina sigla="MD753"/>
+      <disciplina sigla="MD754"/>
+      <disciplina sigla="MD757"/>
+      <disciplina sigla="MD758"/>
+      <disciplina sigla="MD941"/>
+      <disciplina sigla="MD942"/>
+      <disciplina sigla="MD943"/>
+      <disciplina sigla="MD944"/>
+      <disciplina sigla="MD945"/>
+      <disciplina sigla="MD949"/>
+    </disciplinas>
+  </curso>
+  <curso cod="16" nome="Ciencias Sociais">
+    <disciplinas>
+      <disciplina sigla="CE131"/>
+      <disciplina sigla="CE730"/>
+      <disciplina sigla="HZ141"/>
+      <disciplina sigla="HZ158"/>
+      <disciplina sigla="HZ161"/>
+      <disciplina sigla="HZ248"/>
+      <disciplina sigla="HZ258"/>
+      <disciplina sigla="HZ263"/>
+      <disciplina sigla="HZ345"/>
+      <disciplina sigla="HZ352"/>
+      <disciplina sigla="HZ358"/>
+      <disciplina sigla="HZ363"/>
+      <disciplina sigla="ME173"/>
+    </disciplinas>
+    <gruposEletivas>
+      <grupoEletivas cred="36">
+        <disciplinas>
+          <disciplina sigla="CE---"/>
+          <disciplina sigla="EF---"/>
+          <disciplina sigla="EL---"/>
+          <disciplina sigla="EP---"/>
+          <disciplina sigla="GF---"/>
+          <disciplina sigla="HG---"/>
+          <disciplina sigla="HH---"/>
+          <disciplina sigla="HL---"/>
+          <disciplina sigla="HZ---"/>
+          <disciplina sigla="LA---"/>
+          <disciplina sigla="TL---"/>
+        </disciplinas>
+      </grupoEletivas>
+      <grupoEletivas cred="8">
+        <disciplinas>
+          <disciplina sigla="-----"/>
+        </disciplinas>
+      </grupoEletivas>
+      <grupoEletivas cred="8">
+        <disciplinas>
+          <disciplina sigla="HH---"/>
+        </disciplinas>
+      </grupoEletivas>
+      <grupoEletivas cred="6">
+        <disciplinas>
+          <disciplina sigla="HG---"/>
+        </disciplinas>
+      </grupoEletivas>
+    </gruposEletivas>
+    <modalidades>
+      <modalidade nome="AA - Bel em Ciencias Sociais - Antropologia">
+        <disciplinas>
+          <disciplina sigla="HZ460"/>
+          <disciplina sigla="HZ465"/>
+          <disciplina sigla="HZ466"/>
+          <disciplina sigla="HZ467"/>
+          <disciplina sigla="HZ468"/>
+        </disciplinas>
+        <gruposEletivas>
+          <grupoEletivas cred="8">
+            <disciplinas>
+              <disciplina sigla="HZ365"/>
+              <disciplina sigla="HZ562"/>
+              <disciplina sigla="HZ565"/>
+              <disciplina sigla="HZ566"/>
+              <disciplina sigla="HZ567"/>
+              <disciplina sigla="HZ568"/>
+              <disciplina sigla="HZ569"/>
+              <disciplina sigla="HZ666"/>
+              <disciplina sigla="HZ667"/>
+              <disciplina sigla="HZ668"/>
+              <disciplina sigla="HZ669"/>
+              <disciplina sigla="HZ766"/>
+              <disciplina sigla="HZ767"/>
+              <disciplina sigla="HZ768"/>
+              <disciplina sigla="HZ769"/>
+              <disciplina sigla="HZ865"/>
+              <disciplina sigla="HZ866"/>
+              <disciplina sigla="HZ867"/>
+              <disciplina sigla="HZ868"/>
+              <disciplina sigla="HZ869"/>
+              <disciplina sigla="HZ962"/>
+            </disciplinas>
+          </grupoEletivas>
+          <grupoEletivas cred="4">
+            <disciplinas>
+              <disciplina sigla="CE---"/>
+              <disciplina sigla="EF---"/>
+              <disciplina sigla="EL---"/>
+              <disciplina sigla="EP---"/>
+              <disciplina sigla="HG---"/>
+              <disciplina sigla="HH---"/>
+              <disciplina sigla="HZ---"/>
+              <disciplina sigla="LA---"/>
+            </disciplinas>
+          </grupoEletivas>
+          <grupoEletivas cred="4">
+            <disciplinas>
+              <disciplina sigla="-----"/>
+            </disciplinas>
+          </grupoEletivas>
+        </gruposEletivas>
+      </modalidade>
+      <modalidade nome="AB - Bel em Ciencias Sociais - Politica">
+        <disciplinas>
+          <disciplina sigla="HZ447"/>
+          <disciplina sigla="HZ546"/>
+        </disciplinas>
+        <gruposEletivas>
+          <grupoEletivas cred="18">
+            <disciplinas>
+              <disciplina sigla="HZ140"/>
+              <disciplina sigla="HZ240"/>
+              <disciplina sigla="HZ249"/>
+              <disciplina sigla="HZ340"/>
+              <disciplina sigla="HZ348"/>
+              <disciplina sigla="HZ440"/>
+              <disciplina sigla="HZ540"/>
+              <disciplina sigla="HZ640"/>
+              <disciplina sigla="HZ740"/>
+              <disciplina sigla="HZ840"/>
+              <disciplina sigla="HZ940"/>
+            </disciplinas>
+          </grupoEletivas>
+          <grupoEletivas cred="4">
+            <disciplinas>
+              <disciplina sigla="CE---"/>
+              <disciplina sigla="EF---"/>
+              <disciplina sigla="EL---"/>
+              <disciplina sigla="EP---"/>
+              <disciplina sigla="HG---"/>
+              <disciplina sigla="HH---"/>
+              <disciplina sigla="HZ---"/>
+              <disciplina sigla="LA---"/>
+            </disciplinas>
+          </grupoEletivas>
+          <grupoEletivas cred="12">
+            <disciplinas>
+              <disciplina sigla="-----"/>
+            </disciplinas>
+          </grupoEletivas>
+        </gruposEletivas>
+      </modalidade>
+      <modalidade nome="AC - Bel em Ciencias Sociais - Sociologia">
+        <disciplinas>
+          <disciplina sigla="HZ555"/>
+          <disciplina sigla="HZ657"/>
+        </disciplinas>
+        <gruposEletivas>
+          <grupoEletivas cred="28">
+            <disciplinas>
+              <disciplina sigla="HZ-5-"/>
+            </disciplinas>
+          </grupoEletivas>
+          <grupoEletivas cred="6">
+            <disciplinas>
+              <disciplina sigla="CE---"/>
+              <disciplina sigla="EF---"/>
+              <disciplina sigla="EL---"/>
+              <disciplina sigla="EP---"/>
+              <disciplina sigla="HG---"/>
+              <disciplina sigla="HH---"/>
+              <disciplina sigla="HZ---"/>
+              <disciplina sigla="LA---"/>
+            </disciplinas>
+          </grupoEletivas>
+        </gruposEletivas>
+      </modalidade>
+      <modalidade nome="AD - Bel em Ciencias Sociais - Geral">
+        <gruposEletivas>
+          <grupoEletivas cred="22">
+            <disciplinas>
+              <disciplina sigla="HZ---"/>
+            </disciplinas>
+          </grupoEletivas>
+          <grupoEletivas cred="12">
+            <disciplinas>
+              <disciplina sigla="CE---"/>
+              <disciplina sigla="EF---"/>
+              <disciplina sigla="EL---"/>
+              <disciplina sigla="EP---"/>
+              <disciplina sigla="HG---"/>
+              <disciplina sigla="HH---"/>
+              <disciplina sigla="HZ---"/>
+              <disciplina sigla="LA---"/>
+            </disciplinas>
+          </grupoEletivas>
+          <grupoEletivas cred="12">
+            <disciplinas>
+              <disciplina sigla="-----"/>
+            </disciplinas>
+          </grupoEletivas>
+        </gruposEletivas>
+      </modalidade>
+      <modalidade nome="AH - Lic em Ciencias Sociais - Geral">
+        <disciplinas>
+          <disciplina sigla="EL774"/>
+          <disciplina sigla="EL874"/>
+          <disciplina sigla="HZ103"/>
+          <disciplina sigla="HZ104"/>
+        </disciplinas>
+        <gruposEletivas>
+          <grupoEletivas cred="8">
+            <disciplinas>
+              <disciplina sigla="HZ---"/>
+            </disciplinas>
+          </grupoEletivas>
+          <grupoEletivas cred="18">
+            <disciplinas>
+              <disciplina sigla="EL142"/>
+              <disciplina sigla="EL211"/>
+              <disciplina sigla="EL485"/>
+              <disciplina sigla="EL511"/>
+              <disciplina sigla="EL683"/>
+            </disciplinas>
+          </grupoEletivas>
+          <grupoEletivas cred="8">
+            <disciplinas>
+              <disciplina sigla="EP125"/>
+              <disciplina sigla="EP141"/>
+              <disciplina sigla="EP142"/>
+              <disciplina sigla="EP151"/>
+              <disciplina sigla="EP158"/>
+              <disciplina sigla="EP164"/>
+              <disciplina sigla="EP170"/>
+              <disciplina sigla="EP171"/>
+              <disciplina sigla="EP230"/>
+              <disciplina sigla="EP240"/>
+              <disciplina sigla="EP243"/>
+              <disciplina sigla="EP343"/>
+              <disciplina sigla="EP366"/>
+              <disciplina sigla="EP368"/>
+              <disciplina sigla="EP408"/>
+              <disciplina sigla="EP409"/>
+              <disciplina sigla="EP441"/>
+              <disciplina sigla="EP444"/>
+              <disciplina sigla="EP445"/>
+              <disciplina sigla="EP504"/>
+              <disciplina sigla="EP600"/>
+              <disciplina sigla="EP601"/>
+              <disciplina sigla="EP602"/>
+              <disciplina sigla="EP603"/>
+              <disciplina sigla="EP604"/>
+              <disciplina sigla="EP606"/>
+              <disciplina sigla="EP607"/>
+              <disciplina sigla="EP641"/>
+              <disciplina sigla="EP644"/>
+              <disciplina sigla="EP844"/>
+              <disciplina sigla="EP992"/>
+              <disciplina sigla="EP994"/>
+            </disciplinas>
+          </grupoEletivas>
+        </gruposEletivas>
+      </modalidade>
+    </modalidades>
+  </curso>
+  <curso cod="16_b" nome="Ciencias Sociais(b)">
+    <disciplinas>
+      <disciplina sigla="CE131"/>
+      <disciplina sigla="CE730"/>
+      <disciplina sigla="HZ141"/>
+      <disciplina sigla="HZ158"/>
+      <disciplina sigla="HZ161"/>
+      <disciplina sigla="HZ248"/>
+      <disciplina sigla="HZ258"/>
+      <disciplina sigla="HZ263"/>
+      <disciplina sigla="HZ345"/>
+      <disciplina sigla="HZ352"/>
+      <disciplina sigla="HZ358"/>
+      <disciplina sigla="HZ363"/>
+      <disciplina sigla="ME173"/>
+    </disciplinas>
+    <gruposEletivas>
+      <grupoEletivas cred="36">
+        <disciplinas>
+          <disciplina sigla="CE---"/>
+          <disciplina sigla="EF---"/>
+          <disciplina sigla="EL---"/>
+          <disciplina sigla="EP---"/>
+          <disciplina sigla="GF---"/>
+          <disciplina sigla="HG---"/>
+          <disciplina sigla="HH---"/>
+          <disciplina sigla="HL---"/>
+          <disciplina sigla="HZ---"/>
+          <disciplina sigla="LA---"/>
+          <disciplina sigla="TL---"/>
+        </disciplinas>
+      </grupoEletivas>
+      <grupoEletivas cred="8">
+        <disciplinas>
+          <disciplina sigla="-----"/>
+        </disciplinas>
+      </grupoEletivas>
+      <grupoEletivas cred="8">
+        <disciplinas>
+          <disciplina sigla="HH---"/>
+        </disciplinas>
+      </grupoEletivas>
+      <grupoEletivas cred="6">
+        <disciplinas>
+          <disciplina sigla="HG---"/>
+        </disciplinas>
+      </grupoEletivas>
+    </gruposEletivas>
+    <modalidades>
+      <modalidade nome="AA - Bel em Ciencias Sociais - Antropologia">
+        <disciplinas>
+          <disciplina sigla="HZ460"/>
+          <disciplina sigla="HZ465"/>
+          <disciplina sigla="HZ466"/>
+          <disciplina sigla="HZ467"/>
+          <disciplina sigla="HZ468"/>
+        </disciplinas>
+        <gruposEletivas>
+          <grupoEletivas cred="8">
+            <disciplinas>
+              <disciplina sigla="HZ365"/>
+              <disciplina sigla="HZ562"/>
+              <disciplina sigla="HZ565"/>
+              <disciplina sigla="HZ566"/>
+              <disciplina sigla="HZ567"/>
+              <disciplina sigla="HZ568"/>
+              <disciplina sigla="HZ569"/>
+              <disciplina sigla="HZ666"/>
+              <disciplina sigla="HZ667"/>
+              <disciplina sigla="HZ668"/>
+              <disciplina sigla="HZ669"/>
+              <disciplina sigla="HZ766"/>
+              <disciplina sigla="HZ767"/>
+              <disciplina sigla="HZ768"/>
+              <disciplina sigla="HZ769"/>
+              <disciplina sigla="HZ865"/>
+              <disciplina sigla="HZ866"/>
+              <disciplina sigla="HZ867"/>
+              <disciplina sigla="HZ868"/>
+              <disciplina sigla="HZ869"/>
+              <disciplina sigla="HZ962"/>
+            </disciplinas>
+          </grupoEletivas>
+          <grupoEletivas cred="4">
+            <disciplinas>
+              <disciplina sigla="CE---"/>
+              <disciplina sigla="EF---"/>
+              <disciplina sigla="EL---"/>
+              <disciplina sigla="EP---"/>
+              <disciplina sigla="HG---"/>
+              <disciplina sigla="HH---"/>
+              <disciplina sigla="HZ---"/>
+              <disciplina sigla="LA---"/>
+            </disciplinas>
+          </grupoEletivas>
+          <grupoEletivas cred="4">
+            <disciplinas>
+              <disciplina sigla="-----"/>
+            </disciplinas>
+          </grupoEletivas>
+        </gruposEletivas>
+      </modalidade>
+      <modalidade nome="AB - Bel em Ciencias Sociais - Politica">
+        <disciplinas>
+          <disciplina sigla="HZ447"/>
+          <disciplina sigla="HZ546"/>
+        </disciplinas>
+        <gruposEletivas>
+          <grupoEletivas cred="18">
+            <disciplinas>
+              <disciplina sigla="HZ140"/>
+              <disciplina sigla="HZ240"/>
+              <disciplina sigla="HZ249"/>
+              <disciplina sigla="HZ340"/>
+              <disciplina sigla="HZ348"/>
+              <disciplina sigla="HZ440"/>
+              <disciplina sigla="HZ540"/>
+              <disciplina sigla="HZ640"/>
+              <disciplina sigla="HZ740"/>
+              <disciplina sigla="HZ840"/>
+              <disciplina sigla="HZ940"/>
+            </disciplinas>
+          </grupoEletivas>
+          <grupoEletivas cred="4">
+            <disciplinas>
+              <disciplina sigla="CE---"/>
+              <disciplina sigla="EF---"/>
+              <disciplina sigla="EL---"/>
+              <disciplina sigla="EP---"/>
+              <disciplina sigla="HG---"/>
+              <disciplina sigla="HH---"/>
+              <disciplina sigla="HZ---"/>
+              <disciplina sigla="LA---"/>
+            </disciplinas>
+          </grupoEletivas>
+          <grupoEletivas cred="12">
+            <disciplinas>
+              <disciplina sigla="-----"/>
+            </disciplinas>
+          </grupoEletivas>
+        </gruposEletivas>
+      </modalidade>
+      <modalidade nome="AC - Bel em Ciencias Sociais - Sociologia">
+        <disciplinas>
+          <disciplina sigla="HZ555"/>
+          <disciplina sigla="HZ657"/>
+        </disciplinas>
+        <gruposEletivas>
+          <grupoEletivas cred="28">
+            <disciplinas>
+              <disciplina sigla="HZ-5-"/>
+            </disciplinas>
+          </grupoEletivas>
+          <grupoEletivas cred="6">
+            <disciplinas>
+              <disciplina sigla="CE---"/>
+              <disciplina sigla="EF---"/>
+              <disciplina sigla="EL---"/>
+              <disciplina sigla="EP---"/>
+              <disciplina sigla="HG---"/>
+              <disciplina sigla="HH---"/>
+              <disciplina sigla="HZ---"/>
+              <disciplina sigla="LA---"/>
+            </disciplinas>
+          </grupoEletivas>
+        </gruposEletivas>
+      </modalidade>
+      <modalidade nome="AD - Bel em Ciencias Sociais - Geral">
+        <gruposEletivas>
+          <grupoEletivas cred="22">
+            <disciplinas>
+              <disciplina sigla="HZ---"/>
+            </disciplinas>
+          </grupoEletivas>
+          <grupoEletivas cred="12">
+            <disciplinas>
+              <disciplina sigla="CE---"/>
+              <disciplina sigla="EF---"/>
+              <disciplina sigla="EL---"/>
+              <disciplina sigla="EP---"/>
+              <disciplina sigla="HG---"/>
+              <disciplina sigla="HH---"/>
+              <disciplina sigla="HZ---"/>
+              <disciplina sigla="LA---"/>
+            </disciplinas>
+          </grupoEletivas>
+          <grupoEletivas cred="12">
+            <disciplinas>
+              <disciplina sigla="-----"/>
+            </disciplinas>
+          </grupoEletivas>
+        </gruposEletivas>
+      </modalidade>
+      <modalidade nome="AH - Lic em Ciencias Sociais - Geral">
+        <disciplinas>
+          <disciplina sigla="EL774"/>
+          <disciplina sigla="EL874"/>
+          <disciplina sigla="HZ103"/>
+          <disciplina sigla="HZ104"/>
+          <disciplina sigla="Disci"/>
+        </disciplinas>
+        <gruposEletivas>
+          <grupoEletivas cred="8">
+            <disciplinas>
+              <disciplina sigla="HZ---"/>
+            </disciplinas>
+          </grupoEletivas>
+          <grupoEletivas cred="18">
+            <disciplinas>
+              <disciplina sigla="EL142"/>
+              <disciplina sigla="EL211"/>
+              <disciplina sigla="EL485"/>
+              <disciplina sigla="EL511"/>
+              <disciplina sigla="EL683"/>
+            </disciplinas>
+          </grupoEletivas>
+          <grupoEletivas cred="8">
+            <disciplinas>
+              <disciplina sigla="EP125"/>
+              <disciplina sigla="EP141"/>
+              <disciplina sigla="EP142"/>
+              <disciplina sigla="EP151"/>
+              <disciplina sigla="EP158"/>
+              <disciplina sigla="EP164"/>
+              <disciplina sigla="EP170"/>
+              <disciplina sigla="EP171"/>
+              <disciplina sigla="EP230"/>
+              <disciplina sigla="EP240"/>
+              <disciplina sigla="EP243"/>
+              <disciplina sigla="EP343"/>
+              <disciplina sigla="EP366"/>
+              <disciplina sigla="EP368"/>
+              <disciplina sigla="EP408"/>
+              <disciplina sigla="EP409"/>
+              <disciplina sigla="EP441"/>
+              <disciplina sigla="EP444"/>
+              <disciplina sigla="EP445"/>
+              <disciplina sigla="EP504"/>
+              <disciplina sigla="EP600"/>
+              <disciplina sigla="EP601"/>
+              <disciplina sigla="EP602"/>
+              <disciplina sigla="EP603"/>
+              <disciplina sigla="EP604"/>
+              <disciplina sigla="EP606"/>
+              <disciplina sigla="EP607"/>
+              <disciplina sigla="EP641"/>
+              <disciplina sigla="EP644"/>
+              <disciplina sigla="EP844"/>
+              <disciplina sigla="EP992"/>
+              <disciplina sigla="EP994"/>
+            </disciplinas>
+          </grupoEletivas>
+        </gruposEletivas>
+      </modalidade>
+    </modalidades>
+  </curso>
+  <curso cod="17" nome="Ciencias Economicas - Diurno">
+    <disciplinas>
+      <disciplina sigla="CE104"/>
+      <disciplina sigla="CE141"/>
+      <disciplina sigla="CE151"/>
+      <disciplina sigla="CE161"/>
+      <disciplina sigla="CE213"/>
+      <disciplina sigla="CE243"/>
+      <disciplina sigla="CE251"/>
+      <disciplina sigla="CE261"/>
+      <disciplina sigla="CE271"/>
+      <disciplina sigla="CE281"/>
+      <disciplina sigla="CE313"/>
+      <disciplina sigla="CE331"/>
+      <disciplina sigla="CE361"/>
+      <disciplina sigla="CE371"/>
+      <disciplina sigla="CE381"/>
+      <disciplina sigla="CE431"/>
+      <disciplina sigla="CE432"/>
+      <disciplina sigla="CE461"/>
+      <disciplina sigla="CE471"/>
+      <disciplina sigla="CE481"/>
+      <disciplina sigla="CE491"/>
+      <disciplina sigla="CE531"/>
+      <disciplina sigla="CE561"/>
+      <disciplina sigla="CE571"/>
+      <disciplina sigla="CE581"/>
+      <disciplina sigla="CE591"/>
+      <disciplina sigla="CE592"/>
+      <disciplina sigla="CE593"/>
+      <disciplina sigla="CE622"/>
+      <disciplina sigla="CE631"/>
+      <disciplina sigla="CE671"/>
+      <disciplina sigla="CE681"/>
+      <disciplina sigla="CE690"/>
+      <disciplina sigla="CE691"/>
+      <disciplina sigla="CE752"/>
+      <disciplina sigla="CE791"/>
+      <disciplina sigla="CE795"/>
+      <disciplina sigla="CE851"/>
+      <disciplina sigla="CE853"/>
+      <disciplina sigla="CE912"/>
+      <disciplina sigla="CE913"/>
+      <disciplina sigla="HZ253"/>
+      <disciplina sigla="MA111"/>
+      <disciplina sigla="ME414"/>
+    </disciplinas>
+    <gruposEletivas>
+      <grupoEletivas cred="16">
+        <disciplinas>
+          <disciplina sigla="CE314"/>
+          <disciplina sigla="CE317"/>
+          <disciplina sigla="CE401"/>
+          <disciplina sigla="CE415"/>
+          <disciplina sigla="CE522"/>
+          <disciplina sigla="CE523"/>
+          <disciplina sigla="CE539"/>
+          <disciplina sigla="CE623"/>
+          <disciplina sigla="CE639"/>
+          <disciplina sigla="CE641"/>
+          <disciplina sigla="CE651"/>
+          <disciplina sigla="CE652"/>
+          <disciplina sigla="CE653"/>
+          <disciplina sigla="CE654"/>
+          <disciplina sigla="CE712"/>
+          <disciplina sigla="CE731"/>
+          <disciplina sigla="CE742"/>
+          <disciplina sigla="CE751"/>
+          <disciplina sigla="CE841"/>
+          <disciplina sigla="CE854"/>
+          <disciplina sigla="CE856"/>
+          <disciplina sigla="CE857"/>
+          <disciplina sigla="CE858"/>
+          <disciplina sigla="CE859"/>
+          <disciplina sigla="CE860"/>
+          <disciplina sigla="CE900"/>
+          <disciplina sigla="CE901"/>
+          <disciplina sigla="CE902"/>
+          <disciplina sigla="CE903"/>
+          <disciplina sigla="CE904"/>
+          <disciplina sigla="CE939"/>
+          <disciplina sigla="CE973"/>
+        </disciplinas>
+      </grupoEletivas>
+      <grupoEletivas cred="8">
+        <disciplinas>
+          <disciplina sigla="-----"/>
+        </disciplinas>
+      </grupoEletivas>
+    </gruposEletivas>
+  </curso>
+  <curso cod="19" nome="Historia">
+    <disciplinas>
+      <disciplina sigla="HH181"/>
+      <disciplina sigla="HH182"/>
+      <disciplina sigla="HH183"/>
+      <disciplina sigla="HH185"/>
+      <disciplina sigla="HH282"/>
+      <disciplina sigla="HH285"/>
+      <disciplina sigla="HH380"/>
+      <disciplina sigla="HH381"/>
+      <disciplina sigla="HH384"/>
+      <disciplina sigla="HH386"/>
+      <disciplina sigla="HH481"/>
+      <disciplina sigla="HH482"/>
+      <disciplina sigla="HH483"/>
+      <disciplina sigla="HH484"/>
+      <disciplina sigla="HH582"/>
+      <disciplina sigla="HH584"/>
+      <disciplina sigla="HH587"/>
+      <disciplina sigla="HH590"/>
+      <disciplina sigla="HH681"/>
+      <disciplina sigla="HH682"/>
+      <disciplina sigla="HH685"/>
+    </disciplinas>
+    <modalidades>
+      <modalidade nome="AA - Bacharelado em Historia">
+        <gruposEletivas>
+          <grupoEletivas cred="36">
+            <disciplinas>
+              <disciplina sigla="HH7--"/>
+            </disciplinas>
+          </grupoEletivas>
+          <grupoEletivas cred="24">
+            <disciplinas>
+              <disciplina sigla="-----"/>
+            </disciplinas>
+          </grupoEletivas>
+        </gruposEletivas>
+      </modalidade>
+      <modalidade nome="AB - Licenciatura em Historia">
+        <disciplinas>
+          <disciplina sigla="EL774"/>
+          <disciplina sigla="EL874"/>
+          <disciplina sigla="HH690"/>
+        </disciplinas>
+        <gruposEletivas>
+          <grupoEletivas cred="36">
+            <disciplinas>
+              <disciplina sigla="HH7--"/>
+            </disciplinas>
+          </grupoEletivas>
+          <grupoEletivas cred="24">
+            <disciplinas>
+              <disciplina sigla="-----"/>
+            </disciplinas>
+          </grupoEletivas>
+          <grupoEletivas cred="18">
+            <disciplinas>
+              <disciplina sigla="EL142"/>
+              <disciplina sigla="EL211"/>
+              <disciplina sigla="EL485"/>
+              <disciplina sigla="EL511"/>
+              <disciplina sigla="EL683"/>
+            </disciplinas>
+          </grupoEletivas>
+        </gruposEletivas>
+      </modalidade>
+    </modalidades>
+    <opcoes>
+    </opcoes>
+  </curso>
+  <curso cod="20" nome="Pedagogia (Diurno)">
+    <disciplinas>
+      <disciplina sigla="EP107"/>
+      <disciplina sigla="EP110"/>
+      <disciplina sigla="EP128"/>
+      <disciplina sigla="EP129"/>
+      <disciplina sigla="EP130"/>
+      <disciplina sigla="EP139"/>
+      <disciplina sigla="EP140"/>
+      <disciplina sigla="EP142"/>
+      <disciplina sigla="EP144"/>
+      <disciplina sigla="EP146"/>
+      <disciplina sigla="EP147"/>
+      <disciplina sigla="EP152"/>
+      <disciplina sigla="EP153"/>
+      <disciplina sigla="EP158"/>
+      <disciplina sigla="EP162"/>
+      <disciplina sigla="EP163"/>
+      <disciplina sigla="EP164"/>
+      <disciplina sigla="EP210"/>
+      <disciplina sigla="EP226"/>
+      <disciplina sigla="EP230"/>
+      <disciplina sigla="EP315"/>
+      <disciplina sigla="EP316"/>
+      <disciplina sigla="EP317"/>
+      <disciplina sigla="EP330"/>
+      <disciplina sigla="EP340"/>
+      <disciplina sigla="EP347"/>
+      <disciplina sigla="EP348"/>
+      <disciplina sigla="EP372"/>
+      <disciplina sigla="EP376"/>
+      <disciplina sigla="EP377"/>
+      <disciplina sigla="EP412"/>
+      <disciplina sigla="EP445"/>
+      <disciplina sigla="EP471"/>
+      <disciplina sigla="EP472"/>
+      <disciplina sigla="EP473"/>
+      <disciplina sigla="EP474"/>
+      <disciplina sigla="EP529"/>
+      <disciplina sigla="EP566"/>
+      <disciplina sigla="EP567"/>
+      <disciplina sigla="EP568"/>
+      <disciplina sigla="EP765"/>
+      <disciplina sigla="EP808"/>
+      <disciplina sigla="EP809"/>
+      <disciplina sigla="EP887"/>
+      <disciplina sigla="EP910"/>
+      <disciplina sigla="EP911"/>
+      <disciplina sigla="EP912"/>
+      <disciplina sigla="EP913"/>
+      <disciplina sigla="EP914"/>
+    </disciplinas>
+    <gruposEletivas>
+      <grupoEletivas cred="2">
+        <disciplinas>
+          <disciplina sigla="EP810"/>
+          <disciplina sigla="EP811"/>
+          <disciplina sigla="EP812"/>
+          <disciplina sigla="EP813"/>
+          <disciplina sigla="EP814"/>
+          <disciplina sigla="EP815"/>
+        </disciplinas>
+      </grupoEletivas>
+      <grupoEletivas cred="12">
+        <disciplinas>
+          <disciplina sigla="-----"/>
+        </disciplinas>
+      </grupoEletivas>
+    </gruposEletivas>
+  </curso>
+  <curso cod="21" nome="Enfermagem">
+    <disciplinas>
+      <disciplina sigla="BA133"/>
+      <disciplina sigla="BB123"/>
+      <disciplina sigla="BB125"/>
+      <disciplina sigla="BF284"/>
+      <disciplina sigla="BH125"/>
+      <disciplina sigla="BH127"/>
+      <disciplina sigla="BI214"/>
+      <disciplina sigla="BM215"/>
+      <disciplina sigla="BP323"/>
+      <disciplina sigla="EN112"/>
+      <disciplina sigla="EN212"/>
+      <disciplina sigla="EN230"/>
+      <disciplina sigla="EN242"/>
+      <disciplina sigla="EN280"/>
+      <disciplina sigla="EN312"/>
+      <disciplina sigla="EN321"/>
+      <disciplina sigla="EN322"/>
+      <disciplina sigla="EN390"/>
+      <disciplina sigla="EN412"/>
+      <disciplina sigla="EN421"/>
+      <disciplina sigla="EN430"/>
+      <disciplina sigla="EN433"/>
+      <disciplina sigla="EN442"/>
+      <disciplina sigla="EN465"/>
+      <disciplina sigla="EN490"/>
+      <disciplina sigla="EN504"/>
+      <disciplina sigla="EN532"/>
+      <disciplina sigla="EN555"/>
+      <disciplina sigla="EN590"/>
+      <disciplina sigla="EN604"/>
+      <disciplina sigla="EN665"/>
+      <disciplina sigla="EN690"/>
+      <disciplina sigla="EN704"/>
+      <disciplina sigla="EN766"/>
+      <disciplina sigla="EN780"/>
+      <disciplina sigla="EN790"/>
+      <disciplina sigla="EN791"/>
+      <disciplina sigla="EN792"/>
+      <disciplina sigla="EN891"/>
+      <disciplina sigla="EN892"/>
+      <disciplina sigla="MD212"/>
+      <disciplina sigla="MD214"/>
+      <disciplina sigla="MD231"/>
+      <disciplina sigla="MD232"/>
+      <disciplina sigla="MD311"/>
+      <disciplina sigla="MD362"/>
+      <disciplina sigla="MD430"/>
+      <disciplina sigla="MD462"/>
+      <disciplina sigla="MD636"/>
+      <disciplina sigla="ME176"/>
+    </disciplinas>
+    <modalidades>
+      <modalidade nome="AA - Bacharelado em Enfermagem">
+        <gruposEletivas>
+          <grupoEletivas cred="6">
+            <disciplinas>
+              <disciplina sigla="AC---"/>
+              <disciplina sigla="AD---"/>
+              <disciplina sigla="AM---"/>
+              <disciplina sigla="AP---"/>
+              <disciplina sigla="AU---"/>
+              <disciplina sigla="B----"/>
+              <disciplina sigla="CE---"/>
+              <disciplina sigla="CS---"/>
+              <disciplina sigla="D----"/>
+              <disciplina sigla="EA---"/>
+              <disciplina sigla="EC---"/>
+              <disciplina sigla="EE---"/>
+              <disciplina sigla="EF---"/>
+              <disciplina sigla="EM---"/>
+              <disciplina sigla="EQ---"/>
+              <disciplina sigla="ES---"/>
+              <disciplina sigla="ET---"/>
+              <disciplina sigla="F----"/>
+              <disciplina sigla="FA---"/>
+              <disciplina sigla="FN---"/>
+              <disciplina sigla="FP---"/>
+              <disciplina sigla="FR---"/>
+              <disciplina sigla="G----"/>
+              <disciplina sigla="HG---"/>
+              <disciplina sigla="HH---"/>
+              <disciplina sigla="HL---"/>
+              <disciplina sigla="HZ---"/>
+              <disciplina sigla="LA---"/>
+              <disciplina sigla="MA---"/>
+              <disciplina sigla="MC---"/>
+              <disciplina sigla="MD---"/>
+              <disciplina sigla="ME---"/>
+              <disciplina sigla="MH---"/>
+              <disciplina sigla="MS---"/>
+              <disciplina sigla="MU---"/>
+              <disciplina sigla="Q----"/>
+              <disciplina sigla="TA---"/>
+              <disciplina sigla="TL---"/>
+            </disciplinas>
+          </grupoEletivas>
+          <grupoEletivas cred="6">
+            <disciplinas>
+              <disciplina sigla="EL---"/>
+              <disciplina sigla="EP---"/>
+            </disciplinas>
+          </grupoEletivas>
+          <grupoEletivas cred="6">
+            <disciplinas>
+              <disciplina sigla="EN303"/>
+              <disciplina sigla="EN304"/>
+              <disciplina sigla="EN902"/>
+              <disciplina sigla="EN903"/>
+              <disciplina sigla="EN904"/>
+              <disciplina sigla="EN905"/>
+              <disciplina sigla="EN906"/>
+              <disciplina sigla="EN907"/>
+              <disciplina sigla="EN908"/>
+              <disciplina sigla="EN909"/>
+              <disciplina sigla="EN910"/>
+              <disciplina sigla="EN911"/>
+              <disciplina sigla="EN912"/>
+              <disciplina sigla="EN913"/>
+            </disciplinas>
+          </grupoEletivas>
+        </gruposEletivas>
+      </modalidade>
+      <modalidade nome="AB - Licenciatura em Enfermagem">
+        <disciplinas>
+          <disciplina sigla="EL206"/>
+          <disciplina sigla="EL211"/>
+          <disciplina sigla="EL511"/>
+          <disciplina sigla="EL683"/>
+          <disciplina sigla="EL706"/>
+          <disciplina sigla="EL774"/>
+          <disciplina sigla="EL876"/>
+        </disciplinas>
+      </modalidade>
+    </modalidades>
+  </curso>
+  <curso cod="23" nome="curso 23 - Danca - Curriculo Pleno">
+    <disciplinas>
+      <disciplina sigla="AD011"/>
+      <disciplina sigla="AD012"/>
+      <disciplina sigla="AD021"/>
+      <disciplina sigla="AD022"/>
+      <disciplina sigla="AD023"/>
+      <disciplina sigla="AD024"/>
+      <disciplina sigla="AD025"/>
+      <disciplina sigla="AD026"/>
+      <disciplina sigla="AD030"/>
+      <disciplina sigla="AD041"/>
+      <disciplina sigla="AD042"/>
+      <disciplina sigla="AD043"/>
+      <disciplina sigla="AD044"/>
+      <disciplina sigla="AD045"/>
+      <disciplina sigla="AD046"/>
+      <disciplina sigla="AD047"/>
+      <disciplina sigla="AD048"/>
+      <disciplina sigla="AD051"/>
+      <disciplina sigla="AD052"/>
+      <disciplina sigla="AD053"/>
+      <disciplina sigla="AD054"/>
+      <disciplina sigla="AD055"/>
+      <disciplina sigla="AD056"/>
+      <disciplina sigla="AD061"/>
+      <disciplina sigla="AD062"/>
+      <disciplina sigla="AD116"/>
+      <disciplina sigla="AD135"/>
+      <disciplina sigla="AD235"/>
+      <disciplina sigla="AD335"/>
+      <disciplina sigla="AD421"/>
+      <disciplina sigla="AD435"/>
+      <disciplina sigla="AD521"/>
+      <disciplina sigla="AD601"/>
+      <disciplina sigla="AR101"/>
+      <disciplina sigla="AR301"/>
+      <disciplina sigla="BF223"/>
+      <disciplina sigla="EF920"/>
+      <disciplina sigla="EF921"/>
+    </disciplinas>
+    <gruposEletivas>
+      <grupoEletivas cred="4">
+        <disciplinas>
+          <disciplina sigla="AC---"/>
+          <disciplina sigla="AD---"/>
+          <disciplina sigla="AP---"/>
+          <disciplina sigla="AR---"/>
+          <disciplina sigla="CS---"/>
+          <disciplina sigla="ML---"/>
+          <disciplina sigla="MP---"/>
+          <disciplina sigla="MU---"/>
+        </disciplinas>
+      </grupoEletivas>
+      <grupoEletivas cred="4">
+        <disciplinas>
+          <disciplina sigla="-----"/>
+        </disciplinas>
+      </grupoEletivas>
+      <grupoEletivas cred="2">
+        <disciplinas>
+          <disciplina sigla="AC---"/>
+          <disciplina sigla="AP---"/>
+          <disciplina sigla="AR---"/>
+          <disciplina sigla="CS---"/>
+          <disciplina sigla="ML---"/>
+          <disciplina sigla="MP---"/>
+          <disciplina sigla="MU---"/>
+        </disciplinas>
+      </grupoEletivas>
+    </gruposEletivas>
+    <modalidades>
+      <modalidade nome="AA - Bacharelado em Danca">
+        <gruposEletivas>
+          <grupoEletivas cred="0">
+            <disciplinas>
+              <disciplina sigla="-----"/>
+            </disciplinas>
+          </grupoEletivas>
+        </gruposEletivas>
+      </modalidade>
+      <modalidade nome="AB - Licenciatura em Artes - Danca">
+        <disciplinas>
+          <disciplina sigla="AD071"/>
+          <disciplina sigla="AD072"/>
+          <disciplina sigla="AD081"/>
+          <disciplina sigla="AD082"/>
+          <disciplina sigla="AR501"/>
+          <disciplina sigla="EL211"/>
+          <disciplina sigla="EL511"/>
+          <disciplina sigla="EL683"/>
+          <disciplina sigla="EL774"/>
+          <disciplina sigla="EL874"/>
+        </disciplinas>
+      </modalidade>
+    </modalidades>
+  </curso>
+  <curso cod="26" nome="Artes Cenicas">
+    <disciplinas>
+      <disciplina sigla="AC004"/>
+      <disciplina sigla="AC007"/>
+      <disciplina sigla="AC008"/>
+      <disciplina sigla="AC009"/>
+      <disciplina sigla="AC010"/>
+      <disciplina sigla="AC011"/>
+      <disciplina sigla="AC012"/>
+      <disciplina sigla="AC105"/>
+      <disciplina sigla="AC109"/>
+      <disciplina sigla="AC112"/>
+      <disciplina sigla="AC113"/>
+      <disciplina sigla="AC119"/>
+      <disciplina sigla="AC128"/>
+      <disciplina sigla="AC142"/>
+      <disciplina sigla="AC143"/>
+      <disciplina sigla="AC148"/>
+      <disciplina sigla="AC150"/>
+      <disciplina sigla="AC170"/>
+      <disciplina sigla="AC180"/>
+      <disciplina sigla="AC205"/>
+      <disciplina sigla="AC209"/>
+      <disciplina sigla="AC212"/>
+      <disciplina sigla="AC213"/>
+      <disciplina sigla="AC218"/>
+      <disciplina sigla="AC219"/>
+      <disciplina sigla="AC228"/>
+      <disciplina sigla="AC242"/>
+      <disciplina sigla="AC243"/>
+      <disciplina sigla="AC248"/>
+      <disciplina sigla="AC250"/>
+      <disciplina sigla="AC270"/>
+      <disciplina sigla="AC280"/>
+      <disciplina sigla="AC310"/>
+      <disciplina sigla="AC311"/>
+      <disciplina sigla="AC313"/>
+      <disciplina sigla="AC314"/>
+      <disciplina sigla="AC319"/>
+      <disciplina sigla="AC320"/>
+      <disciplina sigla="AC330"/>
+      <disciplina sigla="AC410"/>
+      <disciplina sigla="AC411"/>
+      <disciplina sigla="AC413"/>
+      <disciplina sigla="AC420"/>
+      <disciplina sigla="AC430"/>
+      <disciplina sigla="AC511"/>
+      <disciplina sigla="AC555"/>
+      <disciplina sigla="AC556"/>
+      <disciplina sigla="AC611"/>
+      <disciplina sigla="AC666"/>
+      <disciplina sigla="AC667"/>
+      <disciplina sigla="AC777"/>
+      <disciplina sigla="AC778"/>
+      <disciplina sigla="AC888"/>
+      <disciplina sigla="AC889"/>
+      <disciplina sigla="AC890"/>
+      <disciplina sigla="AC891"/>
+    </disciplinas>
+    <gruposEletivas>
+      <grupoEletivas cred="4">
+        <disciplinas>
+          <disciplina sigla="AC001"/>
+          <disciplina sigla="AC002"/>
+          <disciplina sigla="AC003"/>
+          <disciplina sigla="AC121"/>
+          <disciplina sigla="AC160"/>
+          <disciplina sigla="AC260"/>
+          <disciplina sigla="AC360"/>
+          <disciplina sigla="AC460"/>
+        </disciplinas>
+      </grupoEletivas>
+      <grupoEletivas cred="4">
+        <disciplinas>
+          <disciplina sigla="AD---"/>
+          <disciplina sigla="AP---"/>
+          <disciplina sigla="AR---"/>
+          <disciplina sigla="CS---"/>
+          <disciplina sigla="MU---"/>
+        </disciplinas>
+      </grupoEletivas>
+    </gruposEletivas>
+  </curso>
+  <curso cod="27" nome="Educacao Fisica Diurno">
+    <disciplinas>
+      <disciplina sigla="BA110"/>
+      <disciplina sigla="BA210"/>
+      <disciplina sigla="BB110"/>
+      <disciplina sigla="BF310"/>
+      <disciplina sigla="BF410"/>
+      <disciplina sigla="EF109"/>
+      <disciplina sigla="EF112"/>
+      <disciplina sigla="EF113"/>
+      <disciplina sigla="EF114"/>
+      <disciplina sigla="EF115"/>
+      <disciplina sigla="EF116"/>
+      <disciplina sigla="EF209"/>
+      <disciplina sigla="EF212"/>
+      <disciplina sigla="EF213"/>
+      <disciplina sigla="EF214"/>
+      <disciplina sigla="EF215"/>
+      <disciplina sigla="EF309"/>
+      <disciplina sigla="EF312"/>
+      <disciplina sigla="EF313"/>
+      <disciplina sigla="EF314"/>
+      <disciplina sigla="EF315"/>
+      <disciplina sigla="EF316"/>
+      <disciplina sigla="EF411"/>
+      <disciplina sigla="EF412"/>
+      <disciplina sigla="EF413"/>
+      <disciplina sigla="EF414"/>
+      <disciplina sigla="EF415"/>
+      <disciplina sigla="EF416"/>
+      <disciplina sigla="EF511"/>
+      <disciplina sigla="EF512"/>
+      <disciplina sigla="EF513"/>
+      <disciplina sigla="EF514"/>
+      <disciplina sigla="EF611"/>
+      <disciplina sigla="EF612"/>
+      <disciplina sigla="EF613"/>
+      <disciplina sigla="EF614"/>
+      <disciplina sigla="EF711"/>
+      <disciplina sigla="EF714"/>
+      <disciplina sigla="EF811"/>
+      <disciplina sigla="EF814"/>
+      <disciplina sigla="EL683"/>
+    </disciplinas>
+    <gruposEletivas>
+      <grupoEletivas cred="10">
+        <disciplinas>
+          <disciplina sigla="EF428"/>
+          <disciplina sigla="EF441"/>
+          <disciplina sigla="EF442"/>
+          <disciplina sigla="EF443"/>
+          <disciplina sigla="EF444"/>
+          <disciplina sigla="EF445"/>
+          <disciplina sigla="EF446"/>
+          <disciplina sigla="EF447"/>
+          <disciplina sigla="EF449"/>
+          <disciplina sigla="EF450"/>
+          <disciplina sigla="EF451"/>
+        </disciplinas>
+      </grupoEletivas>
+    </gruposEletivas>
+    <modalidades>
+      <modalidade nome="AB - Licenciatura em Educacao Fisica">
+        <disciplinas>
+          <disciplina sigla="EF521"/>
+          <disciplina sigla="EF621"/>
+          <disciplina sigla="EF622"/>
+          <disciplina sigla="EF722"/>
+          <disciplina sigla="EF723"/>
+          <disciplina sigla="EF822"/>
+          <disciplina sigla="EL211"/>
+          <disciplina sigla="EL511"/>
+          <disciplina sigla="EL774"/>
+          <disciplina sigla="EL874"/>
+        </disciplinas>
+        <gruposEletivas>
+          <grupoEletivas cred="16">
+            <disciplinas>
+              <disciplina sigla="-----"/>
+            </disciplinas>
+          </grupoEletivas>
+        </gruposEletivas>
+      </modalidade>
+      <modalidade nome="AF_- Bacharelado em Educacao Fisica">
+        <disciplinas>
+          <disciplina sigla="EF531"/>
+          <disciplina sigla="EF532"/>
+          <disciplina sigla="EF631"/>
+          <disciplina sigla="EF632"/>
+          <disciplina sigla="EF731"/>
+          <disciplina sigla="EF732"/>
+          <disciplina sigla="EF831"/>
+          <disciplina sigla="EF832"/>
+        </disciplinas>
+        <gruposEletivas>
+          <grupoEletivas cred="12">
+            <disciplinas>
+              <disciplina sigla="EF641"/>
+              <disciplina sigla="EF642"/>
+              <disciplina sigla="EF643"/>
+              <disciplina sigla="EF644"/>
+              <disciplina sigla="EF645"/>
+              <disciplina sigla="EF646"/>
+              <disciplina sigla="EF647"/>
+              <disciplina sigla="EF648"/>
+              <disciplina sigla="EF649"/>
+              <disciplina sigla="EF651"/>
+              <disciplina sigla="EF661"/>
+            </disciplinas>
+          </grupoEletivas>
+          <grupoEletivas cred="22">
+            <disciplinas>
+              <disciplina sigla="-----"/>
+            </disciplinas>
+          </grupoEletivas>
+        </gruposEletivas>
+      </modalidade>
+    </modalidades>
+  </curso>
+  <curso cod="28" nome="Matematica Aplicada e Computacional">
+    <disciplinas>
+      <disciplina sigla="F_128"/>
+      <disciplina sigla="F_129"/>
+      <disciplina sigla="F_228"/>
+      <disciplina sigla="F_229"/>
+      <disciplina sigla="F_315"/>
+      <disciplina sigla="F_328"/>
+      <disciplina sigla="F_329"/>
+      <disciplina sigla="FM003"/>
+      <disciplina sigla="MA044"/>
+      <disciplina sigla="MA111"/>
+      <disciplina sigla="MA141"/>
+      <disciplina sigla="MA211"/>
+      <disciplina sigla="MA311"/>
+      <disciplina sigla="MA327"/>
+      <disciplina sigla="MA502"/>
+      <disciplina sigla="MC102"/>
+      <disciplina sigla="MC202"/>
+      <disciplina sigla="ME210"/>
+      <disciplina sigla="ME310"/>
+      <disciplina sigla="MS149"/>
+      <disciplina sigla="MS211"/>
+      <disciplina sigla="MS328"/>
+      <disciplina sigla="MS428"/>
+      <disciplina sigla="MS512"/>
+      <disciplina sigla="MS550"/>
+      <disciplina sigla="MS629"/>
+      <disciplina sigla="MS650"/>
+    </disciplinas>
+    <gruposEletivas>
+      <grupoEletivas cred="36">
+        <disciplinas>
+          <disciplina sigla="F_415"/>
+          <disciplina sigla="F_428"/>
+          <disciplina sigla="F_502"/>
+          <disciplina sigla="F_589"/>
+          <disciplina sigla="F_689"/>
+          <disciplina sigla="MA602"/>
+          <disciplina sigla="MA604"/>
+          <disciplina sigla="MA719"/>
+          <disciplina sigla="ME320"/>
+          <disciplina sigla="ME420"/>
+          <disciplina sigla="ME430"/>
+          <disciplina sigla="ME501"/>
+          <disciplina sigla="ME524"/>
+          <disciplina sigla="MS317"/>
+          <disciplina sigla="MS329"/>
+          <disciplina sigla="MS416"/>
+          <disciplina sigla="MS431"/>
+          <disciplina sigla="MS480"/>
+          <disciplina sigla="MS515"/>
+          <disciplina sigla="MS519"/>
+          <disciplina sigla="MS520"/>
+          <disciplina sigla="MS529"/>
+          <disciplina sigla="MS580"/>
+          <disciplina sigla="MS602"/>
+          <disciplina sigla="MS612"/>
+          <disciplina sigla="MS614"/>
+          <disciplina sigla="MS620"/>
+          <disciplina sigla="MS680"/>
+          <disciplina sigla="MS712"/>
+          <disciplina sigla="MS714"/>
+          <disciplina sigla="MS715"/>
+          <disciplina sigla="MS720"/>
+          <disciplina sigla="MS728"/>
+          <disciplina sigla="MS750"/>
+          <disciplina sigla="MS777"/>
+          <disciplina sigla="MS780"/>
+          <disciplina sigla="MS820"/>
+          <disciplina sigla="MS828"/>
+          <disciplina sigla="MS850"/>
+          <disciplina sigla="MS877"/>
+          <disciplina sigla="MS901"/>
+          <disciplina sigla="MS911"/>
+          <disciplina sigla="MS915"/>
+          <disciplina sigla="MS950"/>
+          <disciplina sigla="MS960"/>
+          <disciplina sigla="MS970"/>
+          <disciplina sigla="MS980"/>
+          <disciplina sigla="MS991"/>
+          <disciplina sigla="MS992"/>
+          <disciplina sigla="MS993"/>
+          <disciplina sigla="MC---"/>
+        </disciplinas>
+      </grupoEletivas>
+      <grupoEletivas cred="12">
+        <disciplinas>
+          <disciplina sigla="-----"/>
+        </disciplinas>
+      </grupoEletivas>
+    </gruposEletivas>
+  </curso>
+  <curso cod="29" nome="Licenciatura em Matematica">
+    <disciplinas>
+      <disciplina sigla="EL211"/>
+      <disciplina sigla="EL284"/>
+      <disciplina sigla="EL511"/>
+      <disciplina sigla="EL683"/>
+      <disciplina sigla="EL684"/>
+      <disciplina sigla="EL774"/>
+      <disciplina sigla="EL874"/>
+      <disciplina sigla="EL883"/>
+      <disciplina sigla="F_128"/>
+      <disciplina sigla="F_228"/>
+      <disciplina sigla="MA044"/>
+      <disciplina sigla="MA109"/>
+      <disciplina sigla="MA111"/>
+      <disciplina sigla="MA141"/>
+      <disciplina sigla="MA148"/>
+      <disciplina sigla="MA211"/>
+      <disciplina sigla="MA220"/>
+      <disciplina sigla="MA224"/>
+      <disciplina sigla="MA311"/>
+      <disciplina sigla="MA327"/>
+      <disciplina sigla="MA502"/>
+      <disciplina sigla="MA520"/>
+      <disciplina sigla="MA553"/>
+      <disciplina sigla="MA673"/>
+      <disciplina sigla="MA770"/>
+      <disciplina sigla="MA811"/>
+      <disciplina sigla="MA812"/>
+      <disciplina sigla="MA813"/>
+      <disciplina sigla="MA901"/>
+      <disciplina sigla="MA902"/>
+      <disciplina sigla="MC102"/>
+      <disciplina sigla="ME951"/>
+      <disciplina sigla="MS211"/>
+    </disciplinas>
+    <gruposEletivas>
+      <grupoEletivas cred="8">
+        <disciplinas>
+          <disciplina sigla="-----"/>
+        </disciplinas>
+      </grupoEletivas>
+      <grupoEletivas cred="20">
+        <disciplinas>
+          <disciplina sigla="MA---"/>
+          <disciplina sigla="ME---"/>
+          <disciplina sigla="MS---"/>
+        </disciplinas>
+      </grupoEletivas>
+      <grupoEletivas cred="6">
+        <disciplinas>
+          <disciplina sigla="MA225"/>
+          <disciplina sigla="MA741"/>
+          <disciplina sigla="MA742"/>
+        </disciplinas>
+      </grupoEletivas>
+    </gruposEletivas>
+  </curso>
+  <curso cod="30" nome="curso 30 - Filosofia - Curriculo Pleno">
+    <disciplinas>
+      <disciplina sigla="HG107"/>
+      <disciplina sigla="HG108"/>
+      <disciplina sigla="HG207"/>
+      <disciplina sigla="HG208"/>
+      <disciplina sigla="HG301"/>
+      <disciplina sigla="HG302"/>
+      <disciplina sigla="HG303"/>
+      <disciplina sigla="HG304"/>
+      <disciplina sigla="HG401"/>
+      <disciplina sigla="HG402"/>
+      <disciplina sigla="HG403"/>
+      <disciplina sigla="HG404"/>
+    </disciplinas>
+    <gruposEletivas>
+      <grupoEletivas cred="8">
+        <disciplinas>
+          <disciplina sigla="CE---"/>
+          <disciplina sigla="HH---"/>
+          <disciplina sigla="HZ---"/>
+        </disciplinas>
+      </grupoEletivas>
+    </gruposEletivas>
+    <modalidades>
+      <modalidade nome="AA - Bacharelado em Filosofia">
+        <gruposEletivas>
+          <grupoEletivas cred="60">
+            <disciplinas>
+              <disciplina sigla="HG---"/>
+            </disciplinas>
+          </grupoEletivas>
+          <grupoEletivas cred="32">
+            <disciplinas>
+              <disciplina sigla="-----"/>
+            </disciplinas>
+          </grupoEletivas>
+        </gruposEletivas>
+      </modalidade>
+      <modalidade nome="AB - Licenciatura em Filosofia">
+        <disciplinas>
+          <disciplina sigla="EL774"/>
+          <disciplina sigla="EL874"/>
+          <disciplina sigla="HG861"/>
+          <disciplina sigla="HG862"/>
+        </disciplinas>
+        <gruposEletivas>
+          <grupoEletivas cred="18">
+            <disciplinas>
+              <disciplina sigla="EL142"/>
+              <disciplina sigla="EL211"/>
+              <disciplina sigla="EL485"/>
+              <disciplina sigla="EL511"/>
+              <disciplina sigla="EL683"/>
+            </disciplinas>
+          </grupoEletivas>
+          <grupoEletivas cred="36">
+            <disciplinas>
+              <disciplina sigla="HG---"/>
+            </disciplinas>
+          </grupoEletivas>
+          <grupoEletivas cred="28">
+            <disciplinas>
+              <disciplina sigla="-----"/>
+            </disciplinas>
+          </grupoEletivas>
+        </gruposEletivas>
+      </modalidade>
+    </modalidades>
+    <opcoes>
+    </opcoes>
+  </curso>
+  <curso cod="34" nome="Engenharia de Computacao">
+    <disciplinas>
+      <disciplina sigla="BE310"/>
+      <disciplina sigla="CE304"/>
+      <disciplina sigla="CE738"/>
+      <disciplina sigla="CE838"/>
+      <disciplina sigla="EA044"/>
+      <disciplina sigla="EA513"/>
+      <disciplina sigla="EA772"/>
+      <disciplina sigla="EE400"/>
+      <disciplina sigla="EE530"/>
+      <disciplina sigla="EE531"/>
+      <disciplina sigla="EM423"/>
+      <disciplina sigla="EM524"/>
+      <disciplina sigla="F_128"/>
+      <disciplina sigla="F_129"/>
+      <disciplina sigla="F_228"/>
+      <disciplina sigla="F_229"/>
+      <disciplina sigla="F_315"/>
+      <disciplina sigla="F_328"/>
+      <disciplina sigla="F_329"/>
+      <disciplina sigla="F_428"/>
+      <disciplina sigla="F_429"/>
+      <disciplina sigla="HZ291"/>
+      <disciplina sigla="LA122"/>
+      <disciplina sigla="MA111"/>
+      <disciplina sigla="MA141"/>
+      <disciplina sigla="MA211"/>
+      <disciplina sigla="MA311"/>
+      <disciplina sigla="MA327"/>
+      <disciplina sigla="MC102"/>
+      <disciplina sigla="MC202"/>
+      <disciplina sigla="MC326"/>
+      <disciplina sigla="MC336"/>
+      <disciplina sigla="MC348"/>
+      <disciplina sigla="MC404"/>
+      <disciplina sigla="MC448"/>
+      <disciplina sigla="ME323"/>
+      <disciplina sigla="MS211"/>
+    </disciplinas>
+    <modalidades>
+      <modalidade nome="AA - Sistemas de Computacao">
+        <disciplinas>
+          <disciplina sigla="CE839"/>
+          <disciplina sigla="MC011"/>
+          <disciplina sigla="MC030"/>
+          <disciplina sigla="MC436"/>
+          <disciplina sigla="MC514"/>
+          <disciplina sigla="MC536"/>
+          <disciplina sigla="MC548"/>
+          <disciplina sigla="MC613"/>
+          <disciplina sigla="MC714"/>
+          <disciplina sigla="MC715"/>
+          <disciplina sigla="MC722"/>
+          <disciplina sigla="MC723"/>
+          <disciplina sigla="MC750"/>
+          <disciplina sigla="MC822"/>
+          <disciplina sigla="MC823"/>
+          <disciplina sigla="MC906"/>
+          <disciplina sigla="MC910"/>
+        </disciplinas>
+        <gruposEletivas>
+          <grupoEletivas cred="29">
+            <disciplinas>
+              <disciplina sigla="-----"/>
+            </disciplinas>
+          </grupoEletivas>
+          <grupoEletivas cred="12">
+            <disciplinas>
+              <disciplina sigla="MC018"/>
+              <disciplina sigla="MC019"/>
+              <disciplina sigla="MC020"/>
+              <disciplina sigla="MC040"/>
+              <disciplina sigla="MC041"/>
+            </disciplinas>
+          </grupoEletivas>
+          <grupoEletivas cred="4">
+            <disciplinas>
+              <disciplina sigla="MC919"/>
+              <disciplina sigla="MC920"/>
+              <disciplina sigla="MC930"/>
+            </disciplinas>
+          </grupoEletivas>
+        </gruposEletivas>
+      </modalidade>
+      <modalidade nome="AB - Sistemas e Processos Industriais">
+        <disciplinas>
+          <disciplina sigla="EA006"/>
+          <disciplina sigla="EA072"/>
+          <disciplina sigla="EA074"/>
+          <disciplina sigla="EA078"/>
+          <disciplina sigla="EA079"/>
+          <disciplina sigla="EA611"/>
+          <disciplina sigla="EA614"/>
+          <disciplina sigla="EA616"/>
+          <disciplina sigla="EA619"/>
+          <disciplina sigla="EA721"/>
+          <disciplina sigla="EA722"/>
+          <disciplina sigla="EA773"/>
+          <disciplina sigla="EA870"/>
+          <disciplina sigla="EA876"/>
+          <disciplina sigla="EA878"/>
+          <disciplina sigla="EA960"/>
+          <disciplina sigla="EA976"/>
+          <disciplina sigla="EA977"/>
+          <disciplina sigla="EA979"/>
+          <disciplina sigla="EE610"/>
+          <disciplina sigla="EE881"/>
+          <disciplina sigla="EE882"/>
+          <disciplina sigla="MC526"/>
+        </disciplinas>
+        <gruposEletivas>
+          <grupoEletivas cred="21">
+            <disciplinas>
+              <disciplina sigla="-----"/>
+            </disciplinas>
+          </grupoEletivas>
+          <grupoEletivas cred="12">
+            <disciplinas>
+              <disciplina sigla="EE017"/>
+              <disciplina sigla="EE015"/>
+              <disciplina sigla="EE016"/>
+            </disciplinas>
+          </grupoEletivas>
+        </gruposEletivas>
+      </modalidade>
+    </modalidades>
+  </curso>
+  <curso cod="36" nome="Superior de Tecnologia em Informatica Noturno">
+    <disciplinas>
+      <disciplina sigla="ST008"/>
+      <disciplina sigla="ST113"/>
+      <disciplina sigla="ST118"/>
+      <disciplina sigla="ST119"/>
+      <disciplina sigla="ST120"/>
+      <disciplina sigla="ST161"/>
+      <disciplina sigla="ST164"/>
+      <disciplina sigla="ST211"/>
+      <disciplina sigla="ST262"/>
+      <disciplina sigla="ST263"/>
+      <disciplina sigla="ST264"/>
+      <disciplina sigla="ST363"/>
+      <disciplina sigla="ST364"/>
+      <disciplina sigla="ST365"/>
+      <disciplina sigla="ST462"/>
+      <disciplina sigla="ST463"/>
+      <disciplina sigla="ST464"/>
+      <disciplina sigla="ST466"/>
+      <disciplina sigla="ST562"/>
+      <disciplina sigla="ST564"/>
+      <disciplina sigla="ST565"/>
+      <disciplina sigla="ST566"/>
+      <disciplina sigla="ST661"/>
+      <disciplina sigla="ST662"/>
+      <disciplina sigla="ST664"/>
+      <disciplina sigla="ST761"/>
+      <disciplina sigla="ST762"/>
+      <disciplina sigla="ST765"/>
+      <disciplina sigla="ST766"/>
+      <disciplina sigla="TT101"/>
+      <disciplina sigla="TT102"/>
+      <disciplina sigla="TT103"/>
+      <disciplina sigla="TT106"/>
+      <disciplina sigla="TT201"/>
+      <disciplina sigla="TT202"/>
+      <disciplina sigla="TT304"/>
+      <disciplina sigla="TT404"/>
+      <disciplina sigla="TT504"/>
+      <disciplina sigla="TT601"/>
+    </disciplinas>
+    <gruposEletivas>
+      <grupoEletivas cred="4">
+        <disciplinas>
+          <disciplina sigla="AM018"/>
+          <disciplina sigla="ST001"/>
+          <disciplina sigla="ST003"/>
+          <disciplina sigla="ST078"/>
+          <disciplina sigla="ST090"/>
+          <disciplina sigla="ST096"/>
+          <disciplina sigla="TT020"/>
+          <disciplina sigla="TT021"/>
+          <disciplina sigla="TT104"/>
+          <disciplina sigla="TT105"/>
+        </disciplinas>
+      </grupoEletivas>
+      <grupoEletivas cred="12">
+        <disciplinas>
+          <disciplina sigla="ST041"/>
+          <disciplina sigla="ST050"/>
+          <disciplina sigla="ST051"/>
+          <disciplina sigla="ST052"/>
+          <disciplina sigla="ST053"/>
+          <disciplina sigla="ST060"/>
+          <disciplina sigla="ST061"/>
+          <disciplina sigla="ST062"/>
+          <disciplina sigla="ST063"/>
+          <disciplina sigla="ST065"/>
+          <disciplina sigla="ST066"/>
+          <disciplina sigla="ST067"/>
+          <disciplina sigla="ST068"/>
+          <disciplina sigla="ST069"/>
+          <disciplina sigla="ST094"/>
+          <disciplina sigla="ST095"/>
+          <disciplina sigla="ST099"/>
+          <disciplina sigla="ST115"/>
+          <disciplina sigla="ST116"/>
+          <disciplina sigla="TT001"/>
+          <disciplina sigla="TT002"/>
+          <disciplina sigla="TT003"/>
+          <disciplina sigla="TT004"/>
+          <disciplina sigla="TT005"/>
+          <disciplina sigla="TT006"/>
+          <disciplina sigla="TT007"/>
+          <disciplina sigla="TT008"/>
+          <disciplina sigla="TT011"/>
+          <disciplina sigla="TT012"/>
+          <disciplina sigla="TT013"/>
+          <disciplina sigla="TT080"/>
+          <disciplina sigla="TT302"/>
+        </disciplinas>
+      </grupoEletivas>
+      <grupoEletivas cred="6">
+        <disciplinas>
+          <disciplina sigla="ST861"/>
+          <disciplina sigla="ST862"/>
+          <disciplina sigla="ST863"/>
+          <disciplina sigla="ST864"/>
+          <disciplina sigla="ST865"/>
+          <disciplina sigla="ST866"/>
+        </disciplinas>
+      </grupoEletivas>
+    </gruposEletivas>
+  </curso>
+  <curso cod="37" nome="Superior de Tec. da Construcao Civil">
+    <disciplinas>
+      <disciplina sigla="ST008"/>
+      <disciplina sigla="ST103"/>
+      <disciplina sigla="ST109"/>
+      <disciplina sigla="ST114"/>
+      <disciplina sigla="ST209"/>
+      <disciplina sigla="ST210"/>
+      <disciplina sigla="ST211"/>
+      <disciplina sigla="ST213"/>
+      <disciplina sigla="ST214"/>
+      <disciplina sigla="ST215"/>
+      <disciplina sigla="ST301"/>
+      <disciplina sigla="ST303"/>
+      <disciplina sigla="ST304"/>
+      <disciplina sigla="ST306"/>
+      <disciplina sigla="ST309"/>
+      <disciplina sigla="ST362"/>
+      <disciplina sigla="ST401"/>
+      <disciplina sigla="ST409"/>
+      <disciplina sigla="ST420"/>
+      <disciplina sigla="ST423"/>
+      <disciplina sigla="ST728"/>
+      <disciplina sigla="TT101"/>
+    </disciplinas>
+    <gruposEletivas>
+      <grupoEletivas cred="4">
+        <disciplinas>
+          <disciplina sigla="ST001"/>
+          <disciplina sigla="ST002"/>
+          <disciplina sigla="ST003"/>
+          <disciplina sigla="ST004"/>
+          <disciplina sigla="ST005"/>
+          <disciplina sigla="ST007"/>
+          <disciplina sigla="ST019"/>
+          <disciplina sigla="ST090"/>
+          <disciplina sigla="ST091"/>
+          <disciplina sigla="ST461"/>
+          <disciplina sigla="ST561"/>
+          <disciplina sigla="TT504"/>
+        </disciplinas>
+      </grupoEletivas>
+      <grupoEletivas cred="2">
+        <disciplinas>
+          <disciplina sigla="-----"/>
+        </disciplinas>
+      </grupoEletivas>
+    </gruposEletivas>
+    <modalidades>
+      <modalidade nome="AA - Edificios">
+        <disciplinas>
+          <disciplina sigla="ST515"/>
+          <disciplina sigla="ST525"/>
+          <disciplina sigla="ST526"/>
+          <disciplina sigla="ST527"/>
+          <disciplina sigla="ST528"/>
+          <disciplina sigla="ST617"/>
+          <disciplina sigla="ST618"/>
+          <disciplina sigla="ST625"/>
+          <disciplina sigla="ST626"/>
+          <disciplina sigla="ST628"/>
+          <disciplina sigla="ST722"/>
+          <disciplina sigla="ST723"/>
+          <disciplina sigla="ST725"/>
+          <disciplina sigla="ST726"/>
+          <disciplina sigla="ST727"/>
+        </disciplinas>
+        <gruposEletivas>
+          <grupoEletivas cred="8">
+            <disciplinas>
+              <disciplina sigla="ST020"/>
+              <disciplina sigla="ST021"/>
+              <disciplina sigla="ST022"/>
+              <disciplina sigla="ST023"/>
+              <disciplina sigla="ST024"/>
+              <disciplina sigla="ST026"/>
+              <disciplina sigla="ST027"/>
+              <disciplina sigla="ST028"/>
+              <disciplina sigla="ST029"/>
+              <disciplina sigla="ST042"/>
+              <disciplina sigla="ST044"/>
+            </disciplinas>
+          </grupoEletivas>
+          <grupoEletivas cred="4">
+            <disciplinas>
+              <disciplina sigla="ST823"/>
+              <disciplina sigla="ST824"/>
+            </disciplinas>
+          </grupoEletivas>
+        </gruposEletivas>
+      </modalidade>
+      <modalidade nome="AC - Obras de Solo e Pavimentacao">
+        <disciplinas>
+          <disciplina sigla="ST536"/>
+          <disciplina sigla="ST537"/>
+          <disciplina sigla="ST538"/>
+          <disciplina sigla="ST631"/>
+          <disciplina sigla="ST632"/>
+          <disciplina sigla="ST636"/>
+          <disciplina sigla="ST637"/>
+          <disciplina sigla="ST726"/>
+          <disciplina sigla="ST731"/>
+          <disciplina sigla="ST732"/>
+          <disciplina sigla="ST733"/>
+          <disciplina sigla="ST734"/>
+          <disciplina sigla="ST735"/>
+        </disciplinas>
+        <gruposEletivas>
+          <grupoEletivas cred="8">
+            <disciplinas>
+              <disciplina sigla="ST026"/>
+              <disciplina sigla="ST030"/>
+              <disciplina sigla="ST031"/>
+              <disciplina sigla="ST032"/>
+              <disciplina sigla="ST033"/>
+              <disciplina sigla="ST045"/>
+            </disciplinas>
+          </grupoEletivas>
+          <grupoEletivas cred="4">
+            <disciplinas>
+              <disciplina sigla="ST833"/>
+              <disciplina sigla="ST834"/>
+            </disciplinas>
+          </grupoEletivas>
+        </gruposEletivas>
+      </modalidade>
+    </modalidades>
+  </curso>
+  <curso cod="38" nome="Pedagogia (Noturno)">
+    <disciplinas>
+      <disciplina sigla="EP107"/>
+      <disciplina sigla="EP110"/>
+      <disciplina sigla="EP128"/>
+      <disciplina sigla="EP129"/>
+      <disciplina sigla="EP130"/>
+      <disciplina sigla="EP139"/>
+      <disciplina sigla="EP140"/>
+      <disciplina sigla="EP142"/>
+      <disciplina sigla="EP144"/>
+      <disciplina sigla="EP146"/>
+      <disciplina sigla="EP147"/>
+      <disciplina sigla="EP152"/>
+      <disciplina sigla="EP153"/>
+      <disciplina sigla="EP158"/>
+      <disciplina sigla="EP162"/>
+      <disciplina sigla="EP163"/>
+      <disciplina sigla="EP164"/>
+      <disciplina sigla="EP210"/>
+      <disciplina sigla="EP226"/>
+      <disciplina sigla="EP230"/>
+      <disciplina sigla="EP315"/>
+      <disciplina sigla="EP316"/>
+      <disciplina sigla="EP317"/>
+      <disciplina sigla="EP330"/>
+      <disciplina sigla="EP340"/>
+      <disciplina sigla="EP347"/>
+      <disciplina sigla="EP348"/>
+      <disciplina sigla="EP372"/>
+      <disciplina sigla="EP376"/>
+      <disciplina sigla="EP377"/>
+      <disciplina sigla="EP412"/>
+      <disciplina sigla="EP445"/>
+      <disciplina sigla="EP471"/>
+      <disciplina sigla="EP472"/>
+      <disciplina sigla="EP473"/>
+      <disciplina sigla="EP474"/>
+      <disciplina sigla="EP529"/>
+      <disciplina sigla="EP566"/>
+      <disciplina sigla="EP567"/>
+      <disciplina sigla="EP568"/>
+      <disciplina sigla="EP765"/>
+      <disciplina sigla="EP808"/>
+      <disciplina sigla="EP809"/>
+      <disciplina sigla="EP887"/>
+      <disciplina sigla="EP910"/>
+      <disciplina sigla="EP911"/>
+      <disciplina sigla="EP912"/>
+      <disciplina sigla="EP913"/>
+      <disciplina sigla="EP914"/>
+    </disciplinas>
+    <gruposEletivas>
+      <grupoEletivas cred="2">
+        <disciplinas>
+          <disciplina sigla="EP810"/>
+          <disciplina sigla="EP811"/>
+          <disciplina sigla="EP812"/>
+          <disciplina sigla="EP813"/>
+          <disciplina sigla="EP814"/>
+          <disciplina sigla="EP815"/>
+        </disciplinas>
+      </grupoEletivas>
+      <grupoEletivas cred="12">
+        <disciplinas>
+          <disciplina sigla="-----"/>
+        </disciplinas>
+      </grupoEletivas>
+    </gruposEletivas>
+  </curso>
+  <curso cod="39" nome="Engenharia Quimica - Noturno">
+    <disciplinas>
+      <disciplina sigla="CE304"/>
+      <disciplina sigla="EM312"/>
+      <disciplina sigla="EM423"/>
+      <disciplina sigla="EQ004"/>
+      <disciplina sigla="EQ050"/>
+      <disciplina sigla="EQ101"/>
+      <disciplina sigla="EQ415"/>
+      <disciplina sigla="EQ481"/>
+      <disciplina sigla="EQ502"/>
+      <disciplina sigla="EQ515"/>
+      <disciplina sigla="EQ531"/>
+      <disciplina sigla="EQ541"/>
+      <disciplina sigla="EQ583"/>
+      <disciplina sigla="EQ601"/>
+      <disciplina sigla="EQ622"/>
+      <disciplina sigla="EQ641"/>
+      <disciplina sigla="EQ651"/>
+      <disciplina sigla="EQ701"/>
+      <disciplina sigla="EQ712"/>
+      <disciplina sigla="EQ741"/>
+      <disciplina sigla="EQ751"/>
+      <disciplina sigla="EQ771"/>
+      <disciplina sigla="EQ791"/>
+      <disciplina sigla="EQ801"/>
+      <disciplina sigla="EQ812"/>
+      <disciplina sigla="EQ817"/>
+      <disciplina sigla="EQ852"/>
+      <disciplina sigla="EQ861"/>
+      <disciplina sigla="EQ883"/>
+      <disciplina sigla="EQ902"/>
+      <disciplina sigla="EQ922"/>
+      <disciplina sigla="EQ950"/>
+      <disciplina sigla="EQ991"/>
+      <disciplina sigla="ET016"/>
+      <disciplina sigla="F_128"/>
+      <disciplina sigla="F_129"/>
+      <disciplina sigla="F_313"/>
+      <disciplina sigla="F_328"/>
+      <disciplina sigla="F_329"/>
+      <disciplina sigla="GT001"/>
+      <disciplina sigla="MA111"/>
+      <disciplina sigla="MA141"/>
+      <disciplina sigla="MA211"/>
+      <disciplina sigla="MA311"/>
+      <disciplina sigla="MC102"/>
+      <disciplina sigla="ME414"/>
+      <disciplina sigla="MS211"/>
+      <disciplina sigla="QA313"/>
+      <disciplina sigla="QG101"/>
+      <disciplina sigla="QG102"/>
+      <disciplina sigla="QI242"/>
+      <disciplina sigla="QI244"/>
+      <disciplina sigla="QO327"/>
+      <disciplina sigla="QO427"/>
+    </disciplinas>
+    <gruposEletivas>
+      <grupoEletivas cred="12">
+        <disciplinas>
+          <disciplina sigla="EQ041"/>
+          <disciplina sigla="EQ042"/>
+          <disciplina sigla="EQ052"/>
+          <disciplina sigla="EQ061"/>
+          <disciplina sigla="EQ062"/>
+          <disciplina sigla="EQ071"/>
+          <disciplina sigla="EQ081"/>
+          <disciplina sigla="EQ096"/>
+          <disciplina sigla="EQ097"/>
+          <disciplina sigla="EQ098"/>
+          <disciplina sigla="EQ099"/>
+          <disciplina sigla="EQ841"/>
+          <disciplina sigla="EQ917"/>
+          <disciplina sigla="EQ941"/>
+          <disciplina sigla="EQ951"/>
+          <disciplina sigla="EQ952"/>
+          <disciplina sigla="EQ954"/>
+          <disciplina sigla="EQ961"/>
+          <disciplina sigla="EQ971"/>
+          <disciplina sigla="EQ983"/>
+          <disciplina sigla="EQ984"/>
+          <disciplina sigla="EQ985"/>
+          <disciplina sigla="EQ994"/>
+          <disciplina sigla="EI---"/>
+        </disciplinas>
+      </grupoEletivas>
+    </gruposEletivas>
+  </curso>
+  <curso cod="40" nome="Fisica">
+    <disciplinas>
+      <disciplina sigla="EL211"/>
+      <disciplina sigla="EL285"/>
+      <disciplina sigla="EL511"/>
+      <disciplina sigla="EL683"/>
+      <disciplina sigla="EL774"/>
+      <disciplina sigla="EL874"/>
+      <disciplina sigla="F_128"/>
+      <disciplina sigla="F_129"/>
+      <disciplina sigla="F_228"/>
+      <disciplina sigla="F_229"/>
+      <disciplina sigla="F_315"/>
+      <disciplina sigla="F_320"/>
+      <disciplina sigla="F_328"/>
+      <disciplina sigla="F_329"/>
+      <disciplina sigla="F_428"/>
+      <disciplina sigla="F_429"/>
+      <disciplina sigla="F_489"/>
+      <disciplina sigla="F_540"/>
+      <disciplina sigla="F_589"/>
+      <disciplina sigla="F_609"/>
+      <disciplina sigla="F_709"/>
+      <disciplina sigla="F_740"/>
+      <disciplina sigla="F_839"/>
+      <disciplina sigla="F_901"/>
+      <disciplina sigla="F_902"/>
+      <disciplina sigla="FL701"/>
+      <disciplina sigla="FM003"/>
+      <disciplina sigla="MA111"/>
+      <disciplina sigla="MA141"/>
+      <disciplina sigla="MA211"/>
+      <disciplina sigla="MA311"/>
+      <disciplina sigla="MA327"/>
+      <disciplina sigla="MC102"/>
+      <disciplina sigla="ME414"/>
+      <disciplina sigla="MS149"/>
+      <disciplina sigla="MS211"/>
+      <disciplina sigla="QG101"/>
+      <disciplina sigla="QG102"/>
+    </disciplinas>
+    <gruposEletivas>
+      <grupoEletivas cred="8">
+        <disciplinas>
+          <disciplina sigla="-----"/>
+        </disciplinas>
+      </grupoEletivas>
+      <grupoEletivas cred="4">
+        <disciplinas>
+          <disciplina sigla="EL---"/>
+        </disciplinas>
+      </grupoEletivas>
+      <grupoEletivas cred="4">
+        <disciplinas>
+          <disciplina sigla="F_530"/>
+          <disciplina sigla="F_590"/>
+          <disciplina sigla="F_690"/>
+          <disciplina sigla="F_896"/>
+          <disciplina sigla="FM201"/>
+          <disciplina sigla="FM301"/>
+          <disciplina sigla="FM401"/>
+          <disciplina sigla="FM501"/>
+          <disciplina sigla="FM601"/>
+          <disciplina sigla="FM701"/>
+        </disciplinas>
+      </grupoEletivas>
+    </gruposEletivas>
+  </curso>
+  <curso cod="42" nome="Bacharelado em Ciencia da Computacao">
+    <disciplinas>
+      <disciplina sigla="CE304"/>
+      <disciplina sigla="CE738"/>
+      <disciplina sigla="CE839"/>
+      <disciplina sigla="F_128"/>
+      <disciplina sigla="F_129"/>
+      <disciplina sigla="F_328"/>
+      <disciplina sigla="F_329"/>
+      <disciplina sigla="MA111"/>
+      <disciplina sigla="MA141"/>
+      <disciplina sigla="MA211"/>
+      <disciplina sigla="MA327"/>
+      <disciplina sigla="MC102"/>
+      <disciplina sigla="MC202"/>
+      <disciplina sigla="MC326"/>
+      <disciplina sigla="MC336"/>
+      <disciplina sigla="MC348"/>
+      <disciplina sigla="MC404"/>
+      <disciplina sigla="MC436"/>
+      <disciplina sigla="MC448"/>
+      <disciplina sigla="MC514"/>
+      <disciplina sigla="MC536"/>
+      <disciplina sigla="MC542"/>
+      <disciplina sigla="MC548"/>
+      <disciplina sigla="MC636"/>
+      <disciplina sigla="MC747"/>
+      <disciplina sigla="MC750"/>
+      <disciplina sigla="MC822"/>
+      <disciplina sigla="MC823"/>
+      <disciplina sigla="MC906"/>
+      <disciplina sigla="ME203"/>
+      <disciplina sigla="MS211"/>
+    </disciplinas>
+    <gruposEletivas>
+      <grupoEletivas cred="20">
+        <disciplinas>
+          <disciplina sigla="-----"/>
+        </disciplinas>
+      </grupoEletivas>
+      <grupoEletivas cred="4">
+        <disciplinas>
+          <disciplina sigla="MC668"/>
+          <disciplina sigla="MC828"/>
+          <disciplina sigla="MC838"/>
+          <disciplina sigla="MC848"/>
+          <disciplina sigla="MC858"/>
+          <disciplina sigla="MC868"/>
+          <disciplina sigla="MC878"/>
+          <disciplina sigla="MC889"/>
+          <disciplina sigla="MC898"/>
+          <disciplina sigla="MC908"/>
+          <disciplina sigla="MC918"/>
+          <disciplina sigla="MC928"/>
+          <disciplina sigla="MC938"/>
+          <disciplina sigla="MC948"/>
+          <disciplina sigla="MC978"/>
+          <disciplina sigla="MC988"/>
+          <disciplina sigla="MC998"/>
+        </disciplinas>
+      </grupoEletivas>
+      <grupoEletivas cred="4">
+        <disciplinas>
+          <disciplina sigla="MC---"/>
+        </disciplinas>
+      </grupoEletivas>
+    </gruposEletivas>
+  </curso>
+  <curso cod="44" nome="curso 44 - Ciencias Sociais - Curriculo Pleno">
+    <disciplinas>
+      <disciplina sigla="CE131"/>
+      <disciplina sigla="CE730"/>
+      <disciplina sigla="HZ141"/>
+      <disciplina sigla="HZ158"/>
+      <disciplina sigla="HZ161"/>
+      <disciplina sigla="HZ248"/>
+      <disciplina sigla="HZ258"/>
+      <disciplina sigla="HZ263"/>
+      <disciplina sigla="HZ345"/>
+      <disciplina sigla="HZ352"/>
+      <disciplina sigla="HZ358"/>
+      <disciplina sigla="HZ363"/>
+      <disciplina sigla="ME173"/>
+    </disciplinas>
+    <gruposEletivas>
+      <grupoEletivas cred="36">
+        <disciplinas>
+          <disciplina sigla="CE---"/>
+          <disciplina sigla="EF---"/>
+          <disciplina sigla="EL---"/>
+          <disciplina sigla="EP---"/>
+          <disciplina sigla="GF---"/>
+          <disciplina sigla="HG---"/>
+          <disciplina sigla="HH---"/>
+          <disciplina sigla="HL---"/>
+          <disciplina sigla="HZ---"/>
+          <disciplina sigla="LA---"/>
+          <disciplina sigla="TL---"/>
+        </disciplinas>
+      </grupoEletivas>
+      <grupoEletivas cred="8">
+        <disciplinas>
+          <disciplina sigla="-----"/>
+        </disciplinas>
+      </grupoEletivas>
+      <grupoEletivas cred="8">
+        <disciplinas>
+          <disciplina sigla="HH---"/>
+        </disciplinas>
+      </grupoEletivas>
+      <grupoEletivas cred="6">
+        <disciplinas>
+          <disciplina sigla="HG---"/>
+        </disciplinas>
+      </grupoEletivas>
+    </gruposEletivas>
+    <modalidades>
+      <modalidade nome="AA - Bel em Ciencias Sociais - Antropologia">
+        <disciplinas>
+          <disciplina sigla="HZ460"/>
+          <disciplina sigla="HZ465"/>
+          <disciplina sigla="HZ466"/>
+          <disciplina sigla="HZ467"/>
+          <disciplina sigla="HZ468"/>
+        </disciplinas>
+        <gruposEletivas>
+          <grupoEletivas cred="8">
+            <disciplinas>
+              <disciplina sigla="HZ365"/>
+              <disciplina sigla="HZ562"/>
+              <disciplina sigla="HZ565"/>
+              <disciplina sigla="HZ566"/>
+              <disciplina sigla="HZ567"/>
+              <disciplina sigla="HZ568"/>
+              <disciplina sigla="HZ569"/>
+              <disciplina sigla="HZ666"/>
+              <disciplina sigla="HZ667"/>
+              <disciplina sigla="HZ668"/>
+              <disciplina sigla="HZ669"/>
+              <disciplina sigla="HZ766"/>
+              <disciplina sigla="HZ767"/>
+              <disciplina sigla="HZ768"/>
+              <disciplina sigla="HZ769"/>
+              <disciplina sigla="HZ865"/>
+              <disciplina sigla="HZ866"/>
+              <disciplina sigla="HZ867"/>
+              <disciplina sigla="HZ868"/>
+              <disciplina sigla="HZ869"/>
+              <disciplina sigla="HZ962"/>
+            </disciplinas>
+          </grupoEletivas>
+          <grupoEletivas cred="4">
+            <disciplinas>
+              <disciplina sigla="CE---"/>
+              <disciplina sigla="EF---"/>
+              <disciplina sigla="EL---"/>
+              <disciplina sigla="EP---"/>
+              <disciplina sigla="HG---"/>
+              <disciplina sigla="HH---"/>
+              <disciplina sigla="HZ---"/>
+              <disciplina sigla="LA---"/>
+            </disciplinas>
+          </grupoEletivas>
+          <grupoEletivas cred="4">
+            <disciplinas>
+              <disciplina sigla="-----"/>
+            </disciplinas>
+          </grupoEletivas>
+        </gruposEletivas>
+      </modalidade>
+      <modalidade nome="AB - Bel em Ciencias Sociais - Politica">
+        <disciplinas>
+          <disciplina sigla="HZ447"/>
+          <disciplina sigla="HZ546"/>
+        </disciplinas>
+        <gruposEletivas>
+          <grupoEletivas cred="18">
+            <disciplinas>
+              <disciplina sigla="HZ140"/>
+              <disciplina sigla="HZ240"/>
+              <disciplina sigla="HZ249"/>
+              <disciplina sigla="HZ340"/>
+              <disciplina sigla="HZ348"/>
+              <disciplina sigla="HZ440"/>
+              <disciplina sigla="HZ540"/>
+              <disciplina sigla="HZ640"/>
+              <disciplina sigla="HZ740"/>
+              <disciplina sigla="HZ840"/>
+              <disciplina sigla="HZ940"/>
+            </disciplinas>
+          </grupoEletivas>
+          <grupoEletivas cred="4">
+            <disciplinas>
+              <disciplina sigla="CE---"/>
+              <disciplina sigla="EF---"/>
+              <disciplina sigla="EL---"/>
+              <disciplina sigla="EP---"/>
+              <disciplina sigla="HG---"/>
+              <disciplina sigla="HH---"/>
+              <disciplina sigla="HZ---"/>
+              <disciplina sigla="LA---"/>
+            </disciplinas>
+          </grupoEletivas>
+          <grupoEletivas cred="12">
+            <disciplinas>
+              <disciplina sigla="-----"/>
+            </disciplinas>
+          </grupoEletivas>
+        </gruposEletivas>
+      </modalidade>
+      <modalidade nome="AC - Bel em Ciencias Sociais - Sociologia">
+        <disciplinas>
+          <disciplina sigla="HZ555"/>
+          <disciplina sigla="HZ657"/>
+        </disciplinas>
+        <gruposEletivas>
+          <grupoEletivas cred="28">
+            <disciplinas>
+              <disciplina sigla="HZ-5-"/>
+            </disciplinas>
+          </grupoEletivas>
+          <grupoEletivas cred="6">
+            <disciplinas>
+              <disciplina sigla="CE---"/>
+              <disciplina sigla="EF---"/>
+              <disciplina sigla="EL---"/>
+              <disciplina sigla="EP---"/>
+              <disciplina sigla="HG---"/>
+              <disciplina sigla="HH---"/>
+              <disciplina sigla="HZ---"/>
+              <disciplina sigla="LA---"/>
+            </disciplinas>
+          </grupoEletivas>
+        </gruposEletivas>
+      </modalidade>
+      <modalidade nome="AD - Bel em Ciencias Sociais - Geral">
+        <gruposEletivas>
+          <grupoEletivas cred="22">
+            <disciplinas>
+              <disciplina sigla="HZ---"/>
+            </disciplinas>
+          </grupoEletivas>
+          <grupoEletivas cred="12">
+            <disciplinas>
+              <disciplina sigla="CE---"/>
+              <disciplina sigla="EF---"/>
+              <disciplina sigla="EL---"/>
+              <disciplina sigla="EP---"/>
+              <disciplina sigla="HG---"/>
+              <disciplina sigla="HH---"/>
+              <disciplina sigla="HZ---"/>
+              <disciplina sigla="LA---"/>
+            </disciplinas>
+          </grupoEletivas>
+          <grupoEletivas cred="12">
+            <disciplinas>
+              <disciplina sigla="-----"/>
+            </disciplinas>
+          </grupoEletivas>
+        </gruposEletivas>
+      </modalidade>
+      <modalidade nome="AH - Lic em Ciencias Sociais - Geral">
+        <disciplinas>
+          <disciplina sigla="EL774"/>
+          <disciplina sigla="EL874"/>
+          <disciplina sigla="HZ103"/>
+          <disciplina sigla="HZ104"/>
+        </disciplinas>
+        <gruposEletivas>
+          <grupoEletivas cred="8">
+            <disciplinas>
+              <disciplina sigla="HZ---"/>
+            </disciplinas>
+          </grupoEletivas>
+          <grupoEletivas cred="18">
+            <disciplinas>
+              <disciplina sigla="EL142"/>
+              <disciplina sigla="EL211"/>
+              <disciplina sigla="EL485"/>
+              <disciplina sigla="EL511"/>
+              <disciplina sigla="EL683"/>
+            </disciplinas>
+          </grupoEletivas>
+          <grupoEletivas cred="8">
+            <disciplinas>
+              <disciplina sigla="EP125"/>
+              <disciplina sigla="EP141"/>
+              <disciplina sigla="EP142"/>
+              <disciplina sigla="EP151"/>
+              <disciplina sigla="EP158"/>
+              <disciplina sigla="EP164"/>
+              <disciplina sigla="EP170"/>
+              <disciplina sigla="EP171"/>
+              <disciplina sigla="EP230"/>
+              <disciplina sigla="EP240"/>
+              <disciplina sigla="EP243"/>
+              <disciplina sigla="EP343"/>
+              <disciplina sigla="EP366"/>
+              <disciplina sigla="EP368"/>
+              <disciplina sigla="EP408"/>
+              <disciplina sigla="EP409"/>
+              <disciplina sigla="EP441"/>
+              <disciplina sigla="EP444"/>
+              <disciplina sigla="EP445"/>
+              <disciplina sigla="EP504"/>
+              <disciplina sigla="EP600"/>
+              <disciplina sigla="EP601"/>
+              <disciplina sigla="EP602"/>
+              <disciplina sigla="EP603"/>
+              <disciplina sigla="EP604"/>
+              <disciplina sigla="EP606"/>
+              <disciplina sigla="EP607"/>
+              <disciplina sigla="EP641"/>
+              <disciplina sigla="EP644"/>
+              <disciplina sigla="EP844"/>
+              <disciplina sigla="EP992"/>
+              <disciplina sigla="EP994"/>
+            </disciplinas>
+          </grupoEletivas>
+        </gruposEletivas>
+      </modalidade>
+    </modalidades>
+  </curso>
+  <curso cod="45" nome="Educacao Fisica - Noturno">
+    <disciplinas>
+      <disciplina sigla="BA110"/>
+      <disciplina sigla="BA210"/>
+      <disciplina sigla="BB110"/>
+      <disciplina sigla="BF310"/>
+      <disciplina sigla="BF410"/>
+      <disciplina sigla="EF109"/>
+      <disciplina sigla="EF112"/>
+      <disciplina sigla="EF113"/>
+      <disciplina sigla="EF114"/>
+      <disciplina sigla="EF115"/>
+      <disciplina sigla="EF116"/>
+      <disciplina sigla="EF209"/>
+      <disciplina sigla="EF212"/>
+      <disciplina sigla="EF213"/>
+      <disciplina sigla="EF214"/>
+      <disciplina sigla="EF215"/>
+      <disciplina sigla="EF309"/>
+      <disciplina sigla="EF312"/>
+      <disciplina sigla="EF313"/>
+      <disciplina sigla="EF314"/>
+      <disciplina sigla="EF315"/>
+      <disciplina sigla="EF316"/>
+      <disciplina sigla="EF411"/>
+      <disciplina sigla="EF412"/>
+      <disciplina sigla="EF413"/>
+      <disciplina sigla="EF414"/>
+      <disciplina sigla="EF415"/>
+      <disciplina sigla="EF416"/>
+      <disciplina sigla="EF511"/>
+      <disciplina sigla="EF512"/>
+      <disciplina sigla="EF513"/>
+      <disciplina sigla="EF514"/>
+      <disciplina sigla="EF611"/>
+      <disciplina sigla="EF612"/>
+      <disciplina sigla="EF613"/>
+      <disciplina sigla="EF614"/>
+      <disciplina sigla="EF711"/>
+      <disciplina sigla="EF714"/>
+      <disciplina sigla="EF811"/>
+      <disciplina sigla="EF814"/>
+      <disciplina sigla="EL683"/>
+    </disciplinas>
+    <gruposEletivas>
+      <grupoEletivas cred="10">
+        <disciplinas>
+          <disciplina sigla="EF428"/>
+          <disciplina sigla="EF441"/>
+          <disciplina sigla="EF442"/>
+          <disciplina sigla="EF443"/>
+          <disciplina sigla="EF444"/>
+          <disciplina sigla="EF445"/>
+          <disciplina sigla="EF446"/>
+          <disciplina sigla="EF447"/>
+          <disciplina sigla="EF449"/>
+          <disciplina sigla="EF450"/>
+          <disciplina sigla="EF451"/>
+        </disciplinas>
+      </grupoEletivas>
+    </gruposEletivas>
+    <modalidades>
+      <modalidade nome="AB - Licenciatura em Educacao Fisica">
+        <disciplinas>
+          <disciplina sigla="EF521"/>
+          <disciplina sigla="EF621"/>
+          <disciplina sigla="EF622"/>
+          <disciplina sigla="EF722"/>
+          <disciplina sigla="EF723"/>
+          <disciplina sigla="EF822"/>
+          <disciplina sigla="EL211"/>
+          <disciplina sigla="EL511"/>
+          <disciplina sigla="EL774"/>
+          <disciplina sigla="EL874"/>
+        </disciplinas>
+        <gruposEletivas>
+          <grupoEletivas cred="14">
+            <disciplinas>
+              <disciplina sigla="-----"/>
+            </disciplinas>
+          </grupoEletivas>
+        </gruposEletivas>
+      </modalidade>
+      <modalidade nome="AF_- Bacharelado em Educacao Fisica">
+        <disciplinas>
+          <disciplina sigla="EF531"/>
+          <disciplina sigla="EF532"/>
+          <disciplina sigla="EF631"/>
+          <disciplina sigla="EF632"/>
+          <disciplina sigla="EF731"/>
+          <disciplina sigla="EF732"/>
+          <disciplina sigla="EF831"/>
+          <disciplina sigla="EF832"/>
+        </disciplinas>
+        <gruposEletivas>
+          <grupoEletivas cred="12">
+            <disciplinas>
+              <disciplina sigla="EF641"/>
+              <disciplina sigla="EF642"/>
+              <disciplina sigla="EF643"/>
+              <disciplina sigla="EF644"/>
+              <disciplina sigla="EF645"/>
+              <disciplina sigla="EF646"/>
+              <disciplina sigla="EF647"/>
+              <disciplina sigla="EF648"/>
+              <disciplina sigla="EF649"/>
+              <disciplina sigla="EF651"/>
+              <disciplina sigla="EF661"/>
+            </disciplinas>
+          </grupoEletivas>
+          <grupoEletivas cred="20">
+            <disciplinas>
+              <disciplina sigla="-----"/>
+            </disciplinas>
+          </grupoEletivas>
+        </gruposEletivas>
+      </modalidade>
+    </modalidades>
+  </curso>
+  <curso cod="46" nome="Licenciatura em Ciencias Biologicas">
+    <disciplinas>
+      <disciplina sigla="BA280"/>
+      <disciplina sigla="BB280"/>
+      <disciplina sigla="BC181"/>
+      <disciplina sigla="BE881"/>
+      <disciplina sigla="BF082"/>
+      <disciplina sigla="BF880"/>
+      <disciplina sigla="BF982"/>
+      <disciplina sigla="BG280"/>
+      <disciplina sigla="BG380"/>
+      <disciplina sigla="BG480"/>
+      <disciplina sigla="BH482"/>
+      <disciplina sigla="BH484"/>
+      <disciplina sigla="BI381"/>
+      <disciplina sigla="BM382"/>
+      <disciplina sigla="BP680"/>
+      <disciplina sigla="BT381"/>
+      <disciplina sigla="BT481"/>
+      <disciplina sigla="BT581"/>
+      <disciplina sigla="BT681"/>
+      <disciplina sigla="BT885"/>
+      <disciplina sigla="BV780"/>
+      <disciplina sigla="BZ182"/>
+      <disciplina sigla="BZ281"/>
+      <disciplina sigla="BZ382"/>
+      <disciplina sigla="BZ681"/>
+      <disciplina sigla="EL211"/>
+      <disciplina sigla="EL511"/>
+      <disciplina sigla="EL683"/>
+      <disciplina sigla="EL774"/>
+      <disciplina sigla="EL876"/>
+      <disciplina sigla="EL885"/>
+      <disciplina sigla="F_107"/>
+      <disciplina sigla="GM280"/>
+      <disciplina sigla="GM450"/>
+      <disciplina sigla="ME480"/>
+      <disciplina sigla="MS380"/>
+      <disciplina sigla="QG107"/>
+    </disciplinas>
+    <gruposEletivas>
+      <grupoEletivas cred="20">
+        <disciplinas>
+          <disciplina sigla="BB583"/>
+          <disciplina sigla="BC081"/>
+          <disciplina sigla="BE082"/>
+          <disciplina sigla="BG081"/>
+          <disciplina sigla="BH582"/>
+          <disciplina sigla="BP081"/>
+          <disciplina sigla="BT080"/>
+          <disciplina sigla="BZ083"/>
+          <disciplina sigla="GM082"/>
+        </disciplinas>
+      </grupoEletivas>
+      <grupoEletivas cred="4">
+        <disciplinas>
+          <disciplina sigla="-----"/>
+        </disciplinas>
+      </grupoEletivas>
+      <grupoEletivas cred="4">
+        <disciplinas>
+          <disciplina sigla="BA500"/>
+          <disciplina sigla="BB500"/>
+          <disciplina sigla="BC500"/>
+          <disciplina sigla="BE500"/>
+          <disciplina sigla="BF500"/>
+          <disciplina sigla="BG500"/>
+          <disciplina sigla="BH500"/>
+          <disciplina sigla="BH501"/>
+          <disciplina sigla="BI500"/>
+          <disciplina sigla="BM500"/>
+          <disciplina sigla="BP500"/>
+          <disciplina sigla="BT500"/>
+          <disciplina sigla="BV500"/>
+          <disciplina sigla="BZ500"/>
+          <disciplina sigla="EL101"/>
+          <disciplina sigla="EL201"/>
+          <disciplina sigla="EL505"/>
+          <disciplina sigla="EL506"/>
+        </disciplinas>
+      </grupoEletivas>
+      <grupoEletivas cred="4">
+        <disciplinas>
+          <disciplina sigla="BA600"/>
+          <disciplina sigla="BB600"/>
+          <disciplina sigla="BC600"/>
+          <disciplina sigla="BE600"/>
+          <disciplina sigla="BF600"/>
+          <disciplina sigla="BG600"/>
+          <disciplina sigla="BH600"/>
+          <disciplina sigla="BH601"/>
+          <disciplina sigla="BI600"/>
+          <disciplina sigla="BM600"/>
+          <disciplina sigla="BP600"/>
+          <disciplina sigla="BT600"/>
+          <disciplina sigla="BV600"/>
+          <disciplina sigla="BZ600"/>
+          <disciplina sigla="EL605"/>
+          <disciplina sigla="EL606"/>
+        </disciplinas>
+      </grupoEletivas>
+      <grupoEletivas cred="8">
+        <disciplinas>
+          <disciplina sigla="EL110"/>
+          <disciplina sigla="EL142"/>
+          <disciplina sigla="EL210"/>
+          <disciplina sigla="EL485"/>
+          <disciplina sigla="EP108"/>
+        </disciplinas>
+      </grupoEletivas>
+      <grupoEletivas cred="2">
+        <disciplinas>
+          <disciplina sigla="BD190"/>
+          <disciplina sigla="BD290"/>
+          <disciplina sigla="BD510"/>
+          <disciplina sigla="BT200"/>
+        </disciplinas>
+      </grupoEletivas>
+    </gruposEletivas>
+  </curso>
+  <curso cod="47" nome="Ciencias Economicas - Diurno">
+    <disciplinas>
+      <disciplina sigla="CE104"/>
+      <disciplina sigla="CE141"/>
+      <disciplina sigla="CE151"/>
+      <disciplina sigla="CE161"/>
+      <disciplina sigla="CE213"/>
+      <disciplina sigla="CE243"/>
+      <disciplina sigla="CE251"/>
+      <disciplina sigla="CE261"/>
+      <disciplina sigla="CE271"/>
+      <disciplina sigla="CE281"/>
+      <disciplina sigla="CE313"/>
+      <disciplina sigla="CE331"/>
+      <disciplina sigla="CE361"/>
+      <disciplina sigla="CE371"/>
+      <disciplina sigla="CE381"/>
+      <disciplina sigla="CE431"/>
+      <disciplina sigla="CE432"/>
+      <disciplina sigla="CE461"/>
+      <disciplina sigla="CE471"/>
+      <disciplina sigla="CE481"/>
+      <disciplina sigla="CE491"/>
+      <disciplina sigla="CE531"/>
+      <disciplina sigla="CE561"/>
+      <disciplina sigla="CE571"/>
+      <disciplina sigla="CE581"/>
+      <disciplina sigla="CE591"/>
+      <disciplina sigla="CE592"/>
+      <disciplina sigla="CE593"/>
+      <disciplina sigla="CE622"/>
+      <disciplina sigla="CE631"/>
+      <disciplina sigla="CE671"/>
+      <disciplina sigla="CE681"/>
+      <disciplina sigla="CE690"/>
+      <disciplina sigla="CE691"/>
+      <disciplina sigla="CE752"/>
+      <disciplina sigla="CE791"/>
+      <disciplina sigla="CE795"/>
+      <disciplina sigla="CE851"/>
+      <disciplina sigla="CE853"/>
+      <disciplina sigla="CE912"/>
+      <disciplina sigla="CE913"/>
+      <disciplina sigla="HZ253"/>
+      <disciplina sigla="MA111"/>
+      <disciplina sigla="ME414"/>
+    </disciplinas>
+    <gruposEletivas>
+      <grupoEletivas cred="16">
+        <disciplinas>
+          <disciplina sigla="CE314"/>
+          <disciplina sigla="CE317"/>
+          <disciplina sigla="CE415"/>
+          <disciplina sigla="CE522"/>
+          <disciplina sigla="CE523"/>
+          <disciplina sigla="CE539"/>
+          <disciplina sigla="CE623"/>
+          <disciplina sigla="CE639"/>
+          <disciplina sigla="CE641"/>
+          <disciplina sigla="CE651"/>
+          <disciplina sigla="CE652"/>
+          <disciplina sigla="CE653"/>
+          <disciplina sigla="CE654"/>
+          <disciplina sigla="CE712"/>
+          <disciplina sigla="CE731"/>
+          <disciplina sigla="CE742"/>
+          <disciplina sigla="CE751"/>
+          <disciplina sigla="CE841"/>
+          <disciplina sigla="CE854"/>
+          <disciplina sigla="CE856"/>
+          <disciplina sigla="CE857"/>
+          <disciplina sigla="CE858"/>
+          <disciplina sigla="CE859"/>
+          <disciplina sigla="CE860"/>
+          <disciplina sigla="CE900"/>
+          <disciplina sigla="CE901"/>
+          <disciplina sigla="CE902"/>
+          <disciplina sigla="CE903"/>
+          <disciplina sigla="CE904"/>
+          <disciplina sigla="CE939"/>
+          <disciplina sigla="CE973"/>
+        </disciplinas>
+      </grupoEletivas>
+      <grupoEletivas cred="8">
+        <disciplinas>
+          <disciplina sigla="-----"/>
+        </disciplinas>
+      </grupoEletivas>
+    </gruposEletivas>
+  </curso>
+  <curso cod="49" nome="Engenharia de Controle e Automacao">
+    <disciplinas>
+      <disciplina sigla="BE310"/>
+      <disciplina sigla="CE304"/>
+      <disciplina sigla="CE738"/>
+      <disciplina sigla="EA513"/>
+      <disciplina sigla="EA611"/>
+      <disciplina sigla="EE530"/>
+      <disciplina sigla="EE531"/>
+      <disciplina sigla="EM104"/>
+      <disciplina sigla="EM306"/>
+      <disciplina sigla="EM360"/>
+      <disciplina sigla="EM404"/>
+      <disciplina sigla="EM406"/>
+      <disciplina sigla="EM461"/>
+      <disciplina sigla="EM506"/>
+      <disciplina sigla="EM570"/>
+      <disciplina sigla="EM607"/>
+      <disciplina sigla="EM731"/>
+      <disciplina sigla="ES010"/>
+      <disciplina sigla="ES101"/>
+      <disciplina sigla="ES235"/>
+      <disciplina sigla="ES242"/>
+      <disciplina sigla="ES330"/>
+      <disciplina sigla="ES333"/>
+      <disciplina sigla="ES401"/>
+      <disciplina sigla="ES542"/>
+      <disciplina sigla="ES563"/>
+      <disciplina sigla="ES572"/>
+      <disciplina sigla="ES575"/>
+      <disciplina sigla="ES601"/>
+      <disciplina sigla="ES626"/>
+      <disciplina sigla="ES663"/>
+      <disciplina sigla="ES664"/>
+      <disciplina sigla="ES667"/>
+      <disciplina sigla="ES670"/>
+      <disciplina sigla="ES672"/>
+      <disciplina sigla="ES690"/>
+      <disciplina sigla="ES704"/>
+      <disciplina sigla="ES710"/>
+      <disciplina sigla="ES726"/>
+      <disciplina sigla="ES727"/>
+      <disciplina sigla="ES728"/>
+      <disciplina sigla="ES730"/>
+      <disciplina sigla="ES767"/>
+      <disciplina sigla="ES770"/>
+      <disciplina sigla="ES827"/>
+      <disciplina sigla="ES828"/>
+      <disciplina sigla="ES879"/>
+      <disciplina sigla="ES891"/>
+      <disciplina sigla="ES916"/>
+      <disciplina sigla="ES926"/>
+      <disciplina sigla="ES927"/>
+      <disciplina sigla="ES951"/>
+      <disciplina sigla="ES952"/>
+      <disciplina sigla="ES965"/>
+      <disciplina sigla="ET520"/>
+      <disciplina sigla="F_128"/>
+      <disciplina sigla="F_129"/>
+      <disciplina sigla="F_328"/>
+      <disciplina sigla="MA111"/>
+      <disciplina sigla="MA141"/>
+      <disciplina sigla="MA211"/>
+      <disciplina sigla="MA311"/>
+      <disciplina sigla="MA327"/>
+      <disciplina sigla="MC102"/>
+      <disciplina sigla="MC202"/>
+      <disciplina sigla="MC336"/>
+      <disciplina sigla="MC404"/>
+      <disciplina sigla="MC722"/>
+      <disciplina sigla="ME414"/>
+      <disciplina sigla="MS211"/>
+      <disciplina sigla="QG100"/>
+    </disciplinas>
+  </curso>
+  <curso cod="50" nome="Quimica - Modalidade Tecnologica">
+    <disciplinas>
+      <disciplina sigla="CE304"/>
+      <disciplina sigla="CE738"/>
+      <disciplina sigla="EM312"/>
+      <disciplina sigla="F_128"/>
+      <disciplina sigla="F_129"/>
+      <disciplina sigla="F_328"/>
+      <disciplina sigla="F_329"/>
+      <disciplina sigla="F_428"/>
+      <disciplina sigla="GM861"/>
+      <disciplina sigla="LA122"/>
+      <disciplina sigla="MA111"/>
+      <disciplina sigla="MA141"/>
+      <disciplina sigla="MA211"/>
+      <disciplina sigla="MA311"/>
+      <disciplina sigla="ME414"/>
+      <disciplina sigla="QA282"/>
+      <disciplina sigla="QA582"/>
+      <disciplina sigla="QA682"/>
+      <disciplina sigla="QA815"/>
+      <disciplina sigla="QF053"/>
+      <disciplina sigla="QF431"/>
+      <disciplina sigla="QF530"/>
+      <disciplina sigla="QF531"/>
+      <disciplina sigla="QF661"/>
+      <disciplina sigla="QF952"/>
+      <disciplina sigla="QG080"/>
+      <disciplina sigla="QG108"/>
+      <disciplina sigla="QG109"/>
+      <disciplina sigla="QG362"/>
+      <disciplina sigla="QG636"/>
+      <disciplina sigla="QG650"/>
+      <disciplina sigla="QG835"/>
+      <disciplina sigla="QI145"/>
+      <disciplina sigla="QI245"/>
+      <disciplina sigla="QI345"/>
+      <disciplina sigla="QI445"/>
+      <disciplina sigla="QI543"/>
+      <disciplina sigla="QI545"/>
+      <disciplina sigla="QO321"/>
+      <disciplina sigla="QO423"/>
+      <disciplina sigla="QO424"/>
+      <disciplina sigla="QO521"/>
+      <disciplina sigla="QO551"/>
+      <disciplina sigla="QO620"/>
+      <disciplina sigla="TA635"/>
+      <disciplina sigla="TA735"/>
+      <disciplina sigla="TA918"/>
+    </disciplinas>
+    <gruposEletivas>
+      <grupoEletivas cred="2">
+        <disciplinas>
+          <disciplina sigla="QG091"/>
+          <disciplina sigla="QG092"/>
+        </disciplinas>
+      </grupoEletivas>
+      <grupoEletivas cred="4">
+        <disciplinas>
+          <disciplina sigla="-----"/>
+          <disciplina sigla="08 cr"/>
+          <disciplina sigla="QF573"/>
+          <disciplina sigla="QF953"/>
+          <disciplina sigla="QA91-"/>
+          <disciplina sigla="QF93-"/>
+          <disciplina sigla="QG96-"/>
+          <disciplina sigla="QI94-"/>
+          <disciplina sigla="QO92-"/>
+        </disciplinas>
+      </grupoEletivas>
+    </gruposEletivas>
+  </curso>
+  <curso cod="52" nome="curso 52 - Ciencias da Terra">
+    <disciplinas>
+      <disciplina sigla="BD101"/>
+      <disciplina sigla="GN101"/>
+      <disciplina sigla="GN105"/>
+      <disciplina sigla="GN106"/>
+      <disciplina sigla="GN107"/>
+      <disciplina sigla="GN108"/>
+      <disciplina sigla="GN110"/>
+      <disciplina sigla="GN207"/>
+      <disciplina sigla="GN208"/>
+      <disciplina sigla="GN301"/>
+      <disciplina sigla="GN304"/>
+      <disciplina sigla="QG104"/>
+    </disciplinas>
+    <modalidades>
+      <modalidade nome="GE Geografia">
+        <disciplinas>
+          <disciplina sigla="BD101"/>
+          <disciplina sigla="BT201"/>
+          <disciplina sigla="GF301"/>
+          <disciplina sigla="GF302"/>
+          <disciplina sigla="GF303"/>
+          <disciplina sigla="GF401"/>
+          <disciplina sigla="GF402"/>
+          <disciplina sigla="GF403"/>
+          <disciplina sigla="GF405"/>
+          <disciplina sigla="GF406"/>
+          <disciplina sigla="GF410"/>
+          <disciplina sigla="GF501"/>
+          <disciplina sigla="GF502"/>
+          <disciplina sigla="GF503"/>
+          <disciplina sigla="GF506"/>
+          <disciplina sigla="GF507"/>
+          <disciplina sigla="GF508"/>
+          <disciplina sigla="GF509"/>
+          <disciplina sigla="GF601"/>
+          <disciplina sigla="GF602"/>
+          <disciplina sigla="GF603"/>
+          <disciplina sigla="GF604"/>
+          <disciplina sigla="GF605"/>
+          <disciplina sigla="GF606"/>
+          <disciplina sigla="GF702"/>
+          <disciplina sigla="GF703"/>
+          <disciplina sigla="GF704"/>
+          <disciplina sigla="GF801"/>
+          <disciplina sigla="GF803"/>
+          <disciplina sigla="GF804"/>
+          <disciplina sigla="GF805"/>
+          <disciplina sigla="GN101"/>
+          <disciplina sigla="GN105"/>
+          <disciplina sigla="GN106"/>
+          <disciplina sigla="GN107"/>
+          <disciplina sigla="GN108"/>
+          <disciplina sigla="GN110"/>
+          <disciplina sigla="GN207"/>
+          <disciplina sigla="GN208"/>
+          <disciplina sigla="GN301"/>
+          <disciplina sigla="GN304"/>
+          <disciplina sigla="LA122"/>
+          <disciplina sigla="LA222"/>
+          <disciplina sigla="ME173"/>
+          <disciplina sigla="QG104"/>
+        </disciplinas>
+        <gruposEletivas>
+          <grupoEletivas cred="0">
+            <disciplinas>
+              <disciplina sigla="GE403"/>
+              <disciplina sigla="GE405"/>
+              <disciplina sigla="GF001"/>
+              <disciplina sigla="GF002"/>
+              <disciplina sigla="GF003"/>
+              <disciplina sigla="GF100"/>
+              <disciplina sigla="GF101"/>
+              <disciplina sigla="GF102"/>
+              <disciplina sigla="GF103"/>
+              <disciplina sigla="GF104"/>
+              <disciplina sigla="GF105"/>
+              <disciplina sigla="GF106"/>
+              <disciplina sigla="GF107"/>
+              <disciplina sigla="GF108"/>
+              <disciplina sigla="GF109"/>
+              <disciplina sigla="GF110"/>
+              <disciplina sigla="GF111"/>
+              <disciplina sigla="GF112"/>
+              <disciplina sigla="GF113"/>
+              <disciplina sigla="GF114"/>
+              <disciplina sigla="GF115"/>
+              <disciplina sigla="GF116"/>
+              <disciplina sigla="GF119"/>
+              <disciplina sigla="GF120"/>
+              <disciplina sigla="GF121"/>
+              <disciplina sigla="GF122"/>
+              <disciplina sigla="GF123"/>
+              <disciplina sigla="GF124"/>
+              <disciplina sigla="GF125"/>
+              <disciplina sigla="GF126"/>
+              <disciplina sigla="GF127"/>
+              <disciplina sigla="GF128"/>
+              <disciplina sigla="GF409"/>
+              <disciplina sigla="GF505"/>
+              <disciplina sigla="GF701"/>
+            </disciplinas>
+          </grupoEletivas>
+          <grupoEletivas cred="0">
+            <disciplinas>
+              <disciplina sigla="-----"/>
+            </disciplinas>
+          </grupoEletivas>
+        </gruposEletivas>
+      </modalidade>
+      <modalidade nome="GO Geologia">
+        <disciplinas>
+          <disciplina sigla="BD101"/>
+          <disciplina sigla="CV323"/>
+          <disciplina sigla="F_128"/>
+          <disciplina sigla="F_129"/>
+          <disciplina sigla="F_328"/>
+          <disciplina sigla="F_329"/>
+          <disciplina sigla="GE001"/>
+          <disciplina sigla="GE117"/>
+          <disciplina sigla="GE300"/>
+          <disciplina sigla="GE402"/>
+          <disciplina sigla="GE406"/>
+          <disciplina sigla="GE407"/>
+          <disciplina sigla="GE501"/>
+          <disciplina sigla="GE502"/>
+          <disciplina sigla="GE503"/>
+          <disciplina sigla="GE504"/>
+          <disciplina sigla="GE506"/>
+          <disciplina sigla="GE511"/>
+          <disciplina sigla="GE601"/>
+          <disciplina sigla="GE602"/>
+          <disciplina sigla="GE603"/>
+          <disciplina sigla="GE606"/>
+          <disciplina sigla="GE702"/>
+          <disciplina sigla="GE703"/>
+          <disciplina sigla="GE704"/>
+          <disciplina sigla="GE706"/>
+          <disciplina sigla="GE707"/>
+          <disciplina sigla="GE708"/>
+          <disciplina sigla="GE711"/>
+          <disciplina sigla="GE801"/>
+          <disciplina sigla="GE802"/>
+          <disciplina sigla="GE803"/>
+          <disciplina sigla="GE804"/>
+          <disciplina sigla="GE805"/>
+          <disciplina sigla="GE806"/>
+          <disciplina sigla="GE901"/>
+          <disciplina sigla="GE902"/>
+          <disciplina sigla="GE903"/>
+          <disciplina sigla="GE904"/>
+          <disciplina sigla="GE910"/>
+          <disciplina sigla="GF303"/>
+          <disciplina sigla="GN101"/>
+          <disciplina sigla="GN105"/>
+          <disciplina sigla="GN106"/>
+          <disciplina sigla="GN107"/>
+          <disciplina sigla="GN108"/>
+          <disciplina sigla="GN110"/>
+          <disciplina sigla="GN207"/>
+          <disciplina sigla="GN208"/>
+          <disciplina sigla="GN301"/>
+          <disciplina sigla="GN304"/>
+          <disciplina sigla="LA122"/>
+          <disciplina sigla="LA222"/>
+          <disciplina sigla="MA141"/>
+          <disciplina sigla="ME480"/>
+          <disciplina sigla="MS220"/>
+          <disciplina sigla="QF432"/>
+          <disciplina sigla="QG104"/>
+        </disciplinas>
+        <gruposEletivas>
+          <grupoEletivas cred="0">
+            <disciplinas>
+              <disciplina sigla="GE002"/>
+              <disciplina sigla="GE003"/>
+              <disciplina sigla="GE100"/>
+              <disciplina sigla="GE101"/>
+              <disciplina sigla="GE102"/>
+              <disciplina sigla="GE104"/>
+              <disciplina sigla="GE106"/>
+              <disciplina sigla="GE107"/>
+              <disciplina sigla="GE108"/>
+              <disciplina sigla="GE109"/>
+              <disciplina sigla="GE110"/>
+              <disciplina sigla="GE111"/>
+              <disciplina sigla="GE112"/>
+              <disciplina sigla="GE113"/>
+              <disciplina sigla="GE114"/>
+              <disciplina sigla="GE115"/>
+              <disciplina sigla="GE116"/>
+              <disciplina sigla="GE118"/>
+              <disciplina sigla="GE119"/>
+              <disciplina sigla="GE120"/>
+              <disciplina sigla="GE121"/>
+              <disciplina sigla="GE122"/>
+              <disciplina sigla="GE123"/>
+              <disciplina sigla="GE124"/>
+              <disciplina sigla="GE125"/>
+              <disciplina sigla="GE126"/>
+              <disciplina sigla="GE127"/>
+              <disciplina sigla="GE403"/>
+              <disciplina sigla="GE405"/>
+              <disciplina sigla="GM201"/>
+              <disciplina sigla="GM222"/>
+              <disciplina sigla="GM290"/>
+            </disciplinas>
+          </grupoEletivas>
+          <grupoEletivas cred="4">
+            <disciplinas>
+              <disciplina sigla="-----"/>
+            </disciplinas>
+          </grupoEletivas>
+          <grupoEletivas cred="0">
+            <disciplinas>
+              <disciplina sigla="BT201"/>
+              <disciplina sigla="GF127"/>
+              <disciplina sigla="GF128"/>
+              <disciplina sigla="GF410"/>
+              <disciplina sigla="GF506"/>
+              <disciplina sigla="GF508"/>
+              <disciplina sigla="GF605"/>
+            </disciplinas>
+          </grupoEletivas>
+        </gruposEletivas>
+      </modalidade>
+    </modalidades>
+  </curso>
+  <curso cod="53" nome="curso 53 - Geologia">
+    <disciplinas>
+      <disciplina sigla="BD101"/>
+      <disciplina sigla="CV323"/>
+      <disciplina sigla="F_128"/>
+      <disciplina sigla="F_129"/>
+      <disciplina sigla="F_328"/>
+      <disciplina sigla="F_329"/>
+      <disciplina sigla="GE001"/>
+      <disciplina sigla="GE117"/>
+      <disciplina sigla="GE300"/>
+      <disciplina sigla="GE402"/>
+      <disciplina sigla="GE406"/>
+      <disciplina sigla="GE407"/>
+      <disciplina sigla="GE501"/>
+      <disciplina sigla="GE502"/>
+      <disciplina sigla="GE503"/>
+      <disciplina sigla="GE504"/>
+      <disciplina sigla="GE506"/>
+      <disciplina sigla="GE511"/>
+      <disciplina sigla="GE601"/>
+      <disciplina sigla="GE602"/>
+      <disciplina sigla="GE603"/>
+      <disciplina sigla="GE606"/>
+      <disciplina sigla="GE702"/>
+      <disciplina sigla="GE703"/>
+      <disciplina sigla="GE704"/>
+      <disciplina sigla="GE706"/>
+      <disciplina sigla="GE707"/>
+      <disciplina sigla="GE708"/>
+      <disciplina sigla="GE711"/>
+      <disciplina sigla="GE801"/>
+      <disciplina sigla="GE802"/>
+      <disciplina sigla="GE803"/>
+      <disciplina sigla="GE804"/>
+      <disciplina sigla="GE805"/>
+      <disciplina sigla="GE806"/>
+      <disciplina sigla="GE901"/>
+      <disciplina sigla="GE902"/>
+      <disciplina sigla="GE903"/>
+      <disciplina sigla="GE904"/>
+      <disciplina sigla="GE910"/>
+      <disciplina sigla="GF303"/>
+      <disciplina sigla="GN101"/>
+      <disciplina sigla="GN105"/>
+      <disciplina sigla="GN106"/>
+      <disciplina sigla="GN107"/>
+      <disciplina sigla="GN108"/>
+      <disciplina sigla="GN110"/>
+      <disciplina sigla="GN207"/>
+      <disciplina sigla="GN208"/>
+      <disciplina sigla="GN301"/>
+      <disciplina sigla="GN304"/>
+      <disciplina sigla="LA122"/>
+      <disciplina sigla="LA222"/>
+      <disciplina sigla="MA141"/>
+      <disciplina sigla="ME480"/>
+      <disciplina sigla="MS220"/>
+      <disciplina sigla="QF432"/>
+      <disciplina sigla="QG104"/>
+    </disciplinas>
+    <gruposEletivas>
+      <grupoEletivas cred="0">
+        <disciplinas>
+          <disciplina sigla="GE002"/>
+          <disciplina sigla="GE003"/>
+          <disciplina sigla="GE100"/>
+          <disciplina sigla="GE101"/>
+          <disciplina sigla="GE102"/>
+          <disciplina sigla="GE104"/>
+          <disciplina sigla="GE106"/>
+          <disciplina sigla="GE107"/>
+          <disciplina sigla="GE108"/>
+          <disciplina sigla="GE109"/>
+          <disciplina sigla="GE110"/>
+          <disciplina sigla="GE111"/>
+          <disciplina sigla="GE112"/>
+          <disciplina sigla="GE113"/>
+          <disciplina sigla="GE114"/>
+          <disciplina sigla="GE115"/>
+          <disciplina sigla="GE116"/>
+          <disciplina sigla="GE118"/>
+          <disciplina sigla="GE119"/>
+          <disciplina sigla="GE120"/>
+          <disciplina sigla="GE121"/>
+          <disciplina sigla="GE122"/>
+          <disciplina sigla="GE123"/>
+          <disciplina sigla="GE124"/>
+          <disciplina sigla="GE125"/>
+          <disciplina sigla="GE126"/>
+          <disciplina sigla="GE127"/>
+          <disciplina sigla="GE403"/>
+          <disciplina sigla="GE405"/>
+          <disciplina sigla="GM201"/>
+          <disciplina sigla="GM222"/>
+          <disciplina sigla="GM290"/>
+        </disciplinas>
+      </grupoEletivas>
+      <grupoEletivas cred="4">
+        <disciplinas>
+          <disciplina sigla="-----"/>
+        </disciplinas>
+      </grupoEletivas>
+      <grupoEletivas cred="0">
+        <disciplinas>
+          <disciplina sigla="BT201"/>
+          <disciplina sigla="GF127"/>
+          <disciplina sigla="GF128"/>
+          <disciplina sigla="GF410"/>
+          <disciplina sigla="GF506"/>
+          <disciplina sigla="GF508"/>
+          <disciplina sigla="GF605"/>
+        </disciplinas>
+      </grupoEletivas>
+    </gruposEletivas>
+  </curso>
+  <curso cod="54" nome="curso 54 - geografia">
+    <disciplinas>
+      <disciplina sigla="BD101"/>
+      <disciplina sigla="BT201"/>
+      <disciplina sigla="GF301"/>
+      <disciplina sigla="GF302"/>
+      <disciplina sigla="GF303"/>
+      <disciplina sigla="GF401"/>
+      <disciplina sigla="GF402"/>
+      <disciplina sigla="GF403"/>
+      <disciplina sigla="GF405"/>
+      <disciplina sigla="GF406"/>
+      <disciplina sigla="GF410"/>
+      <disciplina sigla="GF501"/>
+      <disciplina sigla="GF502"/>
+      <disciplina sigla="GF503"/>
+      <disciplina sigla="GF506"/>
+      <disciplina sigla="GF507"/>
+      <disciplina sigla="GF508"/>
+      <disciplina sigla="GF509"/>
+      <disciplina sigla="GF601"/>
+      <disciplina sigla="GF602"/>
+      <disciplina sigla="GF603"/>
+      <disciplina sigla="GF604"/>
+      <disciplina sigla="GF605"/>
+      <disciplina sigla="GF606"/>
+      <disciplina sigla="GF702"/>
+      <disciplina sigla="GF703"/>
+      <disciplina sigla="GF704"/>
+      <disciplina sigla="GF801"/>
+      <disciplina sigla="GF803"/>
+      <disciplina sigla="GF804"/>
+      <disciplina sigla="GF805"/>
+      <disciplina sigla="GN101"/>
+      <disciplina sigla="GN105"/>
+      <disciplina sigla="GN106"/>
+      <disciplina sigla="GN107"/>
+      <disciplina sigla="GN108"/>
+      <disciplina sigla="GN110"/>
+      <disciplina sigla="GN207"/>
+      <disciplina sigla="GN208"/>
+      <disciplina sigla="GN301"/>
+      <disciplina sigla="GN304"/>
+      <disciplina sigla="LA122"/>
+      <disciplina sigla="LA222"/>
+      <disciplina sigla="ME173"/>
+      <disciplina sigla="QG104"/>
+    </disciplinas>
+    <gruposEletivas>
+      <grupoEletivas cred="4">
+        <disciplinas>
+          <disciplina sigla="GE403"/>
+          <disciplina sigla="GE405"/>
+          <disciplina sigla="GF001"/>
+          <disciplina sigla="GF002"/>
+          <disciplina sigla="GF003"/>
+          <disciplina sigla="GF100"/>
+          <disciplina sigla="GF101"/>
+          <disciplina sigla="GF102"/>
+          <disciplina sigla="GF103"/>
+          <disciplina sigla="GF104"/>
+          <disciplina sigla="GF105"/>
+          <disciplina sigla="GF106"/>
+          <disciplina sigla="GF107"/>
+          <disciplina sigla="GF108"/>
+          <disciplina sigla="GF109"/>
+          <disciplina sigla="GF110"/>
+          <disciplina sigla="GF111"/>
+          <disciplina sigla="GF112"/>
+          <disciplina sigla="GF113"/>
+          <disciplina sigla="GF114"/>
+          <disciplina sigla="GF115"/>
+          <disciplina sigla="GF116"/>
+          <disciplina sigla="GF119"/>
+          <disciplina sigla="GF120"/>
+          <disciplina sigla="GF121"/>
+          <disciplina sigla="GF122"/>
+          <disciplina sigla="GF123"/>
+          <disciplina sigla="GF124"/>
+          <disciplina sigla="GF125"/>
+          <disciplina sigla="GF126"/>
+          <disciplina sigla="GF127"/>
+          <disciplina sigla="GF128"/>
+          <disciplina sigla="GF409"/>
+          <disciplina sigla="GF505"/>
+          <disciplina sigla="GF701"/>
+        </disciplinas>
+      </grupoEletivas>
+      <grupoEletivas cred="8">
+        <disciplinas>
+          <disciplina sigla="-----"/>
+        </disciplinas>
+      </grupoEletivas>
+    </gruposEletivas>
+  </curso>
+  <curso cod="57" nome="Licenciatura em Letras - Portugues">
+    <disciplinas>
+      <disciplina sigla="EL774"/>
+      <disciplina sigla="EL874"/>
+      <disciplina sigla="HL131"/>
+      <disciplina sigla="HL132"/>
+      <disciplina sigla="HL133"/>
+      <disciplina sigla="HL134"/>
+      <disciplina sigla="HL135"/>
+      <disciplina sigla="HL143"/>
+      <disciplina sigla="HL230"/>
+      <disciplina sigla="HL231"/>
+      <disciplina sigla="HL232"/>
+      <disciplina sigla="HL233"/>
+      <disciplina sigla="HL234"/>
+      <disciplina sigla="LA102"/>
+      <disciplina sigla="LA103"/>
+      <disciplina sigla="LA201"/>
+      <disciplina sigla="LA203"/>
+      <disciplina sigla="LA301"/>
+      <disciplina sigla="LA302"/>
+      <disciplina sigla="LA401"/>
+      <disciplina sigla="LA402"/>
+      <disciplina sigla="LA501"/>
+      <disciplina sigla="LA602"/>
+      <disciplina sigla="LG021"/>
+      <disciplina sigla="LG022"/>
+      <disciplina sigla="LG023"/>
+      <disciplina sigla="LG024"/>
+      <disciplina sigla="LG025"/>
+      <disciplina sigla="LG026"/>
+      <disciplina sigla="LG027"/>
+      <disciplina sigla="TL118"/>
+      <disciplina sigla="TL222"/>
+    </disciplinas>
+    <gruposEletivas>
+      <grupoEletivas cred="8">
+        <disciplinas>
+          <disciplina sigla="TL110"/>
+          <disciplina sigla="TL111"/>
+          <disciplina sigla="TL112"/>
+          <disciplina sigla="TL113"/>
+          <disciplina sigla="TL114"/>
+          <disciplina sigla="TL115"/>
+          <disciplina sigla="TL116"/>
+          <disciplina sigla="TL117"/>
+          <disciplina sigla="TL119"/>
+          <disciplina sigla="TL145"/>
+          <disciplina sigla="TL146"/>
+          <disciplina sigla="TL149"/>
+          <disciplina sigla="TL152"/>
+          <disciplina sigla="TL153"/>
+          <disciplina sigla="TL154"/>
+          <disciplina sigla="TL156"/>
+          <disciplina sigla="TL159"/>
+          <disciplina sigla="TL161"/>
+        </disciplinas>
+      </grupoEletivas>
+      <grupoEletivas cred="8">
+        <disciplinas>
+          <disciplina sigla="TL162"/>
+          <disciplina sigla="TL163"/>
+          <disciplina sigla="TL164"/>
+          <disciplina sigla="TL170"/>
+          <disciplina sigla="TL171"/>
+          <disciplina sigla="TL172"/>
+          <disciplina sigla="TL211"/>
+          <disciplina sigla="TL212"/>
+          <disciplina sigla="TL213"/>
+          <disciplina sigla="TL214"/>
+          <disciplina sigla="TL215"/>
+          <disciplina sigla="TL216"/>
+          <disciplina sigla="TL217"/>
+          <disciplina sigla="TL218"/>
+          <disciplina sigla="TL219"/>
+          <disciplina sigla="TL220"/>
+          <disciplina sigla="TL221"/>
+          <disciplina sigla="TL223"/>
+          <disciplina sigla="TL224"/>
+          <disciplina sigla="TL225"/>
+          <disciplina sigla="TL229"/>
+          <disciplina sigla="TL230"/>
+          <disciplina sigla="TL231"/>
+          <disciplina sigla="TL232"/>
+          <disciplina sigla="TL233"/>
+          <disciplina sigla="TL234"/>
+          <disciplina sigla="TL235"/>
+          <disciplina sigla="TL236"/>
+          <disciplina sigla="TL237"/>
+          <disciplina sigla="TL239"/>
+          <disciplina sigla="TL240"/>
+          <disciplina sigla="TL241"/>
+          <disciplina sigla="TL242"/>
+          <disciplina sigla="TL243"/>
+          <disciplina sigla="TL244"/>
+          <disciplina sigla="TL245"/>
+          <disciplina sigla="TL246"/>
+          <disciplina sigla="TL247"/>
+          <disciplina sigla="TL248"/>
+          <disciplina sigla="TL249"/>
+          <disciplina sigla="TL250"/>
+          <disciplina sigla="TL251"/>
+          <disciplina sigla="TL252"/>
+          <disciplina sigla="TL253"/>
+          <disciplina sigla="TL254"/>
+          <disciplina sigla="TL256"/>
+          <disciplina sigla="TL257"/>
+        </disciplinas>
+      </grupoEletivas>
+      <grupoEletivas cred="32">
+        <disciplinas>
+          <disciplina sigla="HL904"/>
+          <disciplina sigla="HL905"/>
+          <disciplina sigla="HL906"/>
+          <disciplina sigla="HL907"/>
+          <disciplina sigla="LA904"/>
+          <disciplina sigla="LA905"/>
+          <disciplina sigla="LA906"/>
+          <disciplina sigla="LA907"/>
+          <disciplina sigla="TL121"/>
+          <disciplina sigla="TL122"/>
+          <disciplina sigla="TL123"/>
+          <disciplina sigla="TL131"/>
+          <disciplina sigla="TL132"/>
+          <disciplina sigla="TL133"/>
+          <disciplina sigla="TL258"/>
+          <disciplina sigla="TL259"/>
+          <disciplina sigla="TL260"/>
+          <disciplina sigla="TL304"/>
+          <disciplina sigla="TL305"/>
+          <disciplina sigla="TL306"/>
+          <disciplina sigla="TL311"/>
+          <disciplina sigla="TL312"/>
+          <disciplina sigla="TL313"/>
+          <disciplina sigla="TL314"/>
+          <disciplina sigla="TL315"/>
+          <disciplina sigla="TL316"/>
+          <disciplina sigla="TL317"/>
+          <disciplina sigla="TL319"/>
+          <disciplina sigla="TL321"/>
+          <disciplina sigla="TL322"/>
+          <disciplina sigla="TL323"/>
+          <disciplina sigla="TL324"/>
+          <disciplina sigla="TL904"/>
+          <disciplina sigla="TL905"/>
+          <disciplina sigla="TL906"/>
+          <disciplina sigla="TL907"/>
+        </disciplinas>
+      </grupoEletivas>
+      <grupoEletivas cred="18">
+        <disciplinas>
+          <disciplina sigla="EL142"/>
+          <disciplina sigla="EL211"/>
+          <disciplina sigla="EL485"/>
+          <disciplina sigla="EL511"/>
+          <disciplina sigla="EL683"/>
+        </disciplinas>
+      </grupoEletivas>
+      <grupoEletivas cred="18">
+        <disciplinas>
+          <disciplina sigla="HL---"/>
+          <disciplina sigla="LA---"/>
+          <disciplina sigla="TL---"/>
+        </disciplinas>
+      </grupoEletivas>
+      <grupoEletivas cred="12">
+        <disciplinas>
+          <disciplina sigla="-----"/>
+        </disciplinas>
+      </grupoEletivas>
+      <grupoEletivas cred="14">
+        <disciplinas>
+          <disciplina sigla="HL071"/>
+          <disciplina sigla="LA071"/>
+          <disciplina sigla="TL071"/>
+        </disciplinas>
+      </grupoEletivas>
+    </gruposEletivas>
+    <opcoes>
+    </opcoes>
+  </curso>
+  <curso cod="58" nome="curso 58 - Fonoaudiologia - Curriculo Pleno">
+    <disciplinas>
+      <disciplina sigla="BF180"/>
+      <disciplina sigla="BS180"/>
+      <disciplina sigla="BS280"/>
+      <disciplina sigla="F_105"/>
+      <disciplina sigla="FN101"/>
+      <disciplina sigla="FN102"/>
+      <disciplina sigla="FN103"/>
+      <disciplina sigla="FN104"/>
+      <disciplina sigla="FN201"/>
+      <disciplina sigla="FN202"/>
+      <disciplina sigla="FN203"/>
+      <disciplina sigla="FN205"/>
+      <disciplina sigla="FN206"/>
+      <disciplina sigla="FN301"/>
+      <disciplina sigla="FN302"/>
+      <disciplina sigla="FN304"/>
+      <disciplina sigla="FN306"/>
+      <disciplina sigla="FN307"/>
+      <disciplina sigla="FN400"/>
+      <disciplina sigla="FN401"/>
+      <disciplina sigla="FN404"/>
+      <disciplina sigla="FN405"/>
+      <disciplina sigla="FN406"/>
+      <disciplina sigla="FN407"/>
+      <disciplina sigla="FN408"/>
+      <disciplina sigla="FN500"/>
+      <disciplina sigla="FN501"/>
+      <disciplina sigla="FN502"/>
+      <disciplina sigla="FN504"/>
+      <disciplina sigla="FN506"/>
+      <disciplina sigla="FN507"/>
+      <disciplina sigla="FN509"/>
+      <disciplina sigla="FN510"/>
+      <disciplina sigla="FN511"/>
+      <disciplina sigla="FN600"/>
+      <disciplina sigla="FN601"/>
+      <disciplina sigla="FN604"/>
+      <disciplina sigla="FN606"/>
+      <disciplina sigla="FN607"/>
+      <disciplina sigla="FN609"/>
+      <disciplina sigla="FN611"/>
+      <disciplina sigla="FN700"/>
+      <disciplina sigla="FN701"/>
+      <disciplina sigla="FN705"/>
+      <disciplina sigla="FN706"/>
+      <disciplina sigla="FN708"/>
+      <disciplina sigla="FN710"/>
+      <disciplina sigla="FN711"/>
+      <disciplina sigla="FN800"/>
+      <disciplina sigla="FN801"/>
+      <disciplina sigla="FN805"/>
+      <disciplina sigla="FN806"/>
+      <disciplina sigla="FN811"/>
+      <disciplina sigla="HL053"/>
+      <disciplina sigla="HL111"/>
+      <disciplina sigla="HL201"/>
+      <disciplina sigla="HL221"/>
+      <disciplina sigla="HL304"/>
+      <disciplina sigla="HL311"/>
+      <disciplina sigla="HL321"/>
+      <disciplina sigla="HL503"/>
+      <disciplina sigla="HL832"/>
+      <disciplina sigla="MD207"/>
+      <disciplina sigla="MD215"/>
+      <disciplina sigla="MD223"/>
+      <disciplina sigla="MD350"/>
+      <disciplina sigla="MD600"/>
+    </disciplinas>
+    <gruposEletivas>
+      <grupoEletivas cred="4">
+        <disciplinas>
+          <disciplina sigla="-----"/>
+        </disciplinas>
+      </grupoEletivas>
+    </gruposEletivas>
+  </curso>
+  <curso cod="60" nome="Superior de Tecnologia em Informatica Diurno">
+    <disciplinas>
+      <disciplina sigla="ST008"/>
+      <disciplina sigla="ST113"/>
+      <disciplina sigla="ST118"/>
+      <disciplina sigla="ST119"/>
+      <disciplina sigla="ST120"/>
+      <disciplina sigla="ST161"/>
+      <disciplina sigla="ST164"/>
+      <disciplina sigla="ST211"/>
+      <disciplina sigla="ST262"/>
+      <disciplina sigla="ST263"/>
+      <disciplina sigla="ST264"/>
+      <disciplina sigla="ST363"/>
+      <disciplina sigla="ST364"/>
+      <disciplina sigla="ST365"/>
+      <disciplina sigla="ST462"/>
+      <disciplina sigla="ST463"/>
+      <disciplina sigla="ST464"/>
+      <disciplina sigla="ST466"/>
+      <disciplina sigla="ST562"/>
+      <disciplina sigla="ST564"/>
+      <disciplina sigla="ST565"/>
+      <disciplina sigla="ST566"/>
+      <disciplina sigla="ST661"/>
+      <disciplina sigla="ST662"/>
+      <disciplina sigla="ST664"/>
+      <disciplina sigla="ST761"/>
+      <disciplina sigla="ST762"/>
+      <disciplina sigla="ST765"/>
+      <disciplina sigla="ST766"/>
+      <disciplina sigla="TT101"/>
+      <disciplina sigla="TT102"/>
+      <disciplina sigla="TT103"/>
+      <disciplina sigla="TT106"/>
+      <disciplina sigla="TT201"/>
+      <disciplina sigla="TT202"/>
+      <disciplina sigla="TT304"/>
+      <disciplina sigla="TT404"/>
+      <disciplina sigla="TT504"/>
+      <disciplina sigla="TT601"/>
+    </disciplinas>
+    <gruposEletivas>
+      <grupoEletivas cred="4">
+        <disciplinas>
+          <disciplina sigla="AM018"/>
+          <disciplina sigla="ST001"/>
+          <disciplina sigla="ST003"/>
+          <disciplina sigla="ST078"/>
+          <disciplina sigla="ST090"/>
+          <disciplina sigla="ST096"/>
+          <disciplina sigla="TT020"/>
+          <disciplina sigla="TT021"/>
+          <disciplina sigla="TT104"/>
+          <disciplina sigla="TT105"/>
+        </disciplinas>
+      </grupoEletivas>
+      <grupoEletivas cred="12">
+        <disciplinas>
+          <disciplina sigla="ST041"/>
+          <disciplina sigla="ST050"/>
+          <disciplina sigla="ST051"/>
+          <disciplina sigla="ST052"/>
+          <disciplina sigla="ST053"/>
+          <disciplina sigla="ST060"/>
+          <disciplina sigla="ST061"/>
+          <disciplina sigla="ST062"/>
+          <disciplina sigla="ST063"/>
+          <disciplina sigla="ST065"/>
+          <disciplina sigla="ST066"/>
+          <disciplina sigla="ST067"/>
+          <disciplina sigla="ST068"/>
+          <disciplina sigla="ST069"/>
+          <disciplina sigla="ST094"/>
+          <disciplina sigla="ST095"/>
+          <disciplina sigla="ST099"/>
+          <disciplina sigla="ST115"/>
+          <disciplina sigla="ST116"/>
+          <disciplina sigla="TT001"/>
+          <disciplina sigla="TT002"/>
+          <disciplina sigla="TT003"/>
+          <disciplina sigla="TT004"/>
+          <disciplina sigla="TT005"/>
+          <disciplina sigla="TT006"/>
+          <disciplina sigla="TT007"/>
+          <disciplina sigla="TT008"/>
+          <disciplina sigla="TT011"/>
+          <disciplina sigla="TT012"/>
+          <disciplina sigla="TT013"/>
+          <disciplina sigla="TT080"/>
+          <disciplina sigla="TT302"/>
+        </disciplinas>
+      </grupoEletivas>
+      <grupoEletivas cred="6">
+        <disciplinas>
+          <disciplina sigla="ST861"/>
+          <disciplina sigla="ST862"/>
+          <disciplina sigla="ST863"/>
+          <disciplina sigla="ST864"/>
+          <disciplina sigla="ST865"/>
+          <disciplina sigla="ST866"/>
+        </disciplinas>
+      </grupoEletivas>
+    </gruposEletivas>
+  </curso>
+  <curso cod="63" nome="curso 63 - Farmacia - Curriculo Pleno">
+    <disciplinas>
+      <disciplina sigla="BB315"/>
+      <disciplina sigla="BG515"/>
+      <disciplina sigla="BI315"/>
+      <disciplina sigla="BM415"/>
+      <disciplina sigla="BP315"/>
+      <disciplina sigla="BP415"/>
+      <disciplina sigla="BS115"/>
+      <disciplina sigla="BS215"/>
+      <disciplina sigla="BT315"/>
+      <disciplina sigla="F_107"/>
+      <disciplina sigla="FR103"/>
+      <disciplina sigla="FR150"/>
+      <disciplina sigla="FR151"/>
+      <disciplina sigla="FR152"/>
+      <disciplina sigla="FR203"/>
+      <disciplina sigla="FR303"/>
+      <disciplina sigla="FR403"/>
+      <disciplina sigla="FR415"/>
+      <disciplina sigla="FR503"/>
+      <disciplina sigla="FR602"/>
+      <disciplina sigla="FR603"/>
+      <disciplina sigla="FR701"/>
+      <disciplina sigla="FR702"/>
+      <disciplina sigla="FR725"/>
+      <disciplina sigla="FR801"/>
+      <disciplina sigla="FR802"/>
+      <disciplina sigla="FR803"/>
+      <disciplina sigla="FR900"/>
+      <disciplina sigla="FR901"/>
+      <disciplina sigla="FR902"/>
+      <disciplina sigla="FR903"/>
+      <disciplina sigla="MD151"/>
+      <disciplina sigla="MD191"/>
+      <disciplina sigla="ME480"/>
+      <disciplina sigla="MS380"/>
+      <disciplina sigla="QA282"/>
+      <disciplina sigla="QF331"/>
+      <disciplina sigla="QG108"/>
+      <disciplina sigla="QG109"/>
+      <disciplina sigla="QG362"/>
+      <disciplina sigla="QI246"/>
+      <disciplina sigla="QO321"/>
+      <disciplina sigla="QO421"/>
+      <disciplina sigla="QO623"/>
+      <disciplina sigla="QO721"/>
+      <disciplina sigla="QO752"/>
+    </disciplinas>
+    <gruposEletivas>
+      <grupoEletivas cred="32">
+        <disciplinas>
+          <disciplina sigla="BB415"/>
+          <disciplina sigla="BH515"/>
+          <disciplina sigla="BM915"/>
+          <disciplina sigla="BM925"/>
+          <disciplina sigla="BP584"/>
+          <disciplina sigla="BP915"/>
+          <disciplina sigla="BS615"/>
+          <disciplina sigla="BT915"/>
+          <disciplina sigla="BT925"/>
+          <disciplina sigla="BT935"/>
+          <disciplina sigla="BV915"/>
+          <disciplina sigla="FR001"/>
+          <disciplina sigla="FR002"/>
+          <disciplina sigla="FR003"/>
+          <disciplina sigla="FR004"/>
+          <disciplina sigla="FR005"/>
+          <disciplina sigla="FR006"/>
+          <disciplina sigla="FR007"/>
+          <disciplina sigla="FR009"/>
+          <disciplina sigla="FR010"/>
+          <disciplina sigla="FR012"/>
+          <disciplina sigla="FR013"/>
+          <disciplina sigla="FR014"/>
+          <disciplina sigla="FR016"/>
+          <disciplina sigla="FR018"/>
+          <disciplina sigla="FR020"/>
+          <disciplina sigla="FR021"/>
+          <disciplina sigla="FR022"/>
+          <disciplina sigla="FR023"/>
+          <disciplina sigla="FR024"/>
+          <disciplina sigla="FR025"/>
+          <disciplina sigla="FR026"/>
+          <disciplina sigla="FR027"/>
+          <disciplina sigla="FR325"/>
+          <disciplina sigla="FR326"/>
+          <disciplina sigla="MD182"/>
+          <disciplina sigla="MD183"/>
+          <disciplina sigla="MD187"/>
+          <disciplina sigla="MD188"/>
+          <disciplina sigla="MD189"/>
+          <disciplina sigla="MD190"/>
+          <disciplina sigla="MD680"/>
+          <disciplina sigla="QG863"/>
+          <disciplina sigla="QI445"/>
+          <disciplina sigla="QO423"/>
+          <disciplina sigla="QO424"/>
+          <disciplina sigla="EI---"/>
+          <disciplina sigla="QA91-"/>
+          <disciplina sigla="QF93-"/>
+          <disciplina sigla="QI94-"/>
+          <disciplina sigla="QO92-"/>
+        </disciplinas>
+      </grupoEletivas>
+    </gruposEletivas>
+  </curso>
+  <curso cod="64" nome="Comunicacao Social - Midialogia">
+    <disciplinas>
+      <disciplina sigla="CS039"/>
+      <disciplina sigla="CS040"/>
+      <disciplina sigla="CS100"/>
+      <disciplina sigla="CS101"/>
+      <disciplina sigla="CS102"/>
+      <disciplina sigla="CS103"/>
+      <disciplina sigla="CS104"/>
+      <disciplina sigla="CS105"/>
+      <disciplina sigla="CS200"/>
+      <disciplina sigla="CS201"/>
+      <disciplina sigla="CS202"/>
+      <disciplina sigla="CS203"/>
+      <disciplina sigla="CS204"/>
+      <disciplina sigla="CS205"/>
+      <disciplina sigla="CS300"/>
+      <disciplina sigla="CS301"/>
+      <disciplina sigla="CS302"/>
+      <disciplina sigla="CS303"/>
+      <disciplina sigla="CS304"/>
+      <disciplina sigla="CS305"/>
+      <disciplina sigla="CS306"/>
+      <disciplina sigla="CS400"/>
+      <disciplina sigla="CS401"/>
+      <disciplina sigla="CS402"/>
+      <disciplina sigla="CS403"/>
+      <disciplina sigla="CS404"/>
+      <disciplina sigla="CS405"/>
+      <disciplina sigla="CS500"/>
+      <disciplina sigla="CS502"/>
+      <disciplina sigla="CS503"/>
+      <disciplina sigla="MC001"/>
+    </disciplinas>
+    <gruposEletivas>
+      <grupoEletivas cred="24">
+        <disciplinas>
+          <disciplina sigla="CS001"/>
+          <disciplina sigla="CS003"/>
+          <disciplina sigla="CS005"/>
+          <disciplina sigla="CS041"/>
+          <disciplina sigla="CS042"/>
+          <disciplina sigla="CS043"/>
+          <disciplina sigla="CS044"/>
+          <disciplina sigla="CS045"/>
+        </disciplinas>
+      </grupoEletivas>
+      <grupoEletivas cred="28">
+        <disciplinas>
+          <disciplina sigla="AR130"/>
+          <disciplina sigla="CS007"/>
+          <disciplina sigla="CS009"/>
+          <disciplina sigla="CS011"/>
+          <disciplina sigla="CS012"/>
+          <disciplina sigla="CS013"/>
+          <disciplina sigla="CS014"/>
+          <disciplina sigla="CS015"/>
+          <disciplina sigla="CS017"/>
+          <disciplina sigla="CS018"/>
+          <disciplina sigla="CS020"/>
+          <disciplina sigla="CS025"/>
+          <disciplina sigla="CS026"/>
+          <disciplina sigla="CS027"/>
+          <disciplina sigla="CS028"/>
+          <disciplina sigla="CS029"/>
+          <disciplina sigla="CS030"/>
+          <disciplina sigla="CS031"/>
+          <disciplina sigla="CS032"/>
+          <disciplina sigla="CS033"/>
+          <disciplina sigla="CS034"/>
+          <disciplina sigla="CS035"/>
+          <disciplina sigla="CS036"/>
+          <disciplina sigla="CS037"/>
+          <disciplina sigla="CS038"/>
+          <disciplina sigla="CS050"/>
+          <disciplina sigla="CS052"/>
+          <disciplina sigla="CS053"/>
+          <disciplina sigla="CS055"/>
+          <disciplina sigla="CS056"/>
+          <disciplina sigla="CS057"/>
+          <disciplina sigla="CS058"/>
+          <disciplina sigla="CS700"/>
+          <disciplina sigla="CS701"/>
+          <disciplina sigla="CS702"/>
+          <disciplina sigla="CS703"/>
+          <disciplina sigla="CS704"/>
+          <disciplina sigla="CS705"/>
+          <disciplina sigla="CS706"/>
+          <disciplina sigla="CS707"/>
+          <disciplina sigla="CS708"/>
+          <disciplina sigla="CS709"/>
+          <disciplina sigla="CS800"/>
+          <disciplina sigla="CS801"/>
+        </disciplinas>
+      </grupoEletivas>
+      <grupoEletivas cred="12">
+        <disciplinas>
+          <disciplina sigla="-----"/>
+        </disciplinas>
+      </grupoEletivas>
+    </gruposEletivas>
+  </curso>
+  <curso cod="73" nome="curso 73 - Superior de Tec. em Saneamento Ambiental - Curriculo Pleno">
+    <disciplinas>
+      <disciplina sigla="ST008"/>
+      <disciplina sigla="ST103"/>
+      <disciplina sigla="ST107"/>
+      <disciplina sigla="ST109"/>
+      <disciplina sigla="ST111"/>
+      <disciplina sigla="ST207"/>
+      <disciplina sigla="ST209"/>
+      <disciplina sigla="ST210"/>
+      <disciplina sigla="ST211"/>
+      <disciplina sigla="ST212"/>
+      <disciplina sigla="ST303"/>
+      <disciplina sigla="ST304"/>
+      <disciplina sigla="ST305"/>
+      <disciplina sigla="ST306"/>
+      <disciplina sigla="ST307"/>
+      <disciplina sigla="ST308"/>
+      <disciplina sigla="ST405"/>
+      <disciplina sigla="ST778"/>
+      <disciplina sigla="TT101"/>
+    </disciplinas>
+    <gruposEletivas>
+      <grupoEletivas cred="4">
+        <disciplinas>
+          <disciplina sigla="ST001"/>
+          <disciplina sigla="ST002"/>
+          <disciplina sigla="ST003"/>
+          <disciplina sigla="ST004"/>
+          <disciplina sigla="ST005"/>
+          <disciplina sigla="ST007"/>
+          <disciplina sigla="ST009"/>
+          <disciplina sigla="ST019"/>
+          <disciplina sigla="ST084"/>
+          <disciplina sigla="ST090"/>
+          <disciplina sigla="ST092"/>
+          <disciplina sigla="TT404"/>
+          <disciplina sigla="TT601"/>
+        </disciplinas>
+      </grupoEletivas>
+      <grupoEletivas cred="2">
+        <disciplinas>
+          <disciplina sigla="-----"/>
+        </disciplinas>
+      </grupoEletivas>
+    </gruposEletivas>
+    <modalidades>
+      <modalidade nome="AB - Controle Ambiental">
+        <disciplinas>
+          <disciplina sigla="ST403"/>
+          <disciplina sigla="ST422"/>
+          <disciplina sigla="ST571"/>
+          <disciplina sigla="ST572"/>
+          <disciplina sigla="ST573"/>
+          <disciplina sigla="ST574"/>
+          <disciplina sigla="ST575"/>
+          <disciplina sigla="ST671"/>
+          <disciplina sigla="ST672"/>
+          <disciplina sigla="ST673"/>
+          <disciplina sigla="ST674"/>
+          <disciplina sigla="ST675"/>
+          <disciplina sigla="ST676"/>
+          <disciplina sigla="ST772"/>
+          <disciplina sigla="ST773"/>
+          <disciplina sigla="ST774"/>
+          <disciplina sigla="ST775"/>
+          <disciplina sigla="ST776"/>
+          <disciplina sigla="ST777"/>
+        </disciplinas>
+        <gruposEletivas>
+          <grupoEletivas cred="10">
+            <disciplinas>
+              <disciplina sigla="ST015"/>
+              <disciplina sigla="ST025"/>
+              <disciplina sigla="ST026"/>
+              <disciplina sigla="ST035"/>
+              <disciplina sigla="ST037"/>
+              <disciplina sigla="ST043"/>
+              <disciplina sigla="ST070"/>
+              <disciplina sigla="ST071"/>
+              <disciplina sigla="ST072"/>
+              <disciplina sigla="ST073"/>
+              <disciplina sigla="ST074"/>
+              <disciplina sigla="ST075"/>
+              <disciplina sigla="ST076"/>
+              <disciplina sigla="ST077"/>
+              <disciplina sigla="ST078"/>
+              <disciplina sigla="ST080"/>
+              <disciplina sigla="ST081"/>
+              <disciplina sigla="ST083"/>
+              <disciplina sigla="ST088"/>
+              <disciplina sigla="ST089"/>
+              <disciplina sigla="ST100"/>
+              <disciplina sigla="ST714"/>
+              <disciplina sigla="ST715"/>
+              <disciplina sigla="ST716"/>
+              <disciplina sigla="ST717"/>
+            </disciplinas>
+          </grupoEletivas>
+          <grupoEletivas cred="4">
+            <disciplinas>
+              <disciplina sigla="ST873"/>
+              <disciplina sigla="ST874"/>
+            </disciplinas>
+          </grupoEletivas>
+        </gruposEletivas>
+      </modalidade>
+    </modalidades>
+  </curso>
+  <curso cod="74" nome="curso 74 - Superior de Tec. em Telecomunicacoes - Curriculo Pleno">
+    <disciplinas>
+      <disciplina sigla="ST008"/>
+      <disciplina sigla="ST109"/>
+      <disciplina sigla="ST209"/>
+      <disciplina sigla="ST462"/>
+      <disciplina sigla="ST564"/>
+      <disciplina sigla="ST664"/>
+      <disciplina sigla="TT096"/>
+      <disciplina sigla="TT101"/>
+      <disciplina sigla="TT103"/>
+      <disciplina sigla="TT106"/>
+      <disciplina sigla="TT107"/>
+      <disciplina sigla="TT108"/>
+      <disciplina sigla="TT109"/>
+      <disciplina sigla="TT204"/>
+      <disciplina sigla="TT206"/>
+      <disciplina sigla="TT207"/>
+      <disciplina sigla="TT208"/>
+      <disciplina sigla="TT209"/>
+      <disciplina sigla="TT210"/>
+      <disciplina sigla="TT301"/>
+      <disciplina sigla="TT302"/>
+      <disciplina sigla="TT304"/>
+      <disciplina sigla="TT306"/>
+      <disciplina sigla="TT307"/>
+      <disciplina sigla="TT308"/>
+      <disciplina sigla="TT401"/>
+      <disciplina sigla="TT402"/>
+      <disciplina sigla="TT404"/>
+      <disciplina sigla="TT405"/>
+      <disciplina sigla="TT501"/>
+      <disciplina sigla="TT503"/>
+      <disciplina sigla="TT504"/>
+      <disciplina sigla="TT507"/>
+      <disciplina sigla="TT601"/>
+      <disciplina sigla="TT602"/>
+      <disciplina sigla="TT603"/>
+    </disciplinas>
+    <gruposEletivas>
+      <grupoEletivas cred="4">
+        <disciplinas>
+          <disciplina sigla="ST001"/>
+          <disciplina sigla="ST002"/>
+          <disciplina sigla="ST005"/>
+          <disciplina sigla="ST007"/>
+          <disciplina sigla="ST090"/>
+          <disciplina sigla="TT007"/>
+          <disciplina sigla="TT104"/>
+          <disciplina sigla="TT105"/>
+        </disciplinas>
+      </grupoEletivas>
+      <grupoEletivas cred="12">
+        <disciplinas>
+          <disciplina sigla="ST050"/>
+          <disciplina sigla="ST051"/>
+          <disciplina sigla="ST066"/>
+          <disciplina sigla="ST661"/>
+          <disciplina sigla="ST776"/>
+          <disciplina sigla="TT001"/>
+          <disciplina sigla="TT002"/>
+          <disciplina sigla="TT003"/>
+          <disciplina sigla="TT004"/>
+          <disciplina sigla="TT005"/>
+          <disciplina sigla="TT006"/>
+          <disciplina sigla="TT008"/>
+          <disciplina sigla="TT080"/>
+          <disciplina sigla="TT081"/>
+          <disciplina sigla="TT083"/>
+          <disciplina sigla="TT084"/>
+          <disciplina sigla="TT086"/>
+          <disciplina sigla="TT087"/>
+          <disciplina sigla="TT089"/>
+          <disciplina sigla="TT090"/>
+          <disciplina sigla="TT092"/>
+          <disciplina sigla="TT093"/>
+          <disciplina sigla="TT094"/>
+          <disciplina sigla="TT095"/>
+          <disciplina sigla="TT097"/>
+          <disciplina sigla="TT098"/>
+        </disciplinas>
+      </grupoEletivas>
+      <grupoEletivas cred="6">
+        <disciplinas>
+          <disciplina sigla="TT505"/>
+          <disciplina sigla="TT506"/>
+          <disciplina sigla="TT613"/>
+          <disciplina sigla="TT614"/>
+        </disciplinas>
+      </grupoEletivas>
+      <grupoEletivas cred="2">
+        <disciplinas>
+          <disciplina sigla="-----"/>
+        </disciplinas>
+      </grupoEletivas>
+    </gruposEletivas>
+  </curso>
+  <curso cod="75" nome="curso 75 - Estudos Literarios - Curriculo Pleno">
+    <disciplinas>
+      <disciplina sigla="TL108"/>
+      <disciplina sigla="TL109"/>
+      <disciplina sigla="TL118"/>
+      <disciplina sigla="TL155"/>
+      <disciplina sigla="TL222"/>
+      <disciplina sigla="TL255"/>
+      <disciplina sigla="TL908"/>
+      <disciplina sigla="TL909"/>
+    </disciplinas>
+    <gruposEletivas>
+      <grupoEletivas cred="8">
+        <disciplinas>
+          <disciplina sigla="TL110"/>
+          <disciplina sigla="TL111"/>
+          <disciplina sigla="TL112"/>
+          <disciplina sigla="TL113"/>
+          <disciplina sigla="TL114"/>
+          <disciplina sigla="TL115"/>
+          <disciplina sigla="TL116"/>
+          <disciplina sigla="TL117"/>
+          <disciplina sigla="TL119"/>
+          <disciplina sigla="TL145"/>
+          <disciplina sigla="TL146"/>
+          <disciplina sigla="TL149"/>
+          <disciplina sigla="TL152"/>
+          <disciplina sigla="TL153"/>
+          <disciplina sigla="TL154"/>
+          <disciplina sigla="TL156"/>
+          <disciplina sigla="TL159"/>
+          <disciplina sigla="TL161"/>
+        </disciplinas>
+      </grupoEletivas>
+      <grupoEletivas cred="8">
+        <disciplinas>
+          <disciplina sigla="TL162"/>
+          <disciplina sigla="TL163"/>
+          <disciplina sigla="TL164"/>
+          <disciplina sigla="TL170"/>
+          <disciplina sigla="TL171"/>
+          <disciplina sigla="TL172"/>
+          <disciplina sigla="TL211"/>
+          <disciplina sigla="TL212"/>
+          <disciplina sigla="TL213"/>
+          <disciplina sigla="TL214"/>
+          <disciplina sigla="TL215"/>
+          <disciplina sigla="TL216"/>
+          <disciplina sigla="TL217"/>
+          <disciplina sigla="TL218"/>
+          <disciplina sigla="TL219"/>
+          <disciplina sigla="TL220"/>
+          <disciplina sigla="TL221"/>
+          <disciplina sigla="TL223"/>
+          <disciplina sigla="TL224"/>
+          <disciplina sigla="TL225"/>
+          <disciplina sigla="TL229"/>
+          <disciplina sigla="TL230"/>
+          <disciplina sigla="TL231"/>
+          <disciplina sigla="TL232"/>
+          <disciplina sigla="TL233"/>
+          <disciplina sigla="TL234"/>
+          <disciplina sigla="TL235"/>
+          <disciplina sigla="TL236"/>
+          <disciplina sigla="TL237"/>
+          <disciplina sigla="TL239"/>
+          <disciplina sigla="TL240"/>
+          <disciplina sigla="TL241"/>
+          <disciplina sigla="TL242"/>
+          <disciplina sigla="TL243"/>
+          <disciplina sigla="TL244"/>
+          <disciplina sigla="TL245"/>
+          <disciplina sigla="TL246"/>
+          <disciplina sigla="TL247"/>
+          <disciplina sigla="TL248"/>
+          <disciplina sigla="TL249"/>
+          <disciplina sigla="TL250"/>
+          <disciplina sigla="TL251"/>
+          <disciplina sigla="TL252"/>
+          <disciplina sigla="TL253"/>
+          <disciplina sigla="TL254"/>
+          <disciplina sigla="TL256"/>
+          <disciplina sigla="TL257"/>
+        </disciplinas>
+      </grupoEletivas>
+      <grupoEletivas cred="16">
+        <disciplinas>
+          <disciplina sigla="TL107"/>
+          <disciplina sigla="TL120"/>
+          <disciplina sigla="TL121"/>
+          <disciplina sigla="TL122"/>
+          <disciplina sigla="TL123"/>
+          <disciplina sigla="TL127"/>
+          <disciplina sigla="TL130"/>
+          <disciplina sigla="TL131"/>
+          <disciplina sigla="TL132"/>
+          <disciplina sigla="TL133"/>
+          <disciplina sigla="TL137"/>
+          <disciplina sigla="TL140"/>
+          <disciplina sigla="TL147"/>
+          <disciplina sigla="TL150"/>
+          <disciplina sigla="TL157"/>
+          <disciplina sigla="TL160"/>
+          <disciplina sigla="TL167"/>
+          <disciplina sigla="TL207"/>
+          <disciplina sigla="TL209"/>
+          <disciplina sigla="TL227"/>
+          <disciplina sigla="TL258"/>
+          <disciplina sigla="TL259"/>
+          <disciplina sigla="TL260"/>
+          <disciplina sigla="TL304"/>
+          <disciplina sigla="TL305"/>
+          <disciplina sigla="TL306"/>
+          <disciplina sigla="TL309"/>
+          <disciplina sigla="TL311"/>
+          <disciplina sigla="TL312"/>
+          <disciplina sigla="TL313"/>
+          <disciplina sigla="TL314"/>
+          <disciplina sigla="TL315"/>
+          <disciplina sigla="TL316"/>
+          <disciplina sigla="TL317"/>
+          <disciplina sigla="TL319"/>
+          <disciplina sigla="TL320"/>
+          <disciplina sigla="TL321"/>
+          <disciplina sigla="TL322"/>
+          <disciplina sigla="TL323"/>
+          <disciplina sigla="TL324"/>
+          <disciplina sigla="TL409"/>
+          <disciplina sigla="TL420"/>
+          <disciplina sigla="TL509"/>
+          <disciplina sigla="TL609"/>
+          <disciplina sigla="TL709"/>
+          <disciplina sigla="TL809"/>
+        </disciplinas>
+      </grupoEletivas>
+      <grupoEletivas cred="16">
+        <disciplinas>
+          <disciplina sigla="TL087"/>
+          <disciplina sigla="TL088"/>
+          <disciplina sigla="TL089"/>
+          <disciplina sigla="TL128"/>
+          <disciplina sigla="TL138"/>
+          <disciplina sigla="TL148"/>
+          <disciplina sigla="TL158"/>
+          <disciplina sigla="TL168"/>
+          <disciplina sigla="TL208"/>
+          <disciplina sigla="TL228"/>
+          <disciplina sigla="TL238"/>
+          <disciplina sigla="TL318"/>
+          <disciplina sigla="TL328"/>
+          <disciplina sigla="TL338"/>
+          <disciplina sigla="TL418"/>
+          <disciplina sigla="TL428"/>
+          <disciplina sigla="TL438"/>
+          <disciplina sigla="TL518"/>
+          <disciplina sigla="TL528"/>
+          <disciplina sigla="TL538"/>
+          <disciplina sigla="TL618"/>
+          <disciplina sigla="TL628"/>
+          <disciplina sigla="TL638"/>
+        </disciplinas>
+      </grupoEletivas>
+      <grupoEletivas cred="16">
+        <disciplinas>
+          <disciplina sigla="TL---"/>
+        </disciplinas>
+      </grupoEletivas>
+      <grupoEletivas cred="16">
+        <disciplinas>
+          <disciplina sigla="AC---"/>
+          <disciplina sigla="AD---"/>
+          <disciplina sigla="AP---"/>
+          <disciplina sigla="AU---"/>
+          <disciplina sigla="CS---"/>
+          <disciplina sigla="EP---"/>
+          <disciplina sigla="GF---"/>
+          <disciplina sigla="HG---"/>
+          <disciplina sigla="HH---"/>
+          <disciplina sigla="HL---"/>
+          <disciplina sigla="HZ---"/>
+          <disciplina sigla="LA---"/>
+          <disciplina sigla="MU---"/>
+          <disciplina sigla="TL---"/>
+        </disciplinas>
+      </grupoEletivas>
+      <grupoEletivas cred="28">
+        <disciplinas>
+          <disciplina sigla="-----"/>
+        </disciplinas>
+      </grupoEletivas>
+    </gruposEletivas>
+    <opcoes>
+    </opcoes>
+  </curso>
+</cursos>
+
