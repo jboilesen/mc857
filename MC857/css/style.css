@@ -1,7 +1,19 @@
 body{
-	
+
 }
 
 form{
-	
+
 }
+
+table { 
+    border-collapse: separate;
+    border-spacing: 5px 10px;
+    font-size: 20px;
+}
+
+td{
+    
+    width: 100px;
+}
+
