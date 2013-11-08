@@ -13,9 +13,11 @@ $(document).on("submit", 'form', function(event) {
         $("#input_curso").val(integraliz.curso.nome);
         //alert(integraliz.curso["obrigatorias"][0]);
         montar_obrigatoria(integraliz.curso["obrigatorias"], integraliz.historico);
-        //montar_eletiva(integraliz.curso["modalidades"]["obrigatorias"], integraliz.historico);
-        $('<label></label>').html("Modalidade").appendTo("div_aluno");
-        $('<br/>');
+      /*  $('<br/>').appendTo("#div_aluno");
+        $('<label></label>').html("Eletivas:").appendTo("#div_aluno");
+        montar_eletiva(integraliz.curso.eletivas[0], integraliz.historico);
+        $('<br/>').appendTo("#div_aluno");*/
+        
     }
     );
     return true;
@@ -23,14 +25,18 @@ $(document).on("submit", 'form', function(event) {
 
 
 function montar_obrigatoria(jsCatalogo, jsHistorico) {
+    var creditos_feitos = 0;
     $('<table></table>').attr({id: "id_table_nucleo_comum"}).appendTo("#div_aluno");
     var ii = j = 0;
     for (i = 0; i < jsCatalogo.length; i++) {
         if (ii <= 0) {
             $('<tr></tr>').attr({id: "id_tr" + j}).appendTo("#id_table_nucleo_comum");
         }
+        
         if (jsHistorico.hasOwnProperty(jsCatalogo[i])) {
             $('<td></td>').appendTo("#id_tr" + j).html(jsCatalogo[i]).css('color','red');
+            creditos_feitos += jsHistorico[jsCatalogo[i]];
+            delete jsHistorico[jsCatalogo[i]];
         }
         else {
             $('<td></td>').appendTo("#id_tr" + j).html(jsCatalogo[i]);
@@ -41,22 +47,41 @@ function montar_obrigatoria(jsCatalogo, jsHistorico) {
             ii = 0;
             j++;
         }
-    }
+    }/*
+    $('<label></label>').html("Total Creditos Obrigatorias").appendTo("#div_aluno");
+    $('<input></input>').val(creditos_feitos).appendTo("#div_aluno");
+    */
+   
 }
 
 
-function montar_eletiva(jsCatalogo, jsHistoricoMod) {
-    $('<table></table>').attr({id: "id_table_nucleo_modalidade"}).appendTo("#div_aluno");
+function montar_eletiva(jsCatalogo, jsHistorico) {
+    //var creditos_eletiva = jsCatalogo.cred;
+    var total_creditos = 0;
+    jsCatalogo = jsCatalogo.disciplinas;
+    $('<table></table>').attr({id: "id_table_nucleo_eletiva"}).appendTo("#div_aluno");
     var ii = j = 0;
     for (i = 0; i < jsCatalogo.length; i++) {
         if (ii <= 0) {
-            $('<tr></tr>').attr({id: "id_tr_mod" + j}).appendTo("#id_table_nucleo_modalidade");
+            $('<tr></tr>').attr({id: "id_tr_ele" + j}).appendTo("#id_table_nucleo_eletiva");
         }
-        if (jsHistoricoMod.hasOwnProperty(jsCatalogo[i])) {
-            $('<td></td>').appendTo("#id_tr_mod" + j).html(jsCatalogo[i]).css('color','red');
+        if (jsHistorico.hasOwnProperty(jsCatalogo[i])) {
+            $('<td></td>').appendTo("#id_tr_ele" + j).html(jsCatalogo[i]).css('color','red');
+            total_creditos += jsHistorico[jsCatalogo[i]];
+            delete jsHistorico[jsCatalogo[i]];
         }
         else {
-            $('<td></td>').appendTo("#id_tr_mod" + j).html(jsCatalogo[i]);
+            if(jsCatalogo[i].indexOf("-") > 0){
+               var sigla_aux = jsCatalogo[i].replace(/-/g, '');
+               $.each(jsHistorico, function(sigla) {
+                    if(sigla.indexOf(sigla_aux) >= 0){
+                        total_creditos += jsHistorico[jsCatalogo[i]];
+                        delete jsHistorico[jsCatalogo[i]];
+                    }
+             });
+                
+            }
+            $('<td></td>').appendTo("#id_tr_ele" + j).html(jsCatalogo[i]);
         }
         ii++;
         if (ii > 4) {
@@ -64,6 +89,11 @@ function montar_eletiva(jsCatalogo, jsHistoricoMod) {
             j++;
         }
     }
+    /*if (total_creditos > creditos_eletiva){
+       total_creditos = creditos_eletiva;
+    }*/
+    /*$('<label></label>').html("Total Creditos Eletivas").appendTo("#div_aluno");
+    $('<input></input>').val(total_creditos).appendTo("#div_aluno");*/
 }
 
 function montar_tabela(jsHistorico) {
