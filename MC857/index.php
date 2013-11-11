@@ -41,9 +41,6 @@
                             </td>
                         </tr>
                     </table>
-                    <br/>
-                    <label>N&uacute;cleo Comum ao Curso:</label>
-                    <br/>
                     <!-- text-decoration: line-through-->
                 </div>
             </form>
