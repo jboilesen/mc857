@@ -23,7 +23,7 @@ $(document).on("submit", 'form', function(event) {
 
 function montar_integralizacao(integralizacao) {
     /*Cria div e monta disciplinas obrigatorias*/
-	$("#div_aluno").html("");
+	//$("#div_aluno").html("");
     $("#div_aluno").append('<div id="div_nucleo_comum" style="margin-top:10px; margin-left:10px;" ></div>');
     montar_obrigatoria(integralizacao.curso["obrigatorias"], integralizacao.historico, "#div_nucleo_comum");
     if (integralizacao.curso.hasOwnProperty("modalidades")) {
