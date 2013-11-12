@@ -5,7 +5,7 @@ $(document).on("submit", 'form', function(event) {
     function(value) {
         $("#integralizacao").html(value);
         var integraliz = JSON.parse(value);
-        //$("#integralizacao").empty();
+        $("#integralizacao").empty();
         $("#div_aluno").remove();
         $("#form_integralizacao").append('<div id="div_aluno" style="margin-top: 10px;"><table><tr><td><label>RA</label></td><td><label >Nome</label></td><td><label>Curso</label></td></tr><tr><td><input id="input_ra" style="width: 100px" disabled="true"/></td><td><input id="input_nome" style="width: 250px" disabled="true"/></td><td><input id="input_curso" style="width: 500px" disabled="true"/></td></tr></table></div>');
         $("#id_table_nucleo_comum").empty();
@@ -24,7 +24,6 @@ $(document).on("submit", 'form', function(event) {
 });
 
 function montar_integralizacao(integralizacao) {
-    // monta disciplinas obrigatorias
     $("#div_aluno").append('<div id="div_nucleo_comum" style="margin-top:10px; margin-left:10px;" ></div>');
     montar_obrigatoria(integralizacao.curso["obrigatorias"], integralizacao.historico, "#div_nucleo_comum");
     if (integralizacao.curso.hasOwnProperty("modalidades")) {
@@ -76,9 +75,10 @@ function montar_integralizacao(integralizacao) {
 }
 
 function montar_obrigatoria(jsCatalogo, jsHistorico, id_div_pai) {
+    var creditos_feitos = 0;
+    $("#id_div_pai").html("");
     $('<label></label>').css({"font-size": "17px"}).html("N&uacute;cleo Comum ao Curso").appendTo(id_div_pai);
     $('<br/>').appendTo(id_div_pai);
-    var creditos_feitos = 0;
     $('<table></table>').attr({id: "id_table_nucleo_comum"}).appendTo(id_div_pai);
     var ii = -1;
     var j = 0;
@@ -106,6 +106,7 @@ function montar_obrigatoria(jsCatalogo, jsHistorico, id_div_pai) {
 }
 
 function montar_modalidade(jsCatalogo, jsHistorico, id_div_pai) {
+    $("#id_div_pai").html("");
     $('<label></label>').css({"font-size": "17px"}).html("Al&eacute;m do n&uacute;cleo comum, o aluno dever&aacute; cumprir").appendTo(id_div_pai);
     $('<table></table>').attr({id: "id_table_modalidade"}).appendTo(id_div_pai);
     var ii = -1;
@@ -221,6 +222,7 @@ function montar_eletiva_mod(jsCatalogo, jsHistorico, id_div_pai) {
         });
 
         if (creditos_eletiva > 0) {
+            $("#id_div_pai").html("");
             $(id_div_pai).append('<div id="div_eletiva_mod_' + k + '"></div>');
             $('<label></label>').css({"font-size": "14px"}).html(creditos_eletiva + " cr&eacute;ditos em:").appendTo("#div_eletiva_mod_" + k);
             $('<table></table>').attr({id: "id_table_eletiva_mod_" + k}).appendTo("#div_eletiva_mod_" + k);

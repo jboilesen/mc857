@@ -129,7 +129,7 @@
   <disciplina sigla="CV900" titulo="Sistemas Prediais Hidraulico-Sanitarios e Gas II" cred="-1"/>
   <disciplina sigla="CV901" titulo="Qualidade de Projetos" cred="-1"/>
   <disciplina sigla="CV902" titulo="Integracao de Projeto CAD" cred="-1"/>
-  <disciplina sigla="CV903" titulo="Gestao Financeira Econômica e Riscos de Empreendimentos" cred="-1"/>
+  <disciplina sigla="CV903" titulo="Gestao Financeira Economica e Riscos de Empreendimentos" cred="-1"/>
   <disciplina sigla="CV904" titulo="Qualidade na Construcao" cred="-1"/>
   <disciplina sigla="CV001" titulo="Projeto e Implantacao de Loteamento" cred="-1"/>
   <disciplina sigla="CV002" titulo="Planejamento e Logistica de Canteiro de Obras" cred="-1"/>
@@ -202,7 +202,7 @@
   <disciplina sigla="TA514" titulo="Bioquimica de Alimentos" cred="-1"/>
   <disciplina sigla="TA516" titulo="Quimica de Alimentos II" cred="-1"/>
   <disciplina sigla="TA521" titulo="Caracteristicas e Pre-Processamento de Carnes" cred="-1"/>
-  <disciplina sigla="TA534" titulo="Fenômenos de Transporte" cred="-1"/>
+  <disciplina sigla="TA534" titulo="Fenomenos de Transporte" cred="-1"/>
   <disciplina sigla="TA541" titulo="Analise Sensorial de Alimentos" cred="-1"/>
   <disciplina sigla="TA542" titulo="Economia Agroalimentar" cred="-1"/>
   <disciplina sigla="TA610" titulo="Transformacoes Bioquimicas em Alimentos" cred="-1"/>
@@ -289,11 +289,11 @@
   <disciplina sigla="MD944" titulo="Atencao Clinico-Cirurgica I" cred="-1"/>
   <disciplina sigla="MD945" titulo="Saude Coletiva" cred="-1"/>
   <disciplina sigla="MD949" titulo="etica e Exercicio Profissional I" cred="-1"/>
-  <disciplina sigla="CE131" titulo="Introducao � Economia para Ciencias Sociais" cred="4"/>
+  <disciplina sigla="CE131" titulo="Introducao a Economia para Ciencias Sociais" cred="4"/>
   <disciplina sigla="CE730" titulo="Economia Brasileira" cred="4"/>
-  <disciplina sigla="HZ141" titulo="Politica I: Introducao � Ciencia Politica" cred="4"/>
+  <disciplina sigla="HZ141" titulo="Politica I: Introducao a Ciencia Politica" cred="4"/>
   <disciplina sigla="HZ158" titulo="Sociologia de Durkheim" cred="4"/>
-  <disciplina sigla="HZ161" titulo="Antropologia I: Introducao � Antropologia Social" cred="4"/>
+  <disciplina sigla="HZ161" titulo="Antropologia I: Introducao a Antropologia Social" cred="4"/>
   <disciplina sigla="HZ248" titulo="Politica II: Politica Brasileira" cred="4"/>
   <disciplina sigla="HZ258" titulo="Sociologia de Marx" cred="4"/>
   <disciplina sigla="HZ263" titulo="Antropologia II - Cultura e Praticas Sociais" cred="4"/>
@@ -301,34 +301,34 @@
   <disciplina sigla="HZ352" titulo="Metodologia e Tecnica de Pesquisa" cred="4"/>
   <disciplina sigla="HZ358" titulo="Sociologia de Weber" cred="4"/>
   <disciplina sigla="HZ363" titulo="Antropologia III: Estrutura e Praticas Sociais" cred="4"/>
-  <disciplina sigla="ME173" titulo="Estat�stica Descritiva" cred="4"/>
-  <disciplina sigla="HZ460" titulo="Pesquisa Antropol�gica" cred="-1"/>
+  <disciplina sigla="ME173" titulo="Estatistica Descritiva" cred="4"/>
+  <disciplina sigla="HZ460" titulo="Pesquisa Antropologica" cred="-1"/>
   <disciplina sigla="HZ465" titulo="Antropologia no Brasil" cred="-1"/>
   <disciplina sigla="HZ466" titulo="Mito e Ritual" cred="-1"/>
   <disciplina sigla="HZ467" titulo="Antropologia e Estudos de Parentesco" cred="-1"/>
   <disciplina sigla="HZ468" titulo="Antropologia e Teoria Social Contemporanea" cred="-1"/>
-  <disciplina sigla="HZ365" titulo="Antropologia da Religi�o" cred="-1"/>
+  <disciplina sigla="HZ365" titulo="Antropologia da Religiao" cred="-1"/>
   <disciplina sigla="HZ562" titulo="Antropologia Economica" cred="-1"/>
   <disciplina sigla="HZ565" titulo="Antropologia Urbana" cred="-1"/>
   <disciplina sigla="HZ566" titulo="Antropologia e Meio Ambiente" cred="-1"/>
-  <disciplina sigla="HZ567" titulo="Antropologia e os Estudos de G�nero" cred="-1"/>
-  <disciplina sigla="HZ568" titulo="Cidades: Espa�os e Territ�rios" cred="-1"/>
+  <disciplina sigla="HZ567" titulo="Antropologia e os Estudos de Genero" cred="-1"/>
+  <disciplina sigla="HZ568" titulo="Cidades: Espacos e Territorios" cred="-1"/>
   <disciplina sigla="HZ569" titulo="Cultura e Poder" cred="-1"/>
   <disciplina sigla="HZ666" titulo="Identidades" cred="-1"/>
-  <disciplina sigla="HZ667" titulo="M�dia, Cultura e Historia" cred="-1"/>
-  <disciplina sigla="HZ668" titulo="Etnologia das Popula��es Rurais" cred="-1"/>
+  <disciplina sigla="HZ667" titulo="Midia, Cultura e Historia" cred="-1"/>
+  <disciplina sigla="HZ668" titulo="Etnologia das Populacoes Rurais" cred="-1"/>
   <disciplina sigla="HZ669" titulo="Etnologia Sul Americana" cred="-1"/>
-  <disciplina sigla="HZ766" titulo="Introducao � Etnologia" cred="-1"/>
-  <disciplina sigla="HZ767" titulo="Itiner�rios Intelectuais e Etnografia do Saber" cred="-1"/>
+  <disciplina sigla="HZ766" titulo="Introducao a Etnologia" cred="-1"/>
+  <disciplina sigla="HZ767" titulo="Itinerarios Intelectuais e Etnografia do Saber" cred="-1"/>
   <disciplina sigla="HZ768" titulo="Nacao e Globalizacao" cred="-1"/>
   <disciplina sigla="HZ769" titulo="Etnicidade e Racismo" cred="-1"/>
   <disciplina sigla="HZ865" titulo="Antropologia e Demografia" cred="-1"/>
   <disciplina sigla="HZ866" titulo="Antropologia e os Grupos de Idade" cred="-1"/>
-  <disciplina sigla="HZ867" titulo="Antropologia das Organiza��es" cred="-1"/>
-  <disciplina sigla="HZ868" titulo="Sociedades Ind�genas no Brasil Contemporaneo" cred="-1"/>
-  <disciplina sigla="HZ869" titulo="Estudos de Fam�lia" cred="-1"/>
+  <disciplina sigla="HZ867" titulo="Antropologia das Organizacoes" cred="-1"/>
+  <disciplina sigla="HZ868" titulo="Sociedades Indigenas no Brasil Contemporaneo" cred="-1"/>
+  <disciplina sigla="HZ869" titulo="Estudos de Familia" cred="-1"/>
   <disciplina sigla="HZ962" titulo="Antropologia Politica" cred="-1"/>
-  <disciplina sigla="HZ447" titulo="Politica IV - Tradi��es do Pensamento Politico" cred="-1"/>
+  <disciplina sigla="HZ447" titulo="Politica IV - Tradicoes do Pensamento Politico" cred="-1"/>
   <disciplina sigla="HZ546" titulo="Politica V - Teoria e Pesquisa em Ciencia Politica" cred="-1"/>
   <disciplina sigla="HZ140" titulo="Partidos Politicos" cred="-1"/>
   <disciplina sigla="HZ240" titulo="Democracia e Cidadania" cred="-1"/>
@@ -357,14 +357,14 @@
   <disciplina sigla="EP142" titulo="Educacao e Antropologia Cultural" cred="-1"/>
   <disciplina sigla="EP151" titulo="Leitura e Producao de Textos" cred="-1"/>
   <disciplina sigla="EP158" titulo="Educacao, Corpo e Arte" cred="-1"/>
-  <disciplina sigla="EP164" titulo="Organizacao do Trabalho Pedag�gico e Gest�o Escolar" cred="-1"/>
+  <disciplina sigla="EP164" titulo="Organizacao do Trabalho Pedagogico e Gestao Escolar" cred="-1"/>
   <disciplina sigla="EP170" titulo="Historia das Politicas Educacionais" cred="-1"/>
   <disciplina sigla="EP171" titulo="Educacao e Cidadania" cred="-1"/>
   <disciplina sigla="EP230" titulo="Filosofia da Educacao II" cred="-1"/>
   <disciplina sigla="EP240" titulo="Educacao e Transformacao Social" cred="-1"/>
   <disciplina sigla="EP243" titulo="Antropologia da Educacao" cred="-1"/>
   <disciplina sigla="EP343" titulo="Comunicacao e Educacao" cred="-1"/>
-  <disciplina sigla="EP366" titulo="Comportamento Humano nas Organiza��es" cred="-1"/>
+  <disciplina sigla="EP366" titulo="Comportamento Humano nas Organizacoes" cred="-1"/>
   <disciplina sigla="EP368" titulo="Educacao, Saude e Trabalho" cred="-1"/>
   <disciplina sigla="EP408" titulo="Imagens do Outro: Educacao, Cultura e Alteridade" cred="-1"/>
   <disciplina sigla="EP409" titulo="Etica e Diversidade" cred="-1"/>
@@ -388,48 +388,48 @@
   <disciplina sigla="CE104" titulo="Instituicoes de Direito" cred="-1"/>
   <disciplina sigla="CE141" titulo="Contabilidade e Analise de Balanco" cred="-1"/>
   <disciplina sigla="CE151" titulo="Introducao a Economia" cred="-1"/>
-  <disciplina sigla="CE161" titulo="Historia Econômica Geral" cred="-1"/>
+  <disciplina sigla="CE161" titulo="Historia Economica Geral" cred="-1"/>
   <disciplina sigla="CE213" titulo="Economia Politica I" cred="-1"/>
   <disciplina sigla="CE243" titulo="Ciencia Politica" cred="-1"/>
   <disciplina sigla="CE251" titulo="Contabilidade Social" cred="-1"/>
-  <disciplina sigla="CE261" titulo="Sistemas Econômicos" cred="-1"/>
+  <disciplina sigla="CE261" titulo="Sistemas Economicos" cred="-1"/>
   <disciplina sigla="CE271" titulo="Introducao a Microeconomia" cred="-1"/>
-  <disciplina sigla="CE281" titulo="Fundamentos de Historia Econômica do Brasil" cred="-1"/>
+  <disciplina sigla="CE281" titulo="Fundamentos de Historia Economica do Brasil" cred="-1"/>
   <disciplina sigla="CE313" titulo="Economia Politica II" cred="-1"/>
   <disciplina sigla="CE331" titulo="Economia Matematica I" cred="-1"/>
   <disciplina sigla="CE361" titulo="Microeconomia I" cred="-1"/>
   <disciplina sigla="CE371" titulo="Macroeconomia" cred="-1"/>
   <disciplina sigla="CE381" titulo="Economia Internacional I" cred="-1"/>
   <disciplina sigla="CE431" titulo="Economia Matematica II" cred="-1"/>
-  <disciplina sigla="CE432" titulo="Estatistica Econômica e Introducao a Econometria" cred="-1"/>
+  <disciplina sigla="CE432" titulo="Estatistica Economica e Introducao a Econometria" cred="-1"/>
   <disciplina sigla="CE461" titulo="Microeconomia II" cred="-1"/>
   <disciplina sigla="CE471" titulo="Macroeconomia II" cred="-1"/>
   <disciplina sigla="CE481" titulo="Economia Internacional II" cred="-1"/>
-  <disciplina sigla="CE491" titulo="Formacao Econômica do Brasil I" cred="-1"/>
+  <disciplina sigla="CE491" titulo="Formacao Economica do Brasil I" cred="-1"/>
   <disciplina sigla="CE531" titulo="Tecnicas de Pesquisa em Economia" cred="-1"/>
   <disciplina sigla="CE561" titulo="Microeconomia III" cred="-1"/>
   <disciplina sigla="CE571" titulo="Macroeconomia III" cred="-1"/>
   <disciplina sigla="CE581" titulo="Economia Internacional III" cred="-1"/>
-  <disciplina sigla="CE591" titulo="Formacao Econômica do Brasil II" cred="-1"/>
+  <disciplina sigla="CE591" titulo="Formacao Economica do Brasil II" cred="-1"/>
   <disciplina sigla="CE592" titulo="Economia Brasileira Contemporanea I" cred="-1"/>
   <disciplina sigla="CE593" titulo="Economia Brasileira Contemporanea II" cred="-1"/>
-  <disciplina sigla="CE622" titulo="Desenvolvimento socioeconômico" cred="-1"/>
+  <disciplina sigla="CE622" titulo="Desenvolvimento socioeconomico" cred="-1"/>
   <disciplina sigla="CE631" titulo="Econometria I" cred="-1"/>
   <disciplina sigla="CE671" titulo="Economia Monetaria" cred="-1"/>
   <disciplina sigla="CE681" titulo="Economia Internacional IV" cred="-1"/>
-  <disciplina sigla="CE690" titulo="Metodologia de Analise Econômica I" cred="-1"/>
+  <disciplina sigla="CE690" titulo="Metodologia de Analise Economica I" cred="-1"/>
   <disciplina sigla="CE691" titulo="Microeconomia IV" cred="-1"/>
   <disciplina sigla="CE752" titulo="Monografia I" cred="-1"/>
-  <disciplina sigla="CE791" titulo="Historia do Pensamento Econômico" cred="-1"/>
-  <disciplina sigla="CE795" titulo="Metodologia de Analise Econômica II" cred="-1"/>
+  <disciplina sigla="CE791" titulo="Historia do Pensamento Economico" cred="-1"/>
+  <disciplina sigla="CE795" titulo="Metodologia de Analise Economica II" cred="-1"/>
   <disciplina sigla="CE851" titulo="Monografia II" cred="-1"/>
   <disciplina sigla="CE853" titulo="Economia do Setor Publico" cred="-1"/>
-  <disciplina sigla="CE912" titulo="Politica e Planejamento Econômico I" cred="-1"/>
-  <disciplina sigla="CE913" titulo="Politica e Planejamento Econômico II" cred="-1"/>
+  <disciplina sigla="CE912" titulo="Politica e Planejamento Economico I" cred="-1"/>
+  <disciplina sigla="CE913" titulo="Politica e Planejamento Economico II" cred="-1"/>
   <disciplina sigla="HZ253" titulo="Introducao a Ciencias Sociais" cred="-1"/>
   <disciplina sigla="CE314" titulo="Demografia e Urbanizacao" cred="-1"/>
   <disciplina sigla="CE317" titulo="Matematica Financeira" cred="-1"/>
-  <disciplina sigla="CE401" titulo="Problemas Econômicos Atuais" cred="-1"/>
+  <disciplina sigla="CE401" titulo="Problemas Economicos Atuais" cred="-1"/>
   <disciplina sigla="CE415" titulo="Economia Neoclassica II" cred="-1"/>
   <disciplina sigla="CE522" titulo="Teoria do Desenvolvimento I" cred="-1"/>
   <disciplina sigla="CE523" titulo="Teoria do Desenvolvimento II" cred="-1"/>
@@ -645,15 +645,15 @@
   <disciplina sigla="AD081" titulo="Trabalho de Conclusao de Curso em Arte Educacao I" cred="4"/>
   <disciplina sigla="AD082" titulo="Trabalho de Conclusao de Curso em Arte Educacao II" cred="4"/>
   <disciplina sigla="AR501" titulo="Ensino das Artes e Necessidades Educativas Especiais I" cred="4"/>
-  <disciplina sigla="AC004" titulo="Laborat�rio de Pratica Teatral: Cenografia e Figurino 00004" cred="-1"/>
-  <disciplina sigla="AC007" titulo="Laborat�rio de Praticas Corporais I" cred="-1"/>
-  <disciplina sigla="AC008" titulo="Laborat�rio de Praticas Vocais I" cred="-1"/>
-  <disciplina sigla="AC009" titulo="Laborat�rio de Praticas Corporais II" cred="-1"/>
-  <disciplina sigla="AC010" titulo="Laborat�rio de Praticas Vocais II" cred="-1"/>
-  <disciplina sigla="AC011" titulo="Laborat�rio de Praticas Corporais III" cred="-1"/>
-  <disciplina sigla="AC012" titulo="Laborat�rio de Praticas Vocais III" cred="-1"/>
+  <disciplina sigla="AC004" titulo="Laboratorio de Pratica Teatral: Cenografia e Figurino 00004" cred="-1"/>
+  <disciplina sigla="AC007" titulo="Laboratorio de Praticas Corporais I" cred="-1"/>
+  <disciplina sigla="AC008" titulo="Laboratorio de Praticas Vocais I" cred="-1"/>
+  <disciplina sigla="AC009" titulo="Laboratorio de Praticas Corporais II" cred="-1"/>
+  <disciplina sigla="AC010" titulo="Laboratorio de Praticas Vocais II" cred="-1"/>
+  <disciplina sigla="AC011" titulo="Laboratorio de Praticas Corporais III" cred="-1"/>
+  <disciplina sigla="AC012" titulo="Laboratorio de Praticas Vocais III" cred="-1"/>
   <disciplina sigla="AC105" titulo="Canto para o Ator I" cred="-1"/>
-  <disciplina sigla="AC109" titulo="M�sica e Ritmo I" cred="-1"/>
+  <disciplina sigla="AC109" titulo="Musica e Ritmo I" cred="-1"/>
   <disciplina sigla="AC112" titulo="Tecnicas Circenses I" cred="-1"/>
   <disciplina sigla="AC113" titulo="Formas Espetaculares no Ocidente" cred="-1"/>
   <disciplina sigla="AC119" titulo="Filosofia e Historia da Arte" cred="-1"/>
@@ -675,7 +675,7 @@
   <disciplina sigla="AC243" titulo="Tecnicas Corporeas: Luta II" cred="-1"/>
   <disciplina sigla="AC248" titulo="Elementos Tecnicos do Corpo II" cred="-1"/>
   <disciplina sigla="AC250" titulo="Improvisacao: O Jogo II 00003" cred="-1"/>
-  <disciplina sigla="AC270" titulo="Improvisacao: O Sil�ncio II" cred="-1"/>
+  <disciplina sigla="AC270" titulo="Improvisacao: O Silencio II" cred="-1"/>
   <disciplina sigla="AC280" titulo="Improvisacao: A Palavra II" cred="-1"/>
   <disciplina sigla="AC310" titulo="Danca: Folclore Brasileiro I" cred="-1"/>
   <disciplina sigla="AC311" titulo="Expressao Vocal I" cred="-1"/>
@@ -698,7 +698,7 @@
   <disciplina sigla="AC777" titulo="Projeto Integrado de Criacao Cenica III" cred="-1"/>
   <disciplina sigla="AC778" titulo="Estudos Teatrais III: A Questao do Personagem" cred="-1"/>
   <disciplina sigla="AC888" titulo="Projeto Integrado de Criacao Cenica IV" cred="-1"/>
-  <disciplina sigla="AC889" titulo="Estudos Teatrais IV: Po�ticas Cenicas" cred="-1"/>
+  <disciplina sigla="AC889" titulo="Estudos Teatrais IV: Politicas Cenicas" cred="-1"/>
   <disciplina sigla="AC890" titulo="Metodologia e Criacao em Artes Cenicas" cred="-1"/>
   <disciplina sigla="AC891" titulo="Monografia" cred="-1"/>
   <disciplina sigla="AC001" titulo="Laboratorio de Pratica Teatral: Interpretacao" cred="-1"/>
@@ -897,113 +897,113 @@
   <disciplina sigla="CE738" titulo="Economia para Engenharia" cred="4"/>
   <disciplina sigla="CE838" titulo="Contabilidade para Engenharia" cred="2"/>
   <disciplina sigla="EA044" titulo="Planejamento e Analise de Sistemas de Producao" cred="4"/>
-  <disciplina sigla="EA513" titulo="Circuitos El�tricos" cred="4"/>
-  <disciplina sigla="EA772" titulo="Circuitos L�gicos" cred="4"/>
-  <disciplina sigla="EE400" titulo="M�todos da Engenharia El�trica" cred="4"/>
-  <disciplina sigla="EE530" titulo="Eletr�nica Basica I" cred="4"/>
-  <disciplina sigla="EE531" titulo="Laborat�rio de Eletr�nica Basica I" cred="2"/>
-  <disciplina sigla="EM423" titulo="Resist�ncia dos Materiais" cred="3"/>
-  <disciplina sigla="EM524" titulo="Fen�menos de Transporte" cred="4"/>
-  <disciplina sigla="F_429" titulo="F�sica Experimental IV" cred="-1"/>
-  <disciplina sigla="LA122" titulo="Ingl�s Instrumental I" cred="4"/>
+  <disciplina sigla="EA513" titulo="Circuitos Eletricos" cred="4"/>
+  <disciplina sigla="EA772" titulo="Circuitos Logicos" cred="4"/>
+  <disciplina sigla="EE400" titulo="Metodos da Engenharia Eletrica" cred="4"/>
+  <disciplina sigla="EE530" titulo="Eletronica Basica I" cred="4"/>
+  <disciplina sigla="EE531" titulo="Laboratorio de Eletronica Basica I" cred="2"/>
+  <disciplina sigla="EM423" titulo="Resistencia dos Materiais" cred="3"/>
+  <disciplina sigla="EM524" titulo="Fenomenos de Transporte" cred="4"/>
+  <disciplina sigla="F_429" titulo="Fisica Experimental IV" cred="-1"/>
+  <disciplina sigla="LA122" titulo="Ingles Instrumental I" cred="4"/>
   <disciplina sigla="MC326" titulo="Estruturas de Arquivos" cred="-1"/>
   <disciplina sigla="MC336" titulo="Paradigmas de Programacao" cred="4"/>
-  <disciplina sigla="MC348" titulo="Fundamentos Matem�ticos da Computacao" cred="-1"/>
+  <disciplina sigla="MC348" titulo="Fundamentos Matematicos da Computacao" cred="-1"/>
   <disciplina sigla="MC404" titulo="Organizacao Basica de Computadores e Linguagem de Montagem" cred="-1"/>
   <disciplina sigla="MC448" titulo="Projeto e Analise de Algoritmos I" cred="-1"/>
-  <disciplina sigla="ME323" titulo="Introducao aos Modelos Probabil�sticos" cred="4"/>
-  <disciplina sigla="CE839" titulo="Introducao � Administracao para Computacao" cred="-1"/>
-  <disciplina sigla="MC011" titulo="Laborat�rio de Compiladores" cred="-1"/>
+  <disciplina sigla="ME323" titulo="Introducao aos Modelos Probabilisticos" cred="4"/>
+  <disciplina sigla="CE839" titulo="Introducao a Administracao para Computacao" cred="-1"/>
+  <disciplina sigla="MC011" titulo="Laboratorio de Compiladores" cred="-1"/>
   <disciplina sigla="MC030" titulo="Projeto Final de Graduacao" cred="-1"/>
-  <disciplina sigla="MC436" titulo="Introducao � Engenharia de Software" cred="-1"/>
+  <disciplina sigla="MC436" titulo="Introducao a Engenharia de Software" cred="-1"/>
   <disciplina sigla="MC514" titulo="Sistemas Operacionais: Teoria e Pratica" cred="-1"/>
   <disciplina sigla="MC536" titulo="Bancos de Dados: Teoria e Pratica" cred="-1"/>
   <disciplina sigla="MC548" titulo="Projeto e Analise de Algoritmos II" cred="-1"/>
-  <disciplina sigla="MC613" titulo="Laborat�rio de Circuitos Digitais" cred="-1"/>
-  <disciplina sigla="MC714" titulo="Sistemas Distribu�dos" cred="-1"/>
-  <disciplina sigla="MC715" titulo="Laborat�rio de Sistemas Distribu�dos" cred="-1"/>
+  <disciplina sigla="MC613" titulo="Laboratorio de Circuitos Digitais" cred="-1"/>
+  <disciplina sigla="MC714" titulo="Sistemas Distribuidos" cred="-1"/>
+  <disciplina sigla="MC715" titulo="Laboratorio de Sistemas Distribuidos" cred="-1"/>
   <disciplina sigla="MC722" titulo="Projeto de Sistemas Computacionais" cred="-1"/>
-  <disciplina sigla="MC723" titulo="Laborat�rio de projetos de sistemas computacionais" cred="-1"/>
+  <disciplina sigla="MC723" titulo="Laboratorio de projetos de sistemas computacionais" cred="-1"/>
   <disciplina sigla="MC750" titulo="Construcao de Interfaces Homem-Computador" cred="-1"/>
   <disciplina sigla="MC822" titulo="Teleprocessamento e Redes" cred="-1"/>
-  <disciplina sigla="MC823" titulo="Laborat�rio de Teleprocessamento e Redes" cred="-1"/>
-  <disciplina sigla="MC906" titulo="Introducao � Intelig�ncia Artificial" cred="-1"/>
+  <disciplina sigla="MC823" titulo="Laboratorio de Teleprocessamento e Redes" cred="-1"/>
+  <disciplina sigla="MC906" titulo="Introducao a Inteligencia Artificial" cred="-1"/>
   <disciplina sigla="MC910" titulo="Construcao de Compiladores" cred="-1"/>
   <disciplina sigla="MC018" titulo="Estagio Supervisionado" cred="-1"/>
   <disciplina sigla="MC019" titulo="Estagio Supervisionado em Ciencia da Computacao" cred="-1"/>
   <disciplina sigla="MC020" titulo="Estagio Supervisionado em Ciencia da Computacao II" cred="-1"/>
   <disciplina sigla="MC040" titulo="Estagio de Iniciacao Cientifica I" cred="-1"/>
   <disciplina sigla="MC041" titulo="Estagio de Iniciacao Cientifica II" cred="-1"/>
-  <disciplina sigla="MC919" titulo="Topicos Especiais em Processamento Gr�fico" cred="-1"/>
+  <disciplina sigla="MC919" titulo="Topicos Especiais em Processamento Grafico" cred="-1"/>
   <disciplina sigla="MC920" titulo="Introducao ao Processamento de Imagem Digital" cred="-1"/>
-  <disciplina sigla="MC930" titulo="Computacao Gr�fica" cred="-1"/>
+  <disciplina sigla="MC930" titulo="Computacao Grafica" cred="-1"/>
   <disciplina sigla="EA006" titulo="Trabalho de Fim de Curso" cred="6"/>
-  <disciplina sigla="EA072" titulo="Intelig�ncia Artificial em Aplica��es Industriais" cred="-1"/>
-  <disciplina sigla="EA074" titulo="Introducao �s Redes de Computadores" cred="-1"/>
+  <disciplina sigla="EA072" titulo="Inteligencia Artificial em Aplicacoes Industriais" cred="-1"/>
+  <disciplina sigla="EA074" titulo="Introducao as Redes de Computadores" cred="-1"/>
   <disciplina sigla="EA078" titulo="Micro e Minicomputadores: Hardware" cred="4"/>
-  <disciplina sigla="EA079" titulo="Laborat�rio de Micro e Minicomputadores" cred="2"/>
+  <disciplina sigla="EA079" titulo="Laboratorio de Micro e Minicomputadores" cred="2"/>
   <disciplina sigla="EA611" titulo="Circuitos II" cred="4"/>
   <disciplina sigla="EA614" titulo="Analise de Sinais" cred="4"/>
   <disciplina sigla="EA616" titulo="Analise Linear de Sistemas" cred="4"/>
-  <disciplina sigla="EA619" titulo="Laborat�rio de Analise Linear" cred="2"/>
-  <disciplina sigla="EA721" titulo="Princ�pios de Controle e Servomecanismo" cred="4"/>
-  <disciplina sigla="EA722" titulo="Laborat�rio de Controle e Servomecanismo" cred="2"/>
-  <disciplina sigla="EA773" titulo="Laborat�rio de Circuitos L�gicos" cred="2"/>
-  <disciplina sigla="EA870" titulo="Laborat�rio de Computacao" cred="4"/>
+  <disciplina sigla="EA619" titulo="Laboratorio de Analise Linear" cred="2"/>
+  <disciplina sigla="EA721" titulo="Principios de Controle e Servomecanismo" cred="4"/>
+  <disciplina sigla="EA722" titulo="Laboratorio de Controle e Servomecanismo" cred="2"/>
+  <disciplina sigla="EA773" titulo="Laboratorio de Circuitos Logicos" cred="2"/>
+  <disciplina sigla="EA870" titulo="Laboratorio de Computacao" cred="4"/>
   <disciplina sigla="EA876" titulo="Introducao a Software de Sistema" cred="-1"/>
-  <disciplina sigla="EA878" titulo="Laborat�rio, Micro e Minicomputadores: Software" cred="-1"/>
+  <disciplina sigla="EA878" titulo="Laboratorio, Micro e Minicomputadores: Software" cred="-1"/>
   <disciplina sigla="EA960" titulo="Organizacao de Computadores" cred="-1"/>
   <disciplina sigla="EA976" titulo="Engenharia de Software" cred="-1"/>
-  <disciplina sigla="EA977" titulo="Laborat�rio de Programacao de Sistemas" cred="-1"/>
-  <disciplina sigla="EA979" titulo="Introducao � Computacao Gr�fica e ao Processamento de Imagem" cred="-1"/>
-  <disciplina sigla="EE610" titulo="Eletr�nica Digital I" cred="4"/>
-  <disciplina sigla="EE881" titulo="Princ�pios de Comunica��es I" cred="4"/>
-  <disciplina sigla="EE882" titulo="Laborat�rio de Comunica��es I" cred="2"/>
+  <disciplina sigla="EA977" titulo="Laboratorio de Programacao de Sistemas" cred="-1"/>
+  <disciplina sigla="EA979" titulo="Introducao a Computacao Grafica e ao Processamento de Imagem" cred="-1"/>
+  <disciplina sigla="EE610" titulo="Eletronica Digital I" cred="4"/>
+  <disciplina sigla="EE881" titulo="Principios de Comunicacoes I" cred="4"/>
+  <disciplina sigla="EE882" titulo="Laboratorio de Comunicacoes I" cred="2"/>
   <disciplina sigla="MC526" titulo="Bancos de Dados" cred="-1"/>
   <disciplina sigla="EE017" titulo="Estagio em Empresa" cred="12"/>
-  <disciplina sigla="EE015" titulo="Estagio Cientifico e Tecnol�gico I" cred="6"/>
-  <disciplina sigla="EE016" titulo="Estagio Cientifico e Tecnol�gico II" cred="6"/>
+  <disciplina sigla="EE015" titulo="Estagio Cientifico e Tecnologico I" cred="6"/>
+  <disciplina sigla="EE016" titulo="Estagio Cientifico e Tecnologico II" cred="6"/>
   <disciplina sigla="ST008" titulo="Metodologia do Trabalho Cientifico" cred="2"/>
   <disciplina sigla="ST113" titulo="Fundamentos de Eletricidade" cred="2"/>
   <disciplina sigla="ST118" titulo="Analise de Sistemas de Informacao I" cred="-1"/>
   <disciplina sigla="ST119" titulo="Analise de Sistemas de Informacao II" cred="-1"/>
-  <disciplina sigla="ST120" titulo="Administracao de Inform�tica" cred="-1"/>
-  <disciplina sigla="ST161" titulo="Introducao � L�gica" cred="4"/>
+  <disciplina sigla="ST120" titulo="Administracao de Informatica" cred="-1"/>
+  <disciplina sigla="ST161" titulo="Introducao a Logica" cred="4"/>
   <disciplina sigla="ST164" titulo="Elementos Basicos de Computacao" cred="2"/>
-  <disciplina sigla="ST211" titulo="Estat�stica" cred="4"/>
+  <disciplina sigla="ST211" titulo="Estatistica" cred="4"/>
   <disciplina sigla="ST262" titulo="Linguagem de Programacao Comercial" cred="4"/>
-  <disciplina sigla="ST263" titulo="Laborat�rio de Programacao I" cred="2"/>
-  <disciplina sigla="ST264" titulo="Ingl�s para Inform�tica" cred="2"/>
+  <disciplina sigla="ST263" titulo="Laboratorio de Programacao I" cred="2"/>
+  <disciplina sigla="ST264" titulo="Ingles para Informatica" cred="2"/>
   <disciplina sigla="ST363" titulo="Linguagem e Tecnica de Programacao II" cred="4"/>
   <disciplina sigla="ST364" titulo="Estruturas de Dados" cred="4"/>
-  <disciplina sigla="ST365" titulo="Princ�pios de Engenharia de Software" cred="2"/>
-  <disciplina sigla="ST462" titulo="C�lculo Num�rico" cred="4"/>
-  <disciplina sigla="ST463" titulo="Laborat�rio de Programacao II" cred="4"/>
-  <disciplina sigla="ST464" titulo="Laborat�rio de Estruturas de Dados" cred="4"/>
-  <disciplina sigla="ST466" titulo="Laborat�rio de Engenharia de Software" cred="2"/>
+  <disciplina sigla="ST365" titulo="Principios de Engenharia de Software" cred="2"/>
+  <disciplina sigla="ST462" titulo="Calculo Numerico" cred="4"/>
+  <disciplina sigla="ST463" titulo="Laboratorio de Programacao II" cred="4"/>
+  <disciplina sigla="ST464" titulo="Laboratorio de Estruturas de Dados" cred="4"/>
+  <disciplina sigla="ST466" titulo="Laboratorio de Engenharia de Software" cred="2"/>
   <disciplina sigla="ST562" titulo="Estruturas de Arquivos t" cred="4"/>
   <disciplina sigla="ST564" titulo="Introducao a Teleprocessamento e Redes" cred="4"/>
   <disciplina sigla="ST565" titulo="Pesquisa Operacional" cred="4"/>
-  <disciplina sigla="ST566" titulo="Topicos em Desenvolvimento Tecnol�gico" cred="4"/>
+  <disciplina sigla="ST566" titulo="Topicos em Desenvolvimento Tecnologico" cred="4"/>
   <disciplina sigla="ST661" titulo="Banco de Dados" cred="4"/>
   <disciplina sigla="ST662" titulo="Linguagem e Tecnicas de Programacao III" cred="4"/>
   <disciplina sigla="ST664" titulo="Redes de Computadores" cred="4"/>
   <disciplina sigla="ST761" titulo="Tecnica de Projeto e Programacao em Banco de Dados" cred="2"/>
-  <disciplina sigla="ST762" titulo="Laborat�rio de Programacao III" cred="4"/>
-  <disciplina sigla="ST765" titulo="Computacao Gr�fica" cred="4"/>
+  <disciplina sigla="ST762" titulo="Laboratorio de Programacao III" cred="4"/>
+  <disciplina sigla="ST765" titulo="Computacao Grafica" cred="4"/>
   <disciplina sigla="ST766" titulo="Organizacao Industrial" cred="4"/>
-  <disciplina sigla="TT101" titulo="C�lculo I" cred="6"/>
-  <disciplina sigla="TT102" titulo="Geometria Anal�tica e Vetores" cred="4"/>
+  <disciplina sigla="TT101" titulo="Calculo I" cred="6"/>
+  <disciplina sigla="TT102" titulo="Geometria Analatica e Vetores" cred="4"/>
   <disciplina sigla="TT103" titulo="Linguagem e Tecnica de Programacao I" cred="6"/>
   <disciplina sigla="TT106" titulo="Organizacao e Arquitetura de Computadores" cred="4"/>
-  <disciplina sigla="TT201" titulo="C�lculo II" cred="6"/>
-  <disciplina sigla="TT202" titulo="�lgebra Linear" cred="2"/>
+  <disciplina sigla="TT201" titulo="Calculo II" cred="6"/>
+  <disciplina sigla="TT202" titulo="Algebra Linear" cred="2"/>
   <disciplina sigla="TT304" titulo="Sistemas Operacionais" cred="4"/>
   <disciplina sigla="TT404" titulo="Administracao de Empresas" cred="4"/>
-  <disciplina sigla="TT504" titulo="Economia e Finan�as" cred="4"/>
-  <disciplina sigla="TT601" titulo="Gest�o Empreendedora" cred="2"/>
-  <disciplina sigla="AM018" titulo="Trabalhos Comunit�rios I" cred="-1"/>
-  <disciplina sigla="ST001" titulo="Portugu�s" cred="2"/>
+  <disciplina sigla="TT504" titulo="Economia e Financas" cred="4"/>
+  <disciplina sigla="TT601" titulo="Gestao Empreendedora" cred="2"/>
+  <disciplina sigla="AM018" titulo="Trabalhos Comunitarios I" cred="-1"/>
+  <disciplina sigla="ST001" titulo="Portugues" cred="2"/>
   <disciplina sigla="ST003" titulo="Teorias da Qualidade" cred="2"/>
   <disciplina sigla="ST078" titulo="Meio Ambiente e Desenvolvimento" cred="-1"/>
   <disciplina sigla="ST090" titulo="Ergonomia - Aplicacao Pratica ao Trabalho" cred="-1"/>
@@ -1011,38 +1011,38 @@
   <disciplina sigla="TT020" titulo="Contabilidade Geral" cred="4"/>
   <disciplina sigla="TT021" titulo="Contabilidade de Custos" cred="-1"/>
   <disciplina sigla="TT104" titulo="Leitura e Redacao de Textos Tecnicos" cred="-1"/>
-  <disciplina sigla="TT105" titulo="Introducao �s Ciencias Humanas" cred="-1"/>
+  <disciplina sigla="TT105" titulo="Introducao as Ciencias Humanas" cred="-1"/>
   <disciplina sigla="ST041" titulo="Introducao a Interfaces Homem-Computador" cred="-1"/>
-  <disciplina sigla="ST050" titulo="Topicos Avan�ados em Redes" cred="-1"/>
+  <disciplina sigla="ST050" titulo="Topicos Avancados em Redes" cred="-1"/>
   <disciplina sigla="ST051" titulo="Protocolos de Comunicacao e Redes" cred="-1"/>
   <disciplina sigla="ST052" titulo="Introducao ao Processamento Discreto de Sinais" cred="-1"/>
   <disciplina sigla="ST053" titulo="Topicos em Modelagem Computacional" cred="-1"/>
-  <disciplina sigla="ST060" titulo="Topicos Avan�ados em Banco de Dados" cred="-1"/>
-  <disciplina sigla="ST061" titulo="Topicos Avan�ados em Programacao" cred="-1"/>
+  <disciplina sigla="ST060" titulo="Topicos Avancados em Banco de Dados" cred="-1"/>
+  <disciplina sigla="ST061" titulo="Topicos Avancados em Programacao" cred="-1"/>
   <disciplina sigla="ST062" titulo="Engenharia de Software" cred="-1"/>
-  <disciplina sigla="ST063" titulo="Introducao � Eletr�nica" cred="-1"/>
+  <disciplina sigla="ST063" titulo="Introducao a Eletronica" cred="-1"/>
   <disciplina sigla="ST065" titulo="Introducao a Microprocessadores" cred="4"/>
-  <disciplina sigla="ST066" titulo="Topicos Avan�ados em Arquitetura de Computadores" cred="-1"/>
-  <disciplina sigla="ST067" titulo="Topicos Especiais em Inform�tica" cred="-1"/>
-  <disciplina sigla="ST068" titulo="Introducao � Intelig�ncia Artificial" cred="-1"/>
+  <disciplina sigla="ST066" titulo="Topicos Avancados em Arquitetura de Computadores" cred="-1"/>
+  <disciplina sigla="ST067" titulo="Topicos Especiais em Informatica" cred="-1"/>
+  <disciplina sigla="ST068" titulo="Introducao a Inteligencia Artificial" cred="-1"/>
   <disciplina sigla="ST069" titulo="Topicos em Teoria da Computacao" cred="4"/>
-  <disciplina sigla="ST094" titulo="Introducao �s Telecomunica��es" cred="-1"/>
+  <disciplina sigla="ST094" titulo="Introducao as Telecomunicacoes" cred="-1"/>
   <disciplina sigla="ST095" titulo="Tecnicas de Interfaceamento com Computadores" cred="-1"/>
-  <disciplina sigla="ST099" titulo="Aut�matos" cred="-1"/>
+  <disciplina sigla="ST099" titulo="Automatos" cred="-1"/>
   <disciplina sigla="ST115" titulo="Processamemto de Imagens" cred="-1"/>
   <disciplina sigla="ST116" titulo="Fundamentos de Jogos Digitais" cred="-1"/>
-  <disciplina sigla="TT001" titulo="Topicos em Computacao e Inform�tica I" cred="-1"/>
-  <disciplina sigla="TT002" titulo="Topicos em Computacao e Inform�tica II" cred="-1"/>
-  <disciplina sigla="TT003" titulo="Topicos em Computacao e Inform�tica III" cred="-1"/>
-  <disciplina sigla="TT004" titulo="Topicos em Computacao e Inform�tica IV" cred="2"/>
-  <disciplina sigla="TT005" titulo="Topicos Esp. em Telecomunica��es I" cred="-1"/>
-  <disciplina sigla="TT006" titulo="Topicos Esp. em Telecomunica��es II" cred="-1"/>
-  <disciplina sigla="TT007" titulo="Topicos Especiais em Telecomunica��es III" cred="-1"/>
-  <disciplina sigla="TT008" titulo="Topicos Esp. em Telecomunica��es IV" cred="-1"/>
-  <disciplina sigla="TT011" titulo="Estruturas Alg�bricas" cred="-1"/>
+  <disciplina sigla="TT001" titulo="Topicos em Computacao e Informatica I" cred="-1"/>
+  <disciplina sigla="TT002" titulo="Topicos em Computacao e Informatica II" cred="-1"/>
+  <disciplina sigla="TT003" titulo="Topicos em Computacao e Informatica III" cred="-1"/>
+  <disciplina sigla="TT004" titulo="Topicos em Computacao e Informatica IV" cred="2"/>
+  <disciplina sigla="TT005" titulo="Topicos Esp. em Telecomunicacoes I" cred="-1"/>
+  <disciplina sigla="TT006" titulo="Topicos Esp. em Telecomunicacoes II" cred="-1"/>
+  <disciplina sigla="TT007" titulo="Topicos Especiais em Telecomunicacoes III" cred="-1"/>
+  <disciplina sigla="TT008" titulo="Topicos Esp. em Telecomunicacoes IV" cred="-1"/>
+  <disciplina sigla="TT011" titulo="Estruturas Algebricas" cred="-1"/>
   <disciplina sigla="TT012" titulo="Grafos" cred="-1"/>
   <disciplina sigla="TT013" titulo="Redes Complexas" cred="-1"/>
-  <disciplina sigla="TT080" titulo="Matem�tica Discreta Aplicada" cred="-1"/>
+  <disciplina sigla="TT080" titulo="Matematica Discreta Aplicada" cred="-1"/>
   <disciplina sigla="TT302" titulo="Circuitos Digitais" cred="4"/>
   <disciplina sigla="ST861" titulo="Estagio Supervisionado" cred="6"/>
   <disciplina sigla="ST862" titulo="Trabalho de Graduacao Interdisciplinar" cred="-1"/>
@@ -1051,56 +1051,56 @@
   <disciplina sigla="ST865" titulo="Introducao ao Trabalho de Graduacao" cred="-1"/>
   <disciplina sigla="ST866" titulo="Trabalho de Graduacao Interdisciplinar" cred="-1"/>
   <disciplina sigla="ST103" titulo="Desenho Tecnico" cred="4"/>
-  <disciplina sigla="ST109" titulo="F�sica Aplicada I" cred="4"/>
-  <disciplina sigla="ST114" titulo="Fundamentos de Qu�mica Aplicada a Construcao Civil" cred="2"/>
-  <disciplina sigla="ST209" titulo="F�sica Aplicada II" cred="4"/>
+  <disciplina sigla="ST109" titulo="Fisica Aplicada I" cred="4"/>
+  <disciplina sigla="ST114" titulo="Fundamentos de Quimica Aplicada a Construcao Civil" cred="2"/>
+  <disciplina sigla="ST209" titulo="Fisica Aplicada II" cred="4"/>
   <disciplina sigla="ST210" titulo="EletroTecnica Aplicada" cred="4"/>
   <disciplina sigla="ST213" titulo="Desenho Assistido por Computador" cred="4"/>
-  <disciplina sigla="ST214" titulo="Desenho Arquitet�nico e Estrutural" cred="2"/>
+  <disciplina sigla="ST214" titulo="Desenho Arquitetonico e Estrutural" cred="2"/>
   <disciplina sigla="ST215" titulo="MeCenica Geral" cred="4"/>
   <disciplina sigla="ST301" titulo="Topografia I" cred="4"/>
   <disciplina sigla="ST303" titulo="HidroTecnica I" cred="4"/>
   <disciplina sigla="ST304" titulo="Materiais de Construcao Civil I" cred="4"/>
   <disciplina sigla="ST306" titulo="Hidrologia e Drenagem" cred="4"/>
-  <disciplina sigla="ST309" titulo="Resist�ncia dos Materiais I" cred="4"/>
-  <disciplina sigla="ST362" titulo="Geometria Anal�tica e �lgebra Linear" cred="4"/>
+  <disciplina sigla="ST309" titulo="Resistencia dos Materiais I" cred="4"/>
+  <disciplina sigla="ST362" titulo="Geometria Analatica e Algebra Linear" cred="4"/>
   <disciplina sigla="ST401" titulo="Topografia II" cred="4"/>
-  <disciplina sigla="ST409" titulo="Introducao � Geologia e MeCenica dos Solos" cred="4"/>
+  <disciplina sigla="ST409" titulo="Introducao A Geologia e MeCenica dos Solos" cred="4"/>
   <disciplina sigla="ST420" titulo="Materiais de Construcao Civil II" cred="4"/>
-  <disciplina sigla="ST423" titulo="Resist�ncia dos Materiais II" cred="4"/>
+  <disciplina sigla="ST423" titulo="Resistencia dos Materiais II" cred="4"/>
   <disciplina sigla="ST728" titulo="Introducao ao Trabalho de Graduacao e Estagio Supervisionado" cred="2"/>
-  <disciplina sigla="ST002" titulo="Ingl�s Tecnico" cred="2"/>
-  <disciplina sigla="ST004" titulo="Legislacao Trabalhista e Seguran�a do Trabalho" cred="-1"/>
-  <disciplina sigla="ST005" titulo="Rela��es Humanas" cred="-1"/>
+  <disciplina sigla="ST002" titulo="Ingles Tecnico" cred="2"/>
+  <disciplina sigla="ST004" titulo="Legislacao Trabalhista e Seguranca do Trabalho" cred="-1"/>
+  <disciplina sigla="ST005" titulo="Relacoes Humanas" cred="-1"/>
   <disciplina sigla="ST007" titulo="Humanidades" cred="2"/>
   <disciplina sigla="ST019" titulo="A Sociedade e os Portadores de Necessida des Especiais" cred="-1"/>
   <disciplina sigla="ST091" titulo="Topicos em Tecnologia da Construcao Civil" cred="-1"/>
   <disciplina sigla="ST461" titulo="Administracao I" cred="-1"/>
   <disciplina sigla="ST561" titulo="Administracao II" cred="-1"/>
-  <disciplina sigla="ST515" titulo="Tecnologia da Construcao de Edif�cios I" cred="4"/>
-  <disciplina sigla="ST525" titulo="Instala��es Prediais El�tricas" cred="4"/>
-  <disciplina sigla="ST526" titulo="Est�tica das Estruturas" cred="6"/>
+  <disciplina sigla="ST515" titulo="Tecnologia da Construcao de Edificios I" cred="4"/>
+  <disciplina sigla="ST525" titulo="Instalacoes Prediais Eletricas" cred="4"/>
+  <disciplina sigla="ST526" titulo="Estatica das Estruturas" cred="6"/>
   <disciplina sigla="ST527" titulo="Concreto Armado I" cred="4"/>
   <disciplina sigla="ST528" titulo="MeCenica dos Solos e Obras de Terra" cred="4"/>
   <disciplina sigla="ST617" titulo="Desenho Urbano e Habitacao de Interesse Social" cred="2"/>
-  <disciplina sigla="ST618" titulo="Tecnologia da Construcao de Edif�cios II" cred="4"/>
-  <disciplina sigla="ST625" titulo="Funda��es" cred="4"/>
-  <disciplina sigla="ST626" titulo="Projetos de Instala��es Prediais Hidr�ulico-Sanit�rias" cred="6"/>
+  <disciplina sigla="ST618" titulo="Tecnologia da Construcao de Edificios II" cred="4"/>
+  <disciplina sigla="ST625" titulo="Fundacoes" cred="4"/>
+  <disciplina sigla="ST626" titulo="Projetos de Instalacoes Prediais Hidraulico-Sanitarias" cred="6"/>
   <disciplina sigla="ST628" titulo="Concreto Armado II" cred="4"/>
-  <disciplina sigla="ST722" titulo="Estruturas de A�o e Madeira" cred="4"/>
+  <disciplina sigla="ST722" titulo="Estruturas de Aco e Madeira" cred="4"/>
   <disciplina sigla="ST723" titulo="Planejamento e Controle da Construcao" cred="4"/>
   <disciplina sigla="ST725" titulo="Estruturas de Concretos Especiais" cred="4"/>
   <disciplina sigla="ST726" titulo="Construcao e Meio Ambiente" cred="2"/>
   <disciplina sigla="ST727" titulo="Concreto Armado III" cred="4"/>
   <disciplina sigla="ST020" titulo="Processos Construtivos" cred="2"/>
   <disciplina sigla="ST021" titulo="Projeto Executivo" cred="-1"/>
-  <disciplina sigla="ST022" titulo="Instala��es Prediais Hidr�ulico-Sanit�rias-Complementacao" cred="-1"/>
-  <disciplina sigla="ST023" titulo="Instala��es Prediais El�tricas-Complementacao" cred="-1"/>
+  <disciplina sigla="ST022" titulo="Instalacoes Prediais Hidraulico-Sanitarias-Complementacao" cred="-1"/>
+  <disciplina sigla="ST023" titulo="Instalacoes Prediais Eletricas-Complementacao" cred="-1"/>
   <disciplina sigla="ST024" titulo="Pratica da Construcao Civil III" cred="-1"/>
-  <disciplina sigla="ST026" titulo="Computacao Gr�fica Aplicada II" cred="-1"/>
-  <disciplina sigla="ST027" titulo="Topicos Especiais em Edif�cios" cred="-1"/>
-  <disciplina sigla="ST028" titulo="Or�amentos de Constru��es" cred="-1"/>
-  <disciplina sigla="ST029" titulo="Barreiras Arquitet�nicas e os Portadores de Necessiades Especiais" cred="-1"/>
+  <disciplina sigla="ST026" titulo="Computacao Grafica Aplicada II" cred="-1"/>
+  <disciplina sigla="ST027" titulo="Topicos Especiais em Edificios" cred="-1"/>
+  <disciplina sigla="ST028" titulo="Orcamentos de Construcoes" cred="-1"/>
+  <disciplina sigla="ST029" titulo="Barreiras Arquitetonicas e os Portadores de Necessiades Especiais" cred="-1"/>
   <disciplina sigla="ST042" titulo="Processo de Projeto" cred="2"/>
   <disciplina sigla="ST044" titulo="Alvenaria Estrutural" cred="4"/>
   <disciplina sigla="ST823" titulo="Estagio Suprevisionado" cred="-1"/>
@@ -1108,11 +1108,11 @@
   <disciplina sigla="ST536" titulo="MeCenica e Ensaios de Solos I" cred="8"/>
   <disciplina sigla="ST537" titulo="Geologia Aplicada" cred="6"/>
   <disciplina sigla="ST538" titulo="Projeto e Construcao de Estradas" cred="6"/>
-  <disciplina sigla="ST631" titulo="Funda��es I" cred="4"/>
+  <disciplina sigla="ST631" titulo="Fundacoes I" cred="4"/>
   <disciplina sigla="ST632" titulo="Movimento de Terra I" cred="4"/>
   <disciplina sigla="ST636" titulo="MeCenica e Ensaios de Solos II" cred="6"/>
-  <disciplina sigla="ST637" titulo="Pavimentacao e Seguran�a de Estradas" cred="6"/>
-  <disciplina sigla="ST731" titulo="Funda��es II" cred="4"/>
+  <disciplina sigla="ST637" titulo="Pavimentacao e Seguranca de Estradas" cred="6"/>
+  <disciplina sigla="ST731" titulo="Fundacoes II" cred="4"/>
   <disciplina sigla="ST732" titulo="Movimento de Terra II" cred="4"/>
   <disciplina sigla="ST733" titulo="MeCenica dos Solos III" cred="4"/>
   <disciplina sigla="ST734" titulo="Ensaios de Pavimentacao" cred="2"/>
@@ -1121,7 +1121,7 @@
   <disciplina sigla="ST031" titulo="Drenagem de Estradas" cred="-1"/>
   <disciplina sigla="ST032" titulo="Elementos de MeCenica das Rochas" cred="-1"/>
   <disciplina sigla="ST033" titulo="Topicos Especiais em Obras de Solos" cred="-1"/>
-  <disciplina sigla="ST045" titulo="Hidrologia das �guas Subterr�neas" cred="-1"/>
+  <disciplina sigla="ST045" titulo="Hidrologia das Aguas Subterraneas" cred="-1"/>
   <disciplina sigla="ST833" titulo="Estagio Supervisionado" cred="-1"/>
   <disciplina sigla="ST834" titulo="Trabalho de Graduacao Interdisciplinar" cred="-1"/>
   <disciplina sigla="EM312" titulo="Desenho Tecnico" cred="4"/>
@@ -1133,18 +1133,18 @@
   <disciplina sigla="EQ502" titulo="Introducao a Analise de Processos" cred="-1"/>
   <disciplina sigla="EQ515" titulo="Termodinamica II" cred="-1"/>
   <disciplina sigla="EQ531" titulo="Aplicacoes dos Materiais em Engenharia Quimica" cred="-1"/>
-  <disciplina sigla="EQ541" titulo="Fenômenos de Transporte I" cred="-1"/>
+  <disciplina sigla="EQ541" titulo="Fenomenos de Transporte I" cred="-1"/>
   <disciplina sigla="EQ583" titulo="Bioengenharia I" cred="-1"/>
   <disciplina sigla="EQ601" titulo="Laboratorio de Engenharia Quimica I" cred="-1"/>
   <disciplina sigla="EQ622" titulo="Eletroquimica e Corrosao" cred="-1"/>
-  <disciplina sigla="EQ641" titulo="Fenômenos de Transporte II" cred="-1"/>
+  <disciplina sigla="EQ641" titulo="Fenomenos de Transporte II" cred="-1"/>
   <disciplina sigla="EQ651" titulo="Operacoes Unitarias I" cred="-1"/>
   <disciplina sigla="EQ701" titulo="Laboratorio de Engenharia Quimica II" cred="-1"/>
   <disciplina sigla="EQ712" titulo="Cinetica Quimica Aplicada" cred="-1"/>
-  <disciplina sigla="EQ741" titulo="Fenômenos de Transporte III" cred="-1"/>
+  <disciplina sigla="EQ741" titulo="Fenomenos de Transporte III" cred="-1"/>
   <disciplina sigla="EQ751" titulo="Operacoes Unitarias II" cred="-1"/>
   <disciplina sigla="EQ771" titulo="Instrumentacao na Industria Quimica" cred="-1"/>
-  <disciplina sigla="EQ791" titulo="Analise Tecnico-Econômica" cred="-1"/>
+  <disciplina sigla="EQ791" titulo="Analise Tecnico-Economica" cred="-1"/>
   <disciplina sigla="EQ801" titulo="Laboratorio de Engenharia Quimica III" cred="-1"/>
   <disciplina sigla="EQ812" titulo="Reatores Quimicos" cred="-1"/>
   <disciplina sigla="EQ817" titulo="Controle de Processos" cred="-1"/>
@@ -1164,7 +1164,7 @@
   <disciplina sigla="EQ041" titulo="Topicos em Projeto Quimico" cred="-1"/>
   <disciplina sigla="EQ042" titulo="Qualidade na Engenharia Quimica" cred="-1"/>
   <disciplina sigla="EQ052" titulo="Topicos em Processos Quimicos" cred="-1"/>
-  <disciplina sigla="EQ061" titulo="Topicos em Analise Tecnico-Econômica" cred="-1"/>
+  <disciplina sigla="EQ061" titulo="Topicos em Analise Tecnico-Economica" cred="-1"/>
   <disciplina sigla="EQ062" titulo="Topicos em Gestao Industrial" cred="-1"/>
   <disciplina sigla="EQ071" titulo="Topicos em Catalise" cred="-1"/>
   <disciplina sigla="EQ081" titulo="Topicos em Engenharia de Seguranca" cred="-1"/>
@@ -1172,7 +1172,7 @@
   <disciplina sigla="EQ097" titulo="Eficiencia Energetica em Processos Quimicos" cred="-1"/>
   <disciplina sigla="EQ098" titulo="Topicos em Engenharia de Processos" cred="-1"/>
   <disciplina sigla="EQ099" titulo="Topicos em Sistemas Particulados" cred="-1"/>
-  <disciplina sigla="EQ841" titulo="Topicos em Metodos Numericos e Aplicacoes em Fenômenos de Transporte" cred="-1"/>
+  <disciplina sigla="EQ841" titulo="Topicos em Metodos Numericos e Aplicacoes em Fenomenos de Transporte" cred="-1"/>
   <disciplina sigla="EQ917" titulo="Topicos em Controle de Processos por Computador" cred="-1"/>
   <disciplina sigla="EQ941" titulo="Topicos em Operacoes e Reatores" cred="-1"/>
   <disciplina sigla="EQ951" titulo="Materiais da Industria Quimica" cred="-1"/>
@@ -1208,22 +1208,22 @@
   <disciplina sigla="MC542" titulo="Organizacao de Computadores: Teoria e Pratica" cred="-1"/>
   <disciplina sigla="MC636" titulo="Verificacao e Validacao de Software" cred="-1"/>
   <disciplina sigla="MC747" titulo="Projeto de Engenharia de Software" cred="-1"/>
-  <disciplina sigla="MC668" titulo="Bioinform�tica" cred="-1"/>
-  <disciplina sigla="MC828" titulo="Matem�tica Combinat�ria, Grafos e Aplica��es" cred="-1"/>
-  <disciplina sigla="MC838" titulo="Algoritmos Geom�tricos" cred="-1"/>
+  <disciplina sigla="MC668" titulo="BioInformatica" cred="-1"/>
+  <disciplina sigla="MC828" titulo="Matematica Combinatoria, Grafos e Aplicacoes" cred="-1"/>
+  <disciplina sigla="MC838" titulo="Algoritmos Geometricos" cred="-1"/>
   <disciplina sigla="MC848" titulo="Linguagens Formais, Computabilidade e Complexidade" cred="-1"/>
   <disciplina sigla="MC858" titulo="Algoritmos Paralelos" cred="-1"/>
-  <disciplina sigla="MC868" titulo="Linguagem Formais e Aut�matos" cred="-1"/>
-  <disciplina sigla="MC878" titulo="Teoria e Aplica��es de Grafos" cred="-1"/>
-  <disciplina sigla="MC889" titulo="Introducao � Criptografia" cred="-1"/>
+  <disciplina sigla="MC868" titulo="Linguagem Formais e Automatos" cred="-1"/>
+  <disciplina sigla="MC878" titulo="Teoria e Aplicacoes de Grafos" cred="-1"/>
+  <disciplina sigla="MC889" titulo="Introducao a Criptografia" cred="-1"/>
   <disciplina sigla="MC898" titulo="Fluxos em Redes e Programacao Linear" cred="-1"/>
   <disciplina sigla="MC908" titulo="Topicos Especiais em Teoria da Computacao" cred="-1"/>
   <disciplina sigla="MC918" titulo="Topicos em Teoria da Computacao I" cred="-1"/>
   <disciplina sigla="MC928" titulo="Topicos em Teoria da Computacao II" cred="-1"/>
-  <disciplina sigla="MC938" titulo="Algoritmos Criptogr�ficos" cred="-1"/>
+  <disciplina sigla="MC938" titulo="Algoritmos Criptograficos" cred="-1"/>
   <disciplina sigla="MC948" titulo="Geometria Computacional" cred="-1"/>
-  <disciplina sigla="MC978" titulo="Aplica��es Criptogr�ficas na WEB" cred="-1"/>
-  <disciplina sigla="MC988" titulo="Aplica��es Criptogr�ficas em Firmware" cred="-1"/>
+  <disciplina sigla="MC978" titulo="Aplicacoes Criptograficas na WEB" cred="-1"/>
+  <disciplina sigla="MC988" titulo="Aplicacoes Criptograficas em Firmware" cred="-1"/>
   <disciplina sigla="MC998" titulo="Fluxo em redes" cred="-1"/>
   <disciplina sigla="BA280" titulo="Anatomia Humana Basica" cred="-1"/>
   <disciplina sigla="BB280" titulo="Bioquimica Basica" cred="-1"/>
@@ -1243,7 +1243,7 @@
   <disciplina sigla="BT381" titulo="Botanica I" cred="-1"/>
   <disciplina sigla="BT481" titulo="Botanica II" cred="-1"/>
   <disciplina sigla="BT581" titulo="Botanica III" cred="-1"/>
-  <disciplina sigla="BT681" titulo="Botanica Econômica 00002" cred="-1"/>
+  <disciplina sigla="BT681" titulo="Botanica Economica 00002" cred="-1"/>
   <disciplina sigla="BT885" titulo="Ecologia e Fitogeografia" cred="-1"/>
   <disciplina sigla="BV780" titulo="Fisiologia Vegetal Geral" cred="-1"/>
   <disciplina sigla="BZ182" titulo="Zoologia: Introducao e Metodos" cred="-1"/>
@@ -1321,7 +1321,7 @@
   <disciplina sigla="ES101" titulo="Introducao a Engenharia de Controle e Automacao" cred="-1"/>
   <disciplina sigla="ES235" titulo="Engenharia de Fabricacao" cred="-1"/>
   <disciplina sigla="ES242" titulo="Materiais de Engenharia" cred="-1"/>
-  <disciplina sigla="ES330" titulo="Oficinas - Mecatrônica" cred="-1"/>
+  <disciplina sigla="ES330" titulo="Oficinas - Mecatronica" cred="-1"/>
   <disciplina sigla="ES333" titulo="Laboratorio de Ensaio dos Materiais" cred="-1"/>
   <disciplina sigla="ES401" titulo="Matematica para Engenharia" cred="-1"/>
   <disciplina sigla="ES542" titulo="Tratamentos Termicos" cred="-1"/>
@@ -1330,8 +1330,8 @@
   <disciplina sigla="ES575" titulo="Laboratorio de Circuitos Logicos" cred="-1"/>
   <disciplina sigla="ES601" titulo="Analise Linear de Sistemas" cred="-1"/>
   <disciplina sigla="ES626" titulo="Modelagem de Dispositivos Eletromecanicos" cred="-1"/>
-  <disciplina sigla="ES663" titulo="Eletrônica para Automacao Industrial" cred="-1"/>
-  <disciplina sigla="ES664" titulo="Laboratorio de Eletrônica para Automacao Industrial" cred="-1"/>
+  <disciplina sigla="ES663" titulo="Eletronica para Automacao Industrial" cred="-1"/>
+  <disciplina sigla="ES664" titulo="Laboratorio de Eletronica para Automacao Industrial" cred="-1"/>
   <disciplina sigla="ES667" titulo="Planejamento e Controle da Producao I" cred="-1"/>
   <disciplina sigla="ES670" titulo="Projeto de Sistemas Embarcados" cred="-1"/>
   <disciplina sigla="ES672" titulo="Sistemas Fluidotermicos I" cred="-1"/>
@@ -1353,7 +1353,7 @@
   <disciplina sigla="ES927" titulo="Controle de Sistemas Roboticos" cred="-1"/>
   <disciplina sigla="ES951" titulo="Trabalho de Graduacao I" cred="-1"/>
   <disciplina sigla="ES952" titulo="Trabalho de Graduacao II" cred="-1"/>
-  <disciplina sigla="ES965" titulo="Projeto de Sistemas Mecatrônicos" cred="-1"/>
+  <disciplina sigla="ES965" titulo="Projeto de Sistemas Mecatronicos" cred="-1"/>
   <disciplina sigla="ET520" titulo="Principios de Conversao de Energia" cred="4"/>
   <disciplina sigla="QG100" titulo="Quimica" cred="4"/>
   <disciplina sigla="GM861" titulo="Mineralogia (Quimica)" cred="-1"/>
@@ -1391,7 +1391,7 @@
   <disciplina sigla="TA918" titulo="Microbiologia e Fermentacoes" cred="-1"/>
   <disciplina sigla="QG091" titulo="Petroleo e Petroquimica" cred="-1"/>
   <disciplina sigla="QG092" titulo="Geoquimica Organica" cred="-1"/>
-  <disciplina sigla="08 cr" titulo="�ditos dentre:" cred="-1"/>
+  <disciplina sigla="08 cr" titulo="Creditos dentre:" cred="-1"/>
   <disciplina sigla="QF573" titulo="Introducao a Analise Termica e Dinamica de Materiais" cred="-1"/>
   <disciplina sigla="QF953" titulo="Reologia e Processamento de Polimeros" cred="-1"/>
   <disciplina sigla="BD101" titulo="Biologia" cred="-1"/>
@@ -1403,7 +1403,7 @@
   <disciplina sigla="GN110" titulo="Ciencia do Sistema Mundo" cred="-1"/>
   <disciplina sigla="GN207" titulo="Introducao ao Sensoriamento Remoto" cred="-1"/>
   <disciplina sigla="GN208" titulo="Ciencia do Sistema Terra II" cred="-1"/>
-  <disciplina sigla="GN301" titulo="Historia das Teorias Econômicas" cred="-1"/>
+  <disciplina sigla="GN301" titulo="Historia das Teorias Economicas" cred="-1"/>
   <disciplina sigla="GN304" titulo="Trabalho de Campo" cred="-1"/>
   <disciplina sigla="QG104" titulo="Quimica" cred="-1"/>
   <disciplina sigla="BT201" titulo="Biogeografia" cred="-1"/>
@@ -1411,7 +1411,7 @@
   <disciplina sigla="GF302" titulo="Sensoriamento Remoto" cred="-1"/>
   <disciplina sigla="GF303" titulo="Geomorfologia" cred="-1"/>
   <disciplina sigla="GF401" titulo="Metodologia da Geografia" cred="-1"/>
-  <disciplina sigla="GF402" titulo="Historia Econômica Politica e Sociedade do Brasil" cred="-1"/>
+  <disciplina sigla="GF402" titulo="Historia Economica Politica e Sociedade do Brasil" cred="-1"/>
   <disciplina sigla="GF403" titulo="Hidrologia e Oceanografia" cred="-1"/>
   <disciplina sigla="GF405" titulo="Geografia do Brasil" cred="-1"/>
   <disciplina sigla="GF406" titulo="Geografia Politica" cred="-1"/>
@@ -1497,8 +1497,8 @@
   <disciplina sigla="GE708" titulo="Geologia de Campo II" cred="-1"/>
   <disciplina sigla="GE711" titulo="Geologia de Hidrocarbonetos" cred="-1"/>
   <disciplina sigla="GE801" titulo="Historia das Ciencias Naturais" cred="-1"/>
-  <disciplina sigla="GE802" titulo="Geotectônica" cred="-1"/>
-  <disciplina sigla="GE803" titulo="Geologia Econômica" cred="-1"/>
+  <disciplina sigla="GE802" titulo="Geotectonica" cred="-1"/>
+  <disciplina sigla="GE803" titulo="Geologia Economica" cred="-1"/>
   <disciplina sigla="GE804" titulo="Sistemas de Informacoes Georreferenciadas" cred="-1"/>
   <disciplina sigla="GE805" titulo="Hidrogeologia" cred="-1"/>
   <disciplina sigla="GE806" titulo="Mecanica de Solos e Rochas" cred="-1"/>
@@ -1522,9 +1522,9 @@
   <disciplina sigla="GE110" titulo="Industria dos minerais nao-metalicos" cred="-1"/>
   <disciplina sigla="GE111" titulo="Depositos Lateriticos" cred="-1"/>
   <disciplina sigla="GE112" titulo="Geocronologia e Geologia Isotopica" cred="-1"/>
-  <disciplina sigla="GE113" titulo="Engenharia Econômica de Recursos Minerais" cred="-1"/>
+  <disciplina sigla="GE113" titulo="Engenharia Economica de Recursos Minerais" cred="-1"/>
   <disciplina sigla="GE114" titulo="Industria dos Minerais Metalicos" cred="-1"/>
-  <disciplina sigla="GE115" titulo="Tecnicas de Microanalise Eletrônica" cred="-1"/>
+  <disciplina sigla="GE115" titulo="Tecnicas de Microanalise Eletronica" cred="-1"/>
   <disciplina sigla="GE116" titulo="Politica e Administracao de Recursos Petroliferos" cred="-1"/>
   <disciplina sigla="GE118" titulo="Planejamento de Recursos Minerais" cred="-1"/>
   <disciplina sigla="GE119" titulo="Greenstone Belts" cred="-1"/>
@@ -1540,7 +1540,7 @@
   <disciplina sigla="GM222" titulo="Direito Ambiental" cred="-1"/>
   <disciplina sigla="GM290" titulo="Elementos de GeoFisica" cred="-1"/>
   <disciplina sigla="HL131" titulo="Linguagem: Descricao e Interpretacao" cred="-1"/>
-  <disciplina sigla="HL132" titulo="Linguagem: Dimens�es S�cio-Historicas" cred="-1"/>
+  <disciplina sigla="HL132" titulo="Linguagem: Dimensoes Socio-Historicas" cred="-1"/>
   <disciplina sigla="HL133" titulo="Linguagem: Autoria e Significacao" cred="-1"/>
   <disciplina sigla="HL134" titulo="Linguagem e Pensamento" cred="-1"/>
   <disciplina sigla="HL135" titulo="Escrita e Oralidade" cred="-1"/>
@@ -1557,8 +1557,8 @@
   <disciplina sigla="LA302" titulo="Praticas de Interpretacao" cred="-1"/>
   <disciplina sigla="LA401" titulo="Linguagem, Diversidade e Ensino" cred="-1"/>
   <disciplina sigla="LA402" titulo="Pesquisa em Linguagem, Diversidade e Ensino" cred="-1"/>
-  <disciplina sigla="LA501" titulo="Formacao do Professor de L�ngua" cred="-1"/>
-  <disciplina sigla="LA602" titulo="Pesquisa em Portugu�s Segunda L�ngua/ L�ngua Estrangeira" cred="-1"/>
+  <disciplina sigla="LA501" titulo="Formacao do Professor de Lingua" cred="-1"/>
+  <disciplina sigla="LA602" titulo="Pesquisa em Portugues Segunda Lingua/ Lingua Estrangeira" cred="-1"/>
   <disciplina sigla="LG021" titulo="Atividades Cientifico-Cultutais I" cred="-1"/>
   <disciplina sigla="LG022" titulo="Atividades Cientifico-Culturais II" cred="-1"/>
   <disciplina sigla="LG023" titulo="Atividades Cientifico-Culturais III" cred="-1"/>
@@ -1566,26 +1566,26 @@
   <disciplina sigla="LG025" titulo="Atividades Cientifico-Culturais V" cred="-1"/>
   <disciplina sigla="LG026" titulo="Atividades Cientifico-Culturais VI" cred="-1"/>
   <disciplina sigla="LG027" titulo="Atividades Cientifico-Culturais VII" cred="-1"/>
-  <disciplina sigla="TL118" titulo="Textos em Teoria, Cratica e Historia Liter�ria I" cred="-1"/>
-  <disciplina sigla="TL222" titulo="Pesquisa XII: Historiografia Liter�ria I" cred="-1"/>
+  <disciplina sigla="TL118" titulo="Textos em Teoria, Cratica e Historia Literaria I" cred="-1"/>
+  <disciplina sigla="TL222" titulo="Pesquisa XII: Historiografia Literaria I" cred="-1"/>
   <disciplina sigla="TL110" titulo="Textos em Teatro I" cred="-1"/>
   <disciplina sigla="TL111" titulo="Textos em Teatro II" cred="-1"/>
   <disciplina sigla="TL112" titulo="Textos em Poesia I" cred="-1"/>
   <disciplina sigla="TL113" titulo="Textos em Poesia II" cred="-1"/>
   <disciplina sigla="TL114" titulo="Textos em Prosa de Ficcao I" cred="-1"/>
   <disciplina sigla="TL115" titulo="Textos em Prosa de Ficcao II" cred="-1"/>
-  <disciplina sigla="TL116" titulo="Textos em Prosa N�o-ficional I" cred="-1"/>
-  <disciplina sigla="TL117" titulo="Textos em Prosa N�o-ficional II" cred="-1"/>
-  <disciplina sigla="TL119" titulo="Textos em Teoria, Cratica e Historia Liter�ria II" cred="-1"/>
+  <disciplina sigla="TL116" titulo="Textos em Prosa Nao-ficional I" cred="-1"/>
+  <disciplina sigla="TL117" titulo="Textos em Prosa Nao-ficional II" cred="-1"/>
+  <disciplina sigla="TL119" titulo="Textos em Teoria, Cratica e Historia Literaria II" cred="-1"/>
   <disciplina sigla="TL145" titulo="Topicos X: Textos em Teatro III" cred="-1"/>
   <disciplina sigla="TL146" titulo="Topicos XI: Textos em Teatro IV" cred="-1"/>
   <disciplina sigla="TL149" titulo="Topicos XII: Textos em Poesia III" cred="-1"/>
   <disciplina sigla="TL152" titulo="Topicos XIV: Textos em Prosa de Ficcao III" cred="-1"/>
   <disciplina sigla="TL153" titulo="Topicos XV: Textos em Prosa de Ficcao IV" cred="-1"/>
-  <disciplina sigla="TL154" titulo="Topicos XVI: Textos em Prosa N�o-Ficcional III" cred="-1"/>
-  <disciplina sigla="TL156" titulo="Topicos XVII: Textos em Prosa N�o-Ficcional IV" cred="-1"/>
-  <disciplina sigla="TL159" titulo="Topicos XVIII: Textos em Teoria, Cratica e Historia Liter�ria III" cred="-1"/>
-  <disciplina sigla="TL161" titulo="Topicos XIX: Textos em Teoria, Cratica e Historia Liter�ria IV" cred="-1"/>
+  <disciplina sigla="TL154" titulo="Topicos XVI: Textos em Prosa Nao-Ficcional III" cred="-1"/>
+  <disciplina sigla="TL156" titulo="Topicos XVII: Textos em Prosa Nao-Ficcional IV" cred="-1"/>
+  <disciplina sigla="TL159" titulo="Topicos XVIII: Textos em Teoria, Cratica e Historia Literaria III" cred="-1"/>
+  <disciplina sigla="TL161" titulo="Topicos XIX: Textos em Teoria, Cratica e Historia Literaria IV" cred="-1"/>
   <disciplina sigla="TL162" titulo="Topicos em Pesquisa XIII: Literatura e Imprensa II" cred="-1"/>
   <disciplina sigla="TL163" titulo="Topicos em Pesquisa XIV: Literatura e Imprensa III" cred="-1"/>
   <disciplina sigla="TL164" titulo="Topicos em Pesquisa XIV: Literatura e Imprensa IV" cred="-1"/>
@@ -1598,11 +1598,11 @@
   <disciplina sigla="TL214" titulo="Pesquisa IV: Literatura e Ensino I" cred="-1"/>
   <disciplina sigla="TL215" titulo="Pesquisa V:Literatura e suas Fontes HistoricasI" cred="-1"/>
   <disciplina sigla="TL216" titulo="Pesquisa VI: Literatura e Praticas de Leitura I" cred="-1"/>
-  <disciplina sigla="TL217" titulo="Pesquisa VII: Traduacao Liter�riaI" cred="-1"/>
-  <disciplina sigla="TL218" titulo="Pesquisa VIII: Temas e Quest�es de Literatura Brasileira I" cred="-1"/>
+  <disciplina sigla="TL217" titulo="Pesquisa VII: Traduacao LiterariaI" cred="-1"/>
+  <disciplina sigla="TL218" titulo="Pesquisa VIII: Temas e Questoes de Literatura Brasileira I" cred="-1"/>
   <disciplina sigla="TL219" titulo="Pesquisa IX: Literatura e Arquivos I" cred="-1"/>
-  <disciplina sigla="TL220" titulo="Pesquisa X: Teoria Liter�ria I" cred="-1"/>
-  <disciplina sigla="TL221" titulo="Pesquisa XI: Cratica Liter�ria I" cred="-1"/>
+  <disciplina sigla="TL220" titulo="Pesquisa X: Teoria Literaria I" cred="-1"/>
+  <disciplina sigla="TL221" titulo="Pesquisa XI: Cratica Literaria I" cred="-1"/>
   <disciplina sigla="TL223" titulo="Topicos em Pesquisa XVIII: Literatura e Suportes Materiais II" cred="-1"/>
   <disciplina sigla="TL224" titulo="Topicos em Pesquisa XX: Literatura e Suportes Materiais III" cred="-1"/>
   <disciplina sigla="TL225" titulo="Topicos em Pesquisa XX: Literatura e Suportes Materiais IV" cred="-1"/>
@@ -1617,22 +1617,22 @@
   <disciplina sigla="TL237" titulo="Topicos em Pesquisa XXIX: Literatura e Praticas de Leitura IV" cred="-1"/>
   <disciplina sigla="TL239" titulo="Topicos em Pesquisa XXX: Traducao Literia II" cred="-1"/>
   <disciplina sigla="TL240" titulo="Topicos em Pesquisa XXXI: Traducao Literia III" cred="-1"/>
-  <disciplina sigla="TL241" titulo="Topicos em Pesquisa XXXII: Traducao Liter�ria IV" cred="-1"/>
-  <disciplina sigla="TL242" titulo="Topicos em Pesquisa XXXIII: Temas e Quest�es de Literatura Brasileira II" cred="-1"/>
-  <disciplina sigla="TL243" titulo="Topicos em Pesquisa XXXIV: Temas e Quest�es de Literatura Brasileira III" cred="-1"/>
-  <disciplina sigla="TL244" titulo="Topicos em Pesquisa XXXV: Temas e Quest�es de Literatura Brasileira V" cred="-1"/>
+  <disciplina sigla="TL241" titulo="Topicos em Pesquisa XXXII: Traducao Literaria IV" cred="-1"/>
+  <disciplina sigla="TL242" titulo="Topicos em Pesquisa XXXIII: Temas e Questoes de Literatura Brasileira II" cred="-1"/>
+  <disciplina sigla="TL243" titulo="Topicos em Pesquisa XXXIV: Temas e Questoes de Literatura Brasileira III" cred="-1"/>
+  <disciplina sigla="TL244" titulo="Topicos em Pesquisa XXXV: Temas e Questoes de Literatura Brasileira V" cred="-1"/>
   <disciplina sigla="TL245" titulo="Topicos em Pesquisa XXXVI: Literatura e Arquivos II" cred="-1"/>
   <disciplina sigla="TL246" titulo="Topicos em Pesquisa XXXVII: Literatura e Arquivos III" cred="-1"/>
   <disciplina sigla="TL247" titulo="Topicos em Pesquisa XXXVIII: Literatura e Arquivos IV" cred="-1"/>
-  <disciplina sigla="TL248" titulo="Topicos em Pesquisa XXXIX: Teoria Liter�ria II" cred="-1"/>
-  <disciplina sigla="TL249" titulo="Topicos em Pesquisa XL: Teoria Liter�ria III" cred="-1"/>
-  <disciplina sigla="TL250" titulo="Topicos em Pesquisa XL: Teoria Liter�ria IV" cred="-1"/>
-  <disciplina sigla="TL251" titulo="Topicos em Pesquisa XLII: Cratica Liter�ria II" cred="-1"/>
-  <disciplina sigla="TL252" titulo="Topicos em Pesquisa XLIII: Cratica Liter�ria III" cred="-1"/>
-  <disciplina sigla="TL253" titulo="Topicos em Pesquisa XLIV: Cratica Liter�ria IV" cred="-1"/>
-  <disciplina sigla="TL254" titulo="Topicos em Pesquisa XLV: Historiografia Liter�ria II" cred="-1"/>
-  <disciplina sigla="TL256" titulo="Topicos em Pesquisa XLVI: Historiografia Liter�ria III" cred="-1"/>
-  <disciplina sigla="TL257" titulo="Topicos em Pesquisa XLVII: Historiografia Liter�ria IV" cred="-1"/>
+  <disciplina sigla="TL248" titulo="Topicos em Pesquisa XXXIX: Teoria Literaria II" cred="-1"/>
+  <disciplina sigla="TL249" titulo="Topicos em Pesquisa XL: Teoria Literaria III" cred="-1"/>
+  <disciplina sigla="TL250" titulo="Topicos em Pesquisa XL: Teoria Literaria IV" cred="-1"/>
+  <disciplina sigla="TL251" titulo="Topicos em Pesquisa XLII: Cratica Literaria II" cred="-1"/>
+  <disciplina sigla="TL252" titulo="Topicos em Pesquisa XLIII: Cratica Literaria III" cred="-1"/>
+  <disciplina sigla="TL253" titulo="Topicos em Pesquisa XLIV: Cratica Literaria IV" cred="-1"/>
+  <disciplina sigla="TL254" titulo="Topicos em Pesquisa XLV: Historiografia Literaria II" cred="-1"/>
+  <disciplina sigla="TL256" titulo="Topicos em Pesquisa XLVI: Historiografia Literaria III" cred="-1"/>
+  <disciplina sigla="TL257" titulo="Topicos em Pesquisa XLVII: Historiografia Literaria IV" cred="-1"/>
   <disciplina sigla="HL904" titulo="Investigacao Cientifica I" cred="-1"/>
   <disciplina sigla="HL905" titulo="Investigacao Cientifica II" cred="-1"/>
   <disciplina sigla="HL906" titulo="Investigacao Cientifica III" cred="-1"/>
@@ -1653,18 +1653,18 @@
   <disciplina sigla="TL304" titulo="Topicos Especiais em Literatura Comparada I" cred="-1"/>
   <disciplina sigla="TL305" titulo="Topicos Especiais em Literatura Comparada II" cred="-1"/>
   <disciplina sigla="TL306" titulo="Topicos Especiais em Literatura Comparada III" cred="-1"/>
-  <disciplina sigla="TL311" titulo="Topicos Especiais em Literatura em L�ngua Inglesa I" cred="-1"/>
-  <disciplina sigla="TL312" titulo="Topicos Especiais em Literatura em L�ngua Inglesa II" cred="-1"/>
-  <disciplina sigla="TL313" titulo="Topicos Especiais em Literatura em L�ngua Inglesa III" cred="-1"/>
-  <disciplina sigla="TL314" titulo="Topicos Especiais em Literatura em L�ngua Francesa I" cred="-1"/>
-  <disciplina sigla="TL315" titulo="Topicos Especiais em Literatura em L�ngua Francesa II" cred="-1"/>
-  <disciplina sigla="TL316" titulo="Topicos Especiais em Literatura em L�ngua Francesa III" cred="-1"/>
-  <disciplina sigla="TL317" titulo="Topicos Especiais em Literatura em L�ngua Alem� I" cred="-1"/>
-  <disciplina sigla="TL319" titulo="Topicos Especiais em Literatura em L�ngua Alem� II" cred="-1"/>
-  <disciplina sigla="TL321" titulo="Topicos Especiais em Literatura em L�ngua Alem� III" cred="-1"/>
-  <disciplina sigla="TL322" titulo="Topicos Especiais em Literatura em L�nguas Estrangeiras I" cred="-1"/>
-  <disciplina sigla="TL323" titulo="Topicos Especiais em Literatura em L�nguas Estrangeiras II" cred="-1"/>
-  <disciplina sigla="TL324" titulo="Topicos Especiais em Literatura em L�nguas Estrangeiras III" cred="-1"/>
+  <disciplina sigla="TL311" titulo="Topicos Especiais em Literatura em Lingua Inglesa I" cred="-1"/>
+  <disciplina sigla="TL312" titulo="Topicos Especiais em Literatura em Lingua Inglesa II" cred="-1"/>
+  <disciplina sigla="TL313" titulo="Topicos Especiais em Literatura em Lingua Inglesa III" cred="-1"/>
+  <disciplina sigla="TL314" titulo="Topicos Especiais em Literatura em Lingua Francesa I" cred="-1"/>
+  <disciplina sigla="TL315" titulo="Topicos Especiais em Literatura em Lingua Francesa II" cred="-1"/>
+  <disciplina sigla="TL316" titulo="Topicos Especiais em Literatura em Lingua Francesa III" cred="-1"/>
+  <disciplina sigla="TL317" titulo="Topicos Especiais em Literatura em Lingua Alema I" cred="-1"/>
+  <disciplina sigla="TL319" titulo="Topicos Especiais em Literatura em Lingua Alema II" cred="-1"/>
+  <disciplina sigla="TL321" titulo="Topicos Especiais em Literatura em Lingua Alema III" cred="-1"/>
+  <disciplina sigla="TL322" titulo="Topicos Especiais em Literatura em Linguas Estrangeiras I" cred="-1"/>
+  <disciplina sigla="TL323" titulo="Topicos Especiais em Literatura em Linguas Estrangeiras II" cred="-1"/>
+  <disciplina sigla="TL324" titulo="Topicos Especiais em Literatura em Linguas Estrangeiras III" cred="-1"/>
   <disciplina sigla="TL904" titulo="Investigacao Cientifica I" cred="-1"/>
   <disciplina sigla="TL905" titulo="Investigacao Cientifica II" cred="-1"/>
   <disciplina sigla="TL906" titulo="Investigacao Cientifica III" cred="-1"/>
@@ -1672,14 +1672,14 @@
   <disciplina sigla="HL071" titulo="Estagio Supervisionado" cred="-1"/>
   <disciplina sigla="LA071" titulo="Estagio Supervisionado" cred="-1"/>
   <disciplina sigla="TL071" titulo="Estagio Supervisionado" cred="-1"/>
-  <disciplina sigla="LA312" titulo="Ingl�s III" cred="-1"/>
-  <disciplina sigla="LA412" titulo="Ingl�s IV" cred="-1"/>
-  <disciplina sigla="LA313" titulo="Franc�s III" cred="-1"/>
-  <disciplina sigla="LA413" titulo="Franc�s IV" cred="-1"/>
-  <disciplina sigla="LA114" titulo="Alem�o I" cred="-1"/>
-  <disciplina sigla="LA214" titulo="Alem�o II" cred="-1"/>
-  <disciplina sigla="LA314" titulo="Alem�o III" cred="-1"/>
-  <disciplina sigla="LA414" titulo="Alem�o IV" cred="-1"/>
+  <disciplina sigla="LA312" titulo="Ingles III" cred="-1"/>
+  <disciplina sigla="LA412" titulo="Ingles IV" cred="-1"/>
+  <disciplina sigla="LA313" titulo="Frances III" cred="-1"/>
+  <disciplina sigla="LA413" titulo="Frances IV" cred="-1"/>
+  <disciplina sigla="LA114" titulo="Alemao I" cred="-1"/>
+  <disciplina sigla="LA214" titulo="Alemao II" cred="-1"/>
+  <disciplina sigla="LA314" titulo="Alemao III" cred="-1"/>
+  <disciplina sigla="LA414" titulo="Alemao IV" cred="-1"/>
   <disciplina sigla="LA119" titulo="Espanhol I" cred="4"/>
   <disciplina sigla="LA219" titulo="Espanhol II" cred="-1"/>
   <disciplina sigla="LA319" titulo="Espanhol III" cred="-1"/>
@@ -1850,7 +1850,7 @@
   <disciplina sigla="CS203" titulo="Planejamento e Producao de Produtos Audiovisuais" cred="4"/>
   <disciplina sigla="CS204" titulo="Comunicacao, Cultura e Sociedade" cred="4"/>
   <disciplina sigla="CS205" titulo="Tecnologias da Informacao e da Comunicacao" cred="4"/>
-  <disciplina sigla="CS300" titulo="Recursos Eletrônicos Aplicados a Producao Sonora" cred="4"/>
+  <disciplina sigla="CS300" titulo="Recursos Eletronicos Aplicados a Producao Sonora" cred="4"/>
   <disciplina sigla="CS301" titulo="Historia do Radio" cred="4"/>
   <disciplina sigla="CS302" titulo="Historia da TV e do Video" cred="4"/>
   <disciplina sigla="CS303" titulo="Edicao de Produtos Audiovisuais" cred="4"/>
@@ -1940,7 +1940,7 @@
   <disciplina sigla="ST575" titulo="Quimica da Poluicao Ambiental" cred="4"/>
   <disciplina sigla="ST671" titulo="Gerenciamento de Residuos Solidos" cred="4"/>
   <disciplina sigla="ST672" titulo="Monitoramento Ambiental" cred="4"/>
-  <disciplina sigla="ST673" titulo="Estudos Econômicos da Poluicao" cred="2"/>
+  <disciplina sigla="ST673" titulo="Estudos Economicos da Poluicao" cred="2"/>
   <disciplina sigla="ST674" titulo="Planejamento Ambiental" cred="2"/>
   <disciplina sigla="ST675" titulo="Controle de Poluicao do Ar" cred="4"/>
   <disciplina sigla="ST676" titulo="Ecologia Aplicada ao Saneamento" cred="2"/>
@@ -1984,16 +1984,16 @@
   <disciplina sigla="TT207" titulo="Probabilidades e Teoria da Informacao" cred="6"/>
   <disciplina sigla="TT208" titulo="Metodos Matematicos para Telecominicacoes" cred="4"/>
   <disciplina sigla="TT209" titulo="Introducao ao Eletromagnetismo" cred="2"/>
-  <disciplina sigla="TT210" titulo="Circuitos Eletrônicos" cred="2"/>
+  <disciplina sigla="TT210" titulo="Circuitos Eletronicos" cred="2"/>
   <disciplina sigla="TT301" titulo="Eletromagnetismo" cred="6"/>
-  <disciplina sigla="TT306" titulo="Circuitos Eletrônicos II" cred="6"/>
+  <disciplina sigla="TT306" titulo="Circuitos Eletronicos II" cred="6"/>
   <disciplina sigla="TT307" titulo="Fundamentos dos Materiais Eletricos" cred="2"/>
   <disciplina sigla="TT308" titulo="Fundamentos para Processamento Digital de Sinais" cred="2"/>
   <disciplina sigla="TT401" titulo="Microcontroladores" cred="4"/>
   <disciplina sigla="TT402" titulo="Ondas Guiadas" cred="6"/>
-  <disciplina sigla="TT405" titulo="Eletrônica de Alta Frequencia" cred="6"/>
+  <disciplina sigla="TT405" titulo="Eletronica de Alta Frequencia" cred="6"/>
   <disciplina sigla="TT501" titulo="Propagacao de Ondas Eletromagneticas Antenas" cred="4"/>
-  <disciplina sigla="TT503" titulo="Dispositivos Fotônicos" cred="2"/>
+  <disciplina sigla="TT503" titulo="Dispositivos Fotonicos" cred="2"/>
   <disciplina sigla="TT507" titulo="Sistema de Telecomunicacoes" cred="6"/>
   <disciplina sigla="TT602" titulo="Comunicacoes Moveis" cred="4"/>
   <disciplina sigla="TT603" titulo="Comunicacoes opticas" cred="4"/>
@@ -2001,11 +2001,11 @@
   <disciplina sigla="TT083" titulo="Conceitos de Televisao" cred="-1"/>
   <disciplina sigla="TT084" titulo="Microondas" cred="4"/>
   <disciplina sigla="TT086" titulo="Microcontroladores II" cred="-1"/>
-  <disciplina sigla="TT087" titulo="Eletrônica de Potencia" cred="-1"/>
+  <disciplina sigla="TT087" titulo="Eletronica de Potencia" cred="-1"/>
   <disciplina sigla="TT089" titulo="Comutacao em Telecomunicacoes" cred="-1"/>
   <disciplina sigla="TT090" titulo="Conversao de Energia" cred="-1"/>
   <disciplina sigla="TT092" titulo="Resistencia de Materiais" cred="-1"/>
-  <disciplina sigla="TT093" titulo="Fenômenos de Transporte" cred="-1"/>
+  <disciplina sigla="TT093" titulo="Fenomenos de Transporte" cred="-1"/>
   <disciplina sigla="TT094" titulo="Automacao e Controle" cred="4"/>
   <disciplina sigla="TT095" titulo="Topicos em Circuitos Digitais" cred="-1"/>
   <disciplina sigla="TT097" titulo="Introducao a Fisica Moderna" cred="-1"/>
