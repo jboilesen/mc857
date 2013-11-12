@@ -16,33 +16,7 @@
                 <input type="text" name="ra" id="ra" maxlength="6" />
                 <input type="submit" name="submit" value="Gerar Integraliza&ccedil;&atilde;o" />
                 </fieldset>
-                <div id="div_aluno" style="margin-top: 10px;">
-                    <table>
-                        <tr>
-                            <td>
-                                <label>RA</label>
-                            </td>
-                            <td>
-                                <label >Nome</label>
-                            </td>
-                            <td>
-                                <label>Curso</label>
-                            </td>
-                        </tr>
-                        <tr>
-                            <td>
-                                <input id="input_ra" style="width: 100px" disabled="true"/>
-                            </td>
-                            <td>
-                                <input id="input_nome" style="width: 250px" disabled="true"/>
-                            </td>
-                            <td>
-                                <input id="input_curso" style="width: 300px" disabled="true"/>
-                            </td>
-                        </tr>
-                    </table>
-                    <!-- text-decoration: line-through-->
-                </div>
+                
             </form>
         
         <div id="integralizacao">
