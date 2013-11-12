@@ -31,7 +31,7 @@
                         </tr>
                         <tr>
                             <td>
-                                <input id="input_ra" style="width: 80px" disabled="true"/>
+                                <input id="input_ra" style="width: 100px" disabled="true"/>
                             </td>
                             <td>
                                 <input id="input_nome" style="width: 250px" disabled="true"/>
