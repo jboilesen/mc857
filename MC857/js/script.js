@@ -14,9 +14,11 @@ $(document).on("submit", 'form', function(event) {
         $("#input_ra").val(integraliz.aluno.ra);
         $("#input_nome").val(integraliz.aluno.nome);
         $("#input_curso").val(integraliz.curso.nome);
-        creditos_qq_disciplina = 0;
+        creditos_qq_disciplina_eletiva = 0;
+        creditos_qq_disciplina_eletiva_mod = 0;
         //soh pd eliminar essas diciplinas depois de ter verificado todas as disciplinas
         id_div_creditos_qq_disciplina = '';
+        id_div_creditos_qq_disciplina_mod = '';
         montar_integralizacao(integraliz);
     }
     );
@@ -47,8 +49,13 @@ function montar_integralizacao(integralizacao) {
             montar_eletiva_mod(integralizacao.curso.modalidades[0].eletivas, integralizacao.historico, "#div_eletivas_mod");
         }
     }
-    if (integralizacao.curso.hasOwnProperty("eletivas")) {
-        elimina_qq_disciplina(integralizacao.historico);
+
+    if (creditos_qq_disciplina_eletiva > 0) {
+        elimina_qq_disciplina(integralizacao.historico, creditos_qq_disciplina_eletiva, id_div_creditos_qq_disciplina_eletiva);
+    }
+
+    if (creditos_qq_disciplina_eletiva_mod > 0) {
+        elimina_qq_disciplina(integralizacao.historico, creditos_qq_disciplina_eletiva_mod, id_div_creditos_qq_disciplina_mod);
     }
     var remover = 0;
     if ($('#div_nucleo_comum').children().length === 0) {
@@ -72,6 +79,7 @@ function montar_integralizacao(integralizacao) {
             remover === 2) {
         $('#id_label_disciplinas_rest').html("Integraliza&ccedil;&atilde;o Completa! Aluno(a) cumpriu todas mat&eacute;rias do curr&iacute;culo.");
     }
+    imprime_extra_curriculares(integralizacao.historico, '#div_aluno');
 }
 
 function montar_obrigatoria(jsCatalogo, jsHistorico, id_div_pai) {
@@ -112,7 +120,6 @@ function montar_modalidade(jsCatalogo, jsHistorico, id_div_pai) {
     var ii = -1;
     var j = 0;
     var creditos_feitos = 0;
-    //alert(jsCatalogo.length);
     for (i = 0; i < jsCatalogo.length; i++) {
 
         if (ii < 0) {
@@ -141,14 +148,17 @@ function montar_modalidade(jsCatalogo, jsHistorico, id_div_pai) {
 function montar_eletiva_comum(jsCatalogo, jsHistorico, id_div_pai) {
     for (k = 0; k < jsCatalogo.length; k++) {
         var eletivas = jsCatalogo[k];
+
         var creditos_eletiva = eletivas["cred"];
         eletivas = eletivas.disciplinas;
+
         var ii = -1;
         var j = 0;
         $.each(jsHistorico, function(sigla) {
-            if ($.inArray(sigla, eletivas) > 0) {
+            if ($.inArray(sigla, eletivas) >= 0) {
                 creditos_eletiva = creditos_eletiva - jsHistorico[sigla];
                 delete jsHistorico[sigla];
+
                 eletivas.splice($.inArray(sigla, eletivas), 1);
                 if (creditos_eletiva <= 0) {
                     return false;
@@ -160,12 +170,14 @@ function montar_eletiva_comum(jsCatalogo, jsHistorico, id_div_pai) {
             $('<label></label>').css({"font-size": "14px"}).html(creditos_eletiva + " cr&eacute;ditos em:").appendTo("#div_eletiva_" + k);
             $('<table></table>').attr({id: "id_table_eletiva_" + k}).appendTo("#div_eletiva_" + k);
             var sigla_;
+
             for (i = 0; i < eletivas.length; i++) {
                 if (eletivas[i].indexOf("-") > 0) {
                     sigla_ = eletivas[i].replace(/-/g, "");
                     $.each(jsHistorico, function(sigla) {
                         if (sigla.indexOf(sigla_) >= 0) {
                             creditos_eletiva = creditos_eletiva - jsHistorico[sigla];
+                            //alert(sigla+'   '+k);
                             delete jsHistorico[sigla];
                             if (creditos_eletiva <= 0) {
                                 $("#div_eletiva_" + k).remove();
@@ -175,16 +187,16 @@ function montar_eletiva_comum(jsCatalogo, jsHistorico, id_div_pai) {
                     });
                 } else {
                     if (eletivas[i].indexOf("-----") >= 0) {
-                        creditos_qq_disciplina += creditos_eletiva;
-                        id_div_creditos_qq_disciplina = '#div_eletiva_' + k;
+                        creditos_qq_disciplina_eletiva += creditos_eletiva;
 
-                        $(id_div_creditos_qq_disciplina).empty();
-                        $(id_div_creditos_qq_disciplina).removeAttr('style');
+                        id_div_creditos_qq_disciplina_eletiva = '#div_eletiva_' + k;
+
+                        $(id_div_creditos_qq_disciplina_eletiva).empty();
+                        $(id_div_creditos_qq_disciplina_eletiva).removeAttr('style');
                         break;
                     }
                 }
                 if (creditos_eletiva <= 0) {
-                    $("#div_eletiva_" + k).remove();
                     break;
                 }
                 if (ii < 0) {
@@ -200,6 +212,7 @@ function montar_eletiva_comum(jsCatalogo, jsHistorico, id_div_pai) {
             }
         }
     }
+
 }
 
 function montar_eletiva_mod(jsCatalogo, jsHistorico, id_div_pai) {
@@ -211,22 +224,22 @@ function montar_eletiva_mod(jsCatalogo, jsHistorico, id_div_pai) {
         var j = 0;
 
         $.each(jsHistorico, function(sigla) {
-            if ($.inArray(sigla, eletivas) > 0) {
+            if ($.inArray(sigla, eletivas) >= 0) {
                 creditos_eletiva = creditos_eletiva - jsHistorico[sigla];
                 delete jsHistorico[sigla];
+                alert(sigla);
                 eletivas.splice($.inArray(sigla, eletivas), 1);
                 if (creditos_eletiva <= 0) {
                     return false;
                 }
             }
         });
-
         if (creditos_eletiva > 0) {
-            $("#id_div_pai").html("");
             $(id_div_pai).append('<div id="div_eletiva_mod_' + k + '"></div>');
             $('<label></label>').css({"font-size": "14px"}).html(creditos_eletiva + " cr&eacute;ditos em:").appendTo("#div_eletiva_mod_" + k);
             $('<table></table>').attr({id: "id_table_eletiva_mod_" + k}).appendTo("#div_eletiva_mod_" + k);
             var sigla_;
+
             for (i = 0; i < eletivas.length; i++) {
                 if (eletivas[i].indexOf("-") > 0) {
                     sigla_ = eletivas[i].replace(/-/g, "");
@@ -235,13 +248,23 @@ function montar_eletiva_mod(jsCatalogo, jsHistorico, id_div_pai) {
                             creditos_eletiva = creditos_eletiva - jsHistorico[sigla];
                             delete jsHistorico[sigla];
                             if (creditos_eletiva <= 0) {
-                                $("#div_eletiva_mod_" + k).empty();
+                                $("#div_eletiva_mod_" + k).remove();
                                 return false;
                             }
                         }
                     });
+                } else {
+                    if (eletivas[i].indexOf("-----") >= 0) {
+                        creditos_qq_disciplina_eletiva_mod += creditos_eletiva;
+                        id_div_creditos_qq_disciplina_mod = '#div_eletiva_mod_' + k;
+                        $(id_div_creditos_qq_disciplina_mod).empty();
+                        $(id_div_creditos_qq_disciplina_mod).removeAttr('style');
+
+                        break;
+                    }
                 }
                 if (creditos_eletiva <= 0) {
+                    $('#div_eletiva_mod_' + k).remove();
                     break;
                 }
                 if (ii < 0) {
@@ -261,8 +284,9 @@ function montar_eletiva_mod(jsCatalogo, jsHistorico, id_div_pai) {
 }
 
 //Depois de percorrer todo o historico, verifica opcao -----(tantos creditos qualquer disciplina Unicamp)
-function elimina_qq_disciplina(jsHistorico) {
-    var creditos_eletiva = creditos_qq_disciplina;
+function elimina_qq_disciplina(jsHistorico, cred, id_cred) {
+    var creditos_eletiva = cred;
+    var id_div_creditos_qq_disciplina = id_cred;
     $.each(jsHistorico, function(sigla) {
         creditos_eletiva = creditos_eletiva - jsHistorico[sigla];
         delete jsHistorico[sigla];
@@ -278,5 +302,33 @@ function elimina_qq_disciplina(jsHistorico) {
         $(id_div_creditos_qq_disciplina).remove();
     }
 }
+
+//Imprime extra curriculares
+function imprime_extra_curriculares(jsHistorico, id_div_pai) {
+    $(id_div_pai).append('<div id="div_extra" style="margin-top:10px;"></div>');
+    $('<label></label>').css({"font-size": "14px"}).html("===Extra curriculares===").appendTo('#div_extra');
+    $('<table></table>').attr({id: "id_table_extra"}).appendTo("#div_extra");
+    var ii = -1;
+    var j = 0;
+    $.each(jsHistorico, function(sigla) {
+        if (ii < 0) {
+            $('<tr></tr>').attr({id: "id_tr_extra_" + j}).appendTo("#id_table_extra");
+            ii++;
+        }
+        $('<td></td>').appendTo("#id_tr_extra_" + j).html(sigla + ':' + jsHistorico[sigla]);
+        ii++;
+        if (ii > 4) {
+            ii = -1;
+            j++;
+        }
+    });
+    if ($('#id_table_extra').children().length === 0) {
+        $('#div_extra').remove();
+    }
+
+}
+
+
+
 
 
