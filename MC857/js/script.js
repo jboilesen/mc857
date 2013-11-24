@@ -1,29 +1,42 @@
+
 $(document).on("submit", 'form', function(event) {
     event.preventDefault();
-    $.post($(this).attr("action"),
-            {name: $(this).attr("name"), form: $(this).serializeArray()},
-    function(value) {
-        $("#integralizacao").html(value);
-        var integraliz = JSON.parse(value);
-        $("#integralizacao").empty();
-        $("#div_aluno").remove();
-        $("#form_integralizacao").append('<div id="div_aluno" style="margin-top: 10px;"><table><tr><td><label>RA</label></td><td><label >Nome</label></td><td><label>Curso</label></td></tr><tr><td><input id="input_ra" style="width: 100px" disabled="true"/></td><td><input id="input_nome" style="width: 250px" disabled="true"/></td><td><input id="input_curso" style="width: 500px" disabled="true"/></td></tr></table></div>');
-        $("#id_table_nucleo_comum").empty();
-        $("#div_aluno").append('<label id="id_label_disciplinas_rest" style="font-weight: bold; font-size: 20px;">Disciplinas Restantes:</label>');
-        $('<br/><br/>').appendTo("#div_aluno");
-        $("#input_ra").val(integraliz.aluno.ra);
-        $("#input_nome").val(integraliz.aluno.nome);
-        $("#input_curso").val(integraliz.curso.nome);
-        //var start = new Date().getMilliseconds();
-        montar_integralizacao(integraliz);
-        /*var stop = new Date().getMilliseconds();
-        var executionTime = stop - start;
+    $("#id_teste").html('<img src="./css/images/loading_bar.gif" >');
+    $.post($(this).attr("action"), {name: $(this).attr("name"), form: $(this).serializeArray()},
+    function() {
+        $("#id_teste").html('<img src="./css/images/loading_bar.gif" >');
+    })
+            .success(
+                    function(value) {
+                        $("#integralizacao").html(value);
+                        var integraliz = JSON.parse(value);
+                        $("#integralizacao").empty();
+                        $("#div_aluno").remove();
+                        $("#form_integralizacao").append('<div id="div_aluno" style="margin-top: 10px;"><table><tr><td><label>RA</label></td><td><label >Nome</label></td><td><label>Curso</label></td></tr><tr><td><input id="input_ra" style="width: 100px" disabled="true"/></td><td><input id="input_nome" style="width: 250px" disabled="true"/></td><td><input id="input_curso" style="width: 500px" disabled="true"/></td></tr></table></div>');
+                        $("#id_table_nucleo_comum").empty();
+                        $("#div_aluno").append('<label id="id_label_disciplinas_rest" style="font-weight: bold; font-size: 20px;">Disciplinas Restantes:</label>');
+                        $('<br/><br/>').appendTo("#div_aluno");
+                        $("#input_ra").val(integraliz.aluno.ra);
+                        $("#input_nome").val(integraliz.aluno.nome);
+                        $("#input_curso").val(integraliz.curso.nome);
+                        //var start = new Date().getMilliseconds();
 
-        alert("Tempo de execucao:" + executionTime + " milisegundos");*/
-    }
-    );
-    return true;
+
+                        montar_integralizacao(integraliz);
+                        $("#id_teste").remove();
+                        //var stop = new Date().getMilliseconds();
+                        //var executionTime = stop - start;
+
+                        //alert("Tempo de execucao:" + executionTime + " milisegundos");
+                        return true;
+                    })
+            .complete(function() {
+                $("#id_teste").remove();
+            });
 });
+
+
+
 
 // Monta um objeto json como um array de grupo de eletivas
 function montar_grupos_eletiva(catalogo, grupo_eletivas) {
@@ -72,20 +85,14 @@ function montar_integralizacao(integralizacao) {
     }
     json_grupo_eletivas = {eletivas: []};
     montar_grupos_eletiva(integralizacao.curso, json_grupo_eletivas);
-
     historico = integralizacao.historico;
-
     var grupo_eletivas = json_grupo_eletivas.eletivas;
     tamanho_hist = tamanho_historico(historico);
-
     contador = 0;
     $("div_aluno").append('.');
     var t = tenta(0, grupo_eletivas);
-
-
     $("#div_aluno").append('<div id="div_eletivas" style="margin-top:10px; margin-left:10px;" ></div>');
     exibir_eletivas_restantes(historico, grupo_eletivas, "#div_eletivas");
-
     var remover = false;
     if ($('#div_nucleo_comum').children().length === 0) {
         $('#div_nucleo_comum').remove();
@@ -103,8 +110,6 @@ function montar_integralizacao(integralizacao) {
         $('#id_label_disciplinas_rest').html("Integraliza&ccedil;&atilde;o Completa! Aluno(a) cumpriu todas mat&eacute;rias do curr&iacute;culo.");
     }
     imprime_extra_curriculares(integralizacao.historico, '#div_aluno');
-
-
 }
 
 // Eliminar do historico as disciplinas obrigatorias jah cursadas
@@ -234,7 +239,6 @@ function pertence_grupo(disciplina, grupo) {
 function get_disciplina_hist(hist, i) {
     var cont = 0;
     var disciplina = {"cod": '', "cred": 0};
-
     $.each(hist, function(d) {
         if (cont === i) {
             disciplina.cod = d;
@@ -275,7 +279,7 @@ function tenta(i, t_grupo_eletivas) {
         return true;
     }
     if (i >= tamanho_hist) {
-        //alert(JSON.stringify(t_grupo_eletivas));
+//alert(JSON.stringify(t_grupo_eletivas));
         copiar_solucao(t_grupo_eletivas);
         return false;
     }
@@ -296,7 +300,7 @@ function tenta(i, t_grupo_eletivas) {
         }
     }
     if (achou === false & cont_associada === 0) {
-        //alert(disciplina.cod);
+//alert(disciplina.cod);
         achou = tenta(i + 1, t_grupo_eletivas);
     }
     return achou;
@@ -310,7 +314,6 @@ function exibir_eletivas_restantes(historico, grupo_eletivas, id_div_pai) {
     for (var k = 0; k < grupo_eletivas.length; k++) {
         var g_eletiva = grupo_eletivas[k];
         var cred_restantes = g_eletiva.cred;
-
         $.each(historico, function(d) {
             if ($.inArray(d, g_eletiva.alocacao_final) >= 0) {
                 cred_restantes -= historico[d];
@@ -326,7 +329,6 @@ function exibir_eletivas_restantes(historico, grupo_eletivas, id_div_pai) {
         });
         var ii = -1;
         var j = 0;
-
         if (cred_restantes > 0) {
 
             $(id_div_pai).append('<div id="div_eletiva_' + k + '" style="margin-top:10px;" ></div>');

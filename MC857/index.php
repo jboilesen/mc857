@@ -14,13 +14,16 @@
                 <fieldset>
             <legend>Integraliza&ccedil;&atilde;o Curricular</legend>
                 <input type="text" name="ra" id="ra" maxlength="6" />
-                <input type="submit" name="submit" value="Gerar Integraliza&ccedil;&atilde;o" />
+                 
+                <input id="id_botao"  type="submit" name="submit"  value="Gerar Integraliza&ccedil;&atilde;o" />
                 </fieldset>
                 
             </form>
         
         <div id="integralizacao">
         </div>
+        
+        <div id="id_teste"></div>
 
     </body>
 </html>
