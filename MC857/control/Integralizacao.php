@@ -26,7 +26,7 @@ if (isset($_POST["form"]) && isset($_POST["name"]) && $_POST["name"] == "integra
     $xml_parser = xml_parser_create();
     xml_parse_into_struct($xml_parser, Servidor::getHistorico($ra), $historico_xml, $index);
     if ($historico_xml === false) {
-    	exit("<h2>Houston, we have a problem! - Dados do servidor inconsistentes.</h2>");
+    	exit("<h2>Dados do servidor inconsistentes (Histórico não encontrado).</h2>");
     	die();
     }
     xml_parser_free($xml_parser);
@@ -56,7 +56,7 @@ if (isset($_POST["form"]) && isset($_POST["name"]) && $_POST["name"] == "integra
     // Busca o catalogo no servidor
     $xml = simplexml_load_file(Servidor::getCurso($aluno["curso"]));
     if ($xml === false) {
-        exit("<h2>Houston, we have a problem! - Dados do servidor inconsistentes.</h2>");
+        exit("<h2>Dados do servidor inconsistentes (Catálogo não encontrado).</h2>");
         die();
     }
 
@@ -84,7 +84,7 @@ if (isset($_POST["form"]) && isset($_POST["name"]) && $_POST["name"] == "integra
                     $obrigatoria = (string) $disciplina["sigla"];
                     $xml_obrigatoria = simplexml_load_file(Servidor::getDisciplina($obrigatoria));
                     if ($xml_obrigatoria === false) {
-                    	exit("<h2>Problemas com os dados do servidor!</h2>");
+                    	exit("<h2>Problemas com os dados do servidor.</h2>");
                     	die();
                     }
                     $curso["obrigatorias"][$obrigatoria] = intval($xml_obrigatoria["cred"]);
